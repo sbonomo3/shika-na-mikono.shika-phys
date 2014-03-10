@@ -1,0 +1,507 @@
+
+\contentsline {part}{I\hspace {1em}Hands-On Activities}{7}{part.1}
+\contentsline {chapter}{\numberline {1}Physics Activities for Form I}{8}{chapter.1}
+\contentsline {section}{\numberline {1.1}Measurement and Density/Relative Density}{8}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Construction of a Metre Rule}{8}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Construction of a Measuring Cylinder}{8}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Construction of Beam Balance}{9}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Making a Spring and a Spring Balance}{10}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Applications of Material Densities}{12}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}Relative Density of a Liquid}{13}{subsection.1.1.6}
+\contentsline {subsection}{\numberline {1.1.7}U-Tube apparatus}{14}{subsection.1.1.7}
+\contentsline {subsection}{\numberline {1.1.8}Measurement Errors}{15}{subsection.1.1.8}
+\contentsline {section}{\numberline {1.2}Forces}{16}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Presence of Gravity}{16}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Windmills}{17}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Helicopters}{17}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Archimedes' Principle and the Law of Flotation}{18}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Construction of Eureka Can}{18}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Water Weight and Upthrust}{19}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Conditions of Flotation}{19}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Construction and Use of a Hydrometer}{20}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}Structure and Properties of Matter}{22}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Determining Adhesion and Cohesion}{22}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Cohesion in a Moving Liquid}{23}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Water drops}{24}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Blowing bubbles}{24}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Pin Float}{24}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}Pepper Float}{24}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.7}Water Dome}{25}{subsection.1.4.7}
+\contentsline {subsection}{\numberline {1.4.8}Capillarity}{25}{subsection.1.4.8}
+\contentsline {subsection}{\numberline {1.4.9}Lemonade}{26}{subsection.1.4.9}
+\contentsline {subsection}{\numberline {1.4.10}Powder Diffusion}{26}{subsection.1.4.10}
+\contentsline {subsection}{\numberline {1.4.11}Orange Diffusion, Part A -- Sweet Smells}{26}{subsection.1.4.11}
+\contentsline {subsection}{\numberline {1.4.12}Orange Diffusion, Part B -- Trapped}{27}{subsection.1.4.12}
+\contentsline {subsection}{\numberline {1.4.13}Osmosis}{27}{subsection.1.4.13}
+\contentsline {section}{\numberline {1.5}Pressure}{27}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Balloon Pop}{27}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Potato Poke}{28}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}The Effect of Surface Area on Pressure}{28}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Straw Fountain}{29}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}Cartesian Diver}{29}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Holey Bottle 2}{31}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}Liquid Pressure and Depth}{31}{subsection.1.5.7}
+\contentsline {subsection}{\numberline {1.5.8}Hydraulic Press}{32}{subsection.1.5.8}
+\contentsline {subsection}{\numberline {1.5.9}Atmospheric Pressure}{32}{subsection.1.5.9}
+\contentsline {subsection}{\numberline {1.5.10}Charles' Law, Part C -- Bottle Crush}{33}{subsection.1.5.10}
+\contentsline {subsection}{\numberline {1.5.11}Straw Elevator}{33}{subsection.1.5.11}
+\contentsline {subsection}{\numberline {1.5.12}Making a Magdeburg Hemisphere}{33}{subsection.1.5.12}
+\contentsline {subsection}{\numberline {1.5.13}Siphon}{34}{subsection.1.5.13}
+\contentsline {subsection}{\numberline {1.5.14}Automatic Flushing Tank}{35}{subsection.1.5.14}
+\contentsline {subsection}{\numberline {1.5.15}Reverse Air Pump}{36}{subsection.1.5.15}
+\contentsline {section}{\numberline {1.6}Work, Energy and Power}{36}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Work as Heat, Part A}{36}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Work as Heat, Part B}{36}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Work as Light}{37}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Potential Energy of a Spring}{37}{subsection.1.6.4}
+\contentsline {subsubsection}{Materials}{37}{subsection.1.6.4}
+\contentsline {subsubsection}{Activity Procedure}{37}{figure.1.14}
+\contentsline {subsubsection}{Notes}{38}{Item.165}
+\contentsline {section}{\numberline {1.7}Light}{38}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Light in a Straight Line}{38}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Pin Hole Camera}{39}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Light through a Comb}{40}{subsection.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}Laws of Reflection}{40}{subsection.1.7.4}
+\contentsline {subsubsection}{Activity Procedure}{41}{subsection.1.7.4}
+\contentsline {subsection}{\numberline {1.7.5}Kaleidoscope}{41}{subsection.1.7.5}
+\contentsline {chapter}{\numberline {2}Physics Activities for Form II}{42}{chapter.2}
+\contentsline {section}{\numberline {2.1}Static Electricity}{42}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Salt and Pepper Trick}{42}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Concept of Static Electricity}{42}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Electrostatics}{43}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Construction of an Electroscope}{43}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Detection of Charges}{45}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Current Electricity}{46}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Conductors and Insulators}{46}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Finding Electric Circuit Components}{47}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Creating a Light Bulb}{48}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Measuring Emf of a Cell}{49}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Magnetism}{50}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Magnetic and Non-magnetic Materials}{50}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Suspended Magnet Compass}{51}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Magnetizing a Nail}{51}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Magnetic Fields}{51}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Creating a Simple Compass}{52}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Magnetic Dip Gauge}{53}{subsection.2.3.6}
+\contentsline {section}{\numberline {2.4}Forces in Equilibrium}{55}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Door Tug-o-War}{55}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Verification of the Principle of Moments}{55}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Centre of Gravity}{56}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Simple Machines}{57}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Pulley}{57}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Pulleys and Inclined Planes}{59}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Bottle Cap Gearworks}{59}{subsection.2.5.3}
+\contentsline {section}{\numberline {2.6}Motion in a Straight Line}{59}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Object Toss}{59}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Simple Oscillator}{60}{subsection.2.6.2}
+\contentsline {section}{\numberline {2.7}Newton's Laws of Motion}{60}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Verification of Newton's First Law of Motion}{60}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Inertia and Newton's First Law of Motion}{61}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}Tin Can Piñata}{62}{subsection.2.7.3}
+\contentsline {subsection}{\numberline {2.7.4}Conservation of Linear Momentum}{62}{subsection.2.7.4}
+\contentsline {subsection}{\numberline {2.7.5}Balloon Rocket}{64}{subsection.2.7.5}
+\contentsline {subsection}{\numberline {2.7.6}Bottle Rocket}{64}{subsection.2.7.6}
+\contentsline {subsection}{\numberline {2.7.7}Matchstick Rocket}{65}{subsection.2.7.7}
+\contentsline {chapter}{\numberline {3}Physics Activities for Form III}{67}{chapter.3}
+\contentsline {section}{\numberline {3.1}Friction}{67}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Concept of Friction}{67}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Limiting Friction and the Coefficient of Static Friction}{68}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Light}{69}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Refraction of Light in Glass}{69}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Measuring Refractive Index of Glass}{70}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Total Internal Reflection in Water}{73}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Focusing an Image through a Convex Lens}{74}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Refraction of Light Through Water}{74}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Newton Colour Wheel}{74}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Dispersion of White Light: Part 1}{76}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Thin Film Interference}{76}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.9}Water Prism}{77}{subsection.3.2.9}
+\contentsline {section}{\numberline {3.3}Thermal Expansion}{77}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Expansion of Solids: Screw and Loop}{77}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Thermal Expansion of Solids - Breaking Glass}{77}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Bimetallic Strip}{78}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Thermal Switch}{80}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Thermal Expansion of Liquids}{81}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Thermal Expansion of Gases}{83}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Charles' Law, Part A -- Coin Cap}{84}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Charles' Law, Part B -- Spray Time}{84}{subsection.3.3.8}
+\contentsline {subsection}{\numberline {3.3.9}Egg Suck}{85}{subsection.3.3.9}
+\contentsline {subsection}{\numberline {3.3.10}Charles's Law}{85}{subsection.3.3.10}
+\contentsline {subsection}{\numberline {3.3.11}Boyle's Law}{86}{subsection.3.3.11}
+\contentsline {subsection}{\numberline {3.3.12}Boyle's Law, Part A -- Syringe}{88}{subsection.3.3.12}
+\contentsline {subsection}{\numberline {3.3.13}Boyle's Law, Part B -- Cartesian Diver}{88}{subsection.3.3.13}
+\contentsline {subsection}{\numberline {3.3.14}Boyle's Law, Part C -- Filling a Balloon}{88}{subsection.3.3.14}
+\contentsline {subsection}{\numberline {3.3.15}Boyle's Law, Part D -- Sucking a Balloon}{89}{subsection.3.3.15}
+\contentsline {section}{\numberline {3.4}Transfer of Thermal Energy}{89}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Heat Conduction}{89}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Hot Water Hold}{90}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Copper Coil Candle Snuffer}{91}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Convection}{91}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Thermal Windmills}{93}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Radiation}{93}{subsection.3.4.6}
+\contentsline {section}{\numberline {3.5}Measurement of Thermal Energy}{95}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Specific Heats}{95}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Designing a Calorimeter}{95}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Boiling Water at Room Temperature}{96}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Latent Heat of Fusion}{97}{subsection.3.5.4}
+\contentsline {section}{\numberline {3.6}Vapour and Humidity}{99}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Measuring Humidity with a Hygrometer}{99}{subsection.3.6.1}
+\contentsline {section}{\numberline {3.7}Current Electricity}{100}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Circuit Board}{100}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Breadboards}{100}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Construction of a Metre bridge and Potentiometer}{101}{subsection.3.7.3}
+\contentsline {subsubsection}{Alternative Activity: Potentiometer}{103}{figure.3.11}
+\contentsline {subsection}{\numberline {3.7.4}Making an Electric Heater}{104}{subsection.3.7.4}
+\contentsline {subsection}{\numberline {3.7.5}Fuse}{105}{subsection.3.7.5}
+\contentsline {subsection}{\numberline {3.7.6}Creating a Leclanche Cell.}{106}{subsection.3.7.6}
+\contentsline {chapter}{\numberline {4}Physics Activities for Form IV}{108}{chapter.4}
+\contentsline {section}{\numberline {4.1}Waves}{108}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Construction and Use of Slinky Spring}{108}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Speed of Sound in Air}{109}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Bottle Sine Graph}{110}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Construction of a Ripple Tank}{111}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Behaviour of Waves}{112}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Sound in a Medium}{113}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Wave Propagation in Solids}{114}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Sound Amplifier}{114}{subsection.4.1.8}
+\contentsline {subsection}{\numberline {4.1.9}Musical Rubber Strip}{116}{subsection.4.1.9}
+\contentsline {subsection}{\numberline {4.1.10}Musical Soda Bottle}{116}{subsection.4.1.10}
+\contentsline {subsection}{\numberline {4.1.11}Doppler Whirl}{116}{subsection.4.1.11}
+\contentsline {subsection}{\numberline {4.1.12}Barton’s Pendulums}{116}{subsection.4.1.12}
+\contentsline {subsection}{\numberline {4.1.13}Transverse Waves on a String}{117}{subsection.4.1.13}
+\contentsline {subsection}{\numberline {4.1.14}Construction and Use of a Simple Sonometer}{117}{subsection.4.1.14}
+\contentsline {subsection}{\numberline {4.1.15}Determination of Resonance Frequency}{119}{subsection.4.1.15}
+\contentsline {section}{\numberline {4.2}Electromagnetism}{121}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Spinning Compass}{121}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Construction of Galvanometer}{121}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Force on a Current-Carrying Wire in a Magnetic Field}{122}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Mapping Induced Magnetic Field from a Coil}{124}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Mapping Induced Magnetic Field from Wire}{124}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Creating a Current in a Wire}{124}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Simple Motor}{125}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Inverter: Converting DC to AC}{126}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Water Energy}{130}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Wind Energy}{132}{subsection.4.2.10}
+\contentsline {section}{\numberline {4.3}Electronics}{134}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Forward and Reverse Biased Diodes}{134}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Full-Wave Rectifier}{135}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Half-Wave Rectifier}{137}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Elementary Astronomy}{139}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Solar System Mobile}{139}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Star Gazing}{140}{subsection.4.4.2}
+\contentsline {part}{II\hspace {1em}Student Practical Worksheets}{141}{part.2}
+\save@tocdepth \setcounter {tocdepth}{0}
+\contentsline {part}{Mechanics}{143}{part*.2}
+\contentsline {chapter}{Archimedes' Principle}{143}{chapter*.3}
+\contentsline {section}{Aim}{143}{section*.4}
+\contentsline {section}{Background Information}{143}{section*.4}
+\contentsline {section}{Materials}{143}{section*.4}
+\contentsline {section}{Procedure}{143}{section*.4}
+\contentsline {section}{Analysis and Interpretation}{143}{figure.4.14}
+\contentsline {section}{Conclusion}{143}{Item.986}
+\contentsline {section}{Questions for Discussion}{144}{Item.986}
+\contentsline {section}{Reflection and Self Assessment}{144}{Item.989}
+\contentsline {chapter}{Law of Flotation}{145}{chapter*.5}
+\contentsline {section}{Aim}{145}{section*.6}
+\contentsline {section}{Background Information}{145}{section*.6}
+\contentsline {section}{Materials}{145}{section*.6}
+\contentsline {section}{Procedure}{145}{section*.6}
+\contentsline {section}{Safety Measure}{146}{figure.4.15}
+\contentsline {section}{Analysis and Interpretation}{146}{figure.4.15}
+\contentsline {section}{Conclusion}{146}{Item.1005}
+\contentsline {section}{Questions for Discussion}{146}{Item.1005}
+\contentsline {section}{Reflection and Self Assessment}{146}{Item.1008}
+\contentsline {chapter}{Elasticity}{147}{chapter*.7}
+\contentsline {section}{Aim}{147}{section*.8}
+\contentsline {section}{Background Information}{147}{section*.8}
+\contentsline {section}{Materials}{147}{section*.8}
+\contentsline {section}{Procedure}{147}{section*.8}
+\contentsline {section}{Analysis and Interpretation}{147}{figure.4.16}
+\contentsline {section}{Conclusion}{147}{Item.1022}
+\contentsline {section}{Questions for Discussion}{148}{Item.1022}
+\contentsline {section}{Reflection and Self Assessment}{148}{Item.1026}
+\contentsline {chapter}{Pressure within a Liquid}{149}{chapter*.9}
+\contentsline {section}{Aim}{149}{section*.10}
+\contentsline {section}{Background Information}{149}{section*.10}
+\contentsline {section}{Materials}{149}{section*.10}
+\contentsline {section}{Procedure}{149}{section*.10}
+\contentsline {section}{Analysis and Interpretation}{149}{figure.4.17}
+\contentsline {section}{Conclusion}{150}{Item.1035}
+\contentsline {section}{Questions for Discussion}{150}{Item.1035}
+\contentsline {section}{Reflection and Self Assessment}{150}{Item.1039}
+\contentsline {chapter}{Linear Acceleration}{151}{chapter*.11}
+\contentsline {section}{Aim}{151}{section*.12}
+\contentsline {section}{Background Information}{151}{section*.12}
+\contentsline {section}{Materials}{151}{section*.12}
+\contentsline {section}{Procedure}{151}{section*.12}
+\contentsline {section}{Analysis and Interpretation}{152}{figure.4.19}
+\contentsline {section}{Conclusion}{152}{Item.1057}
+\contentsline {section}{Questions for Discussion}{152}{Item.1057}
+\contentsline {section}{Reflection and Self Assessment}{152}{Item.1061}
+\contentsline {chapter}{Simple Pendulum}{153}{chapter*.13}
+\contentsline {section}{Aim}{153}{section*.14}
+\contentsline {section}{Background Information}{153}{section*.14}
+\contentsline {section}{Materials}{153}{section*.14}
+\contentsline {section}{Procedure}{153}{section*.14}
+\contentsline {section}{Analysis and Interpretation}{153}{figure.4.20}
+\contentsline {section}{Conclusion}{154}{Item.1070}
+\contentsline {section}{Questions for Discussion}{154}{Item.1070}
+\contentsline {section}{Reflection and Self Assessment}{154}{Item.1074}
+\contentsline {chapter}{Coefficient of Friction}{155}{chapter*.15}
+\contentsline {section}{Aim}{155}{section*.16}
+\contentsline {section}{Background Information}{155}{section*.16}
+\contentsline {section}{Materials}{155}{section*.16}
+\contentsline {section}{Procedure}{155}{section*.16}
+\contentsline {section}{Analysis and Interpretation}{155}{figure.4.21}
+\contentsline {section}{Conclusion}{156}{Item.1086}
+\contentsline {section}{Questions for Discussion}{156}{Item.1086}
+\contentsline {section}{Reflection and Self Assessment}{156}{Item.1089}
+\contentsline {part}{Light}{158}{part*.17}
+\contentsline {chapter}{Law of Reflection}{158}{chapter*.18}
+\contentsline {section}{Aim}{158}{section*.19}
+\contentsline {section}{Background Information}{158}{section*.19}
+\contentsline {section}{Materials}{158}{section*.19}
+\contentsline {section}{Procedure}{158}{section*.19}
+\contentsline {section}{Analysis and Interpretation}{158}{figure.4.22}
+\contentsline {section}{Conclusion}{158}{Item.1105}
+\contentsline {section}{Questions for Discussion}{159}{Item.1107}
+\contentsline {section}{Reflection and Self Assessment}{159}{Item.1112}
+\contentsline {chapter}{Plane Mirror Image Characteristics}{160}{chapter*.20}
+\contentsline {section}{Aim}{160}{section*.21}
+\contentsline {section}{Background Information}{160}{section*.21}
+\contentsline {section}{Materials}{160}{section*.21}
+\contentsline {section}{Procedure}{160}{section*.21}
+\contentsline {section}{Analysis and Interpretation}{161}{figure.4.23}
+\contentsline {section}{Conclusion}{161}{Item.1131}
+\contentsline {section}{Questions for Discussion}{161}{Item.1131}
+\contentsline {section}{Reflection and Self Assessment}{161}{Item.1133}
+\contentsline {chapter}{Refractive Index}{162}{chapter*.22}
+\contentsline {section}{Aim}{162}{section*.23}
+\contentsline {section}{Background Information}{162}{section*.23}
+\contentsline {section}{Materials}{162}{section*.23}
+\contentsline {section}{Procedure}{162}{section*.23}
+\contentsline {section}{Analysis and Interpretation}{162}{figure.4.24}
+\contentsline {section}{Conclusion}{163}{Item.1151}
+\contentsline {section}{Questions for Discussion}{163}{Item.1151}
+\contentsline {section}{Reflection and Self Assessment}{163}{Item.1153}
+\contentsline {chapter}{Critical Angle}{164}{chapter*.24}
+\contentsline {section}{Aim}{164}{section*.25}
+\contentsline {section}{Background Information}{164}{section*.25}
+\contentsline {section}{Materials}{164}{section*.25}
+\contentsline {section}{Procedure}{164}{section*.25}
+\contentsline {section}{Analysis and Interpretation}{164}{figure.4.25}
+\contentsline {section}{Conclusion}{165}{Item.1172}
+\contentsline {section}{Questions for Discussion}{165}{Item.1172}
+\contentsline {section}{Reflection and Self Assessment}{165}{Item.1176}
+\contentsline {chapter}{Minimum Deviation Angle}{166}{chapter*.26}
+\contentsline {section}{Aim}{166}{section*.27}
+\contentsline {section}{Background Information}{166}{section*.27}
+\contentsline {section}{Materials}{166}{section*.27}
+\contentsline {section}{Procedure}{166}{section*.27}
+\contentsline {section}{Safety Measure}{167}{figure.4.26}
+\contentsline {section}{Analysis and Interpretation}{167}{figure.4.26}
+\contentsline {section}{Conclusion}{167}{Item.1192}
+\contentsline {section}{Questions for Discussion}{167}{Item.1192}
+\contentsline {section}{Reflection and Self Assessment}{167}{Item.1194}
+\contentsline {chapter}{Focal Length}{168}{chapter*.28}
+\contentsline {section}{Aim}{168}{section*.29}
+\contentsline {section}{Background Information}{168}{section*.29}
+\contentsline {section}{Materials}{168}{section*.29}
+\contentsline {section}{Procedure}{168}{section*.29}
+\contentsline {section}{Analysis and Interpretation}{169}{figure.4.27}
+\contentsline {section}{Conclusion}{169}{Item.1211}
+\contentsline {section}{Questions for Discussion}{169}{Item.1211}
+\contentsline {section}{Reflection and Self Assessment}{169}{Item.1213}
+\contentsline {chapter}{Convex Lens Image Characteristics}{170}{chapter*.30}
+\contentsline {section}{Aim}{170}{section*.31}
+\contentsline {section}{Background Information}{170}{section*.31}
+\contentsline {section}{Materials}{170}{section*.31}
+\contentsline {section}{Procedure}{170}{section*.31}
+\contentsline {section}{Safety Measures}{171}{figure.4.28}
+\contentsline {section}{Analysis and Interpretation}{171}{figure.4.28}
+\contentsline {section}{Conclusion}{171}{Item.1226}
+\contentsline {section}{Questions for Discussion}{171}{Item.1226}
+\contentsline {section}{Reflection and Self Assessment}{171}{Item.1229}
+\contentsline {part}{Heat}{173}{part*.32}
+\contentsline {chapter}{Charles's Law}{173}{chapter*.33}
+\contentsline {section}{Aim}{173}{section*.34}
+\contentsline {section}{Background Information}{173}{section*.34}
+\contentsline {section}{Materials}{173}{section*.34}
+\contentsline {section}{Procedure}{173}{section*.34}
+\contentsline {section}{Safety Measure}{173}{figure.4.29}
+\contentsline {section}{Analysis and Interpretation}{173}{figure.4.29}
+\contentsline {section}{Conclusion}{174}{Item.1243}
+\contentsline {section}{Questions for Discussion}{174}{Item.1243}
+\contentsline {section}{Reflection and Self Assessment}{174}{Item.1246}
+\contentsline {chapter}{Boyle's Law}{175}{chapter*.35}
+\contentsline {section}{Aim}{175}{section*.36}
+\contentsline {section}{Background Information}{175}{section*.36}
+\contentsline {section}{Materials}{175}{section*.36}
+\contentsline {section}{Procedure}{175}{section*.36}
+\contentsline {section}{Safety Measure}{175}{figure.4.30}
+\contentsline {section}{Analysis and Interpretation}{176}{figure.4.30}
+\contentsline {section}{Conclusion}{176}{Item.1256}
+\contentsline {section}{Questions for Discussion}{176}{Item.1256}
+\contentsline {section}{Reflection and Self Assessment}{176}{Item.1259}
+\contentsline {chapter}{Pressure Law}{177}{chapter*.37}
+\contentsline {section}{Aim}{177}{section*.38}
+\contentsline {section}{Background Information}{177}{section*.38}
+\contentsline {section}{Materials}{177}{section*.38}
+\contentsline {section}{Procedure}{177}{section*.38}
+\contentsline {section}{Analysis and Interpretation}{177}{figure.4.31}
+\contentsline {section}{Conclusion}{178}{Item.1278}
+\contentsline {section}{Questions for Discussion}{178}{Item.1278}
+\contentsline {section}{Reflection and Self Assessment}{178}{Item.1282}
+\contentsline {chapter}{Melting Point of a Substance}{179}{chapter*.39}
+\contentsline {section}{Aim}{179}{section*.40}
+\contentsline {section}{Background Information}{179}{section*.40}
+\contentsline {section}{Materials}{179}{section*.40}
+\contentsline {section}{Procedure}{179}{section*.40}
+\contentsline {section}{Safety Measure}{179}{Item.1293}
+\contentsline {section}{Analysis and Interpretation}{179}{Item.1296}
+\contentsline {section}{Conclusion}{180}{Item.1299}
+\contentsline {section}{Questions for Discussion}{180}{Item.1299}
+\contentsline {section}{Reflection and Self Assessment}{180}{Item.1303}
+\contentsline {chapter}{Effects of Impurities on the Boiling Point}{181}{chapter*.41}
+\contentsline {section}{Aim}{181}{section*.42}
+\contentsline {section}{Background Information}{181}{section*.42}
+\contentsline {section}{Materials}{181}{section*.42}
+\contentsline {section}{Procedure}{181}{section*.42}
+\contentsline {section}{Safety Measure}{181}{Item.1310}
+\contentsline {section}{Analysis and Interpretation}{181}{Item.1310}
+\contentsline {section}{Conclusion}{181}{Item.1313}
+\contentsline {section}{Questions for Discussion}{182}{Item.1313}
+\contentsline {section}{Reflection and Self Assessment}{182}{Item.1316}
+\contentsline {chapter}{Effects of Impurities on the Freezing Point}{183}{chapter*.43}
+\contentsline {section}{Aim}{183}{section*.44}
+\contentsline {section}{Background Information}{183}{section*.44}
+\contentsline {section}{Materials}{183}{section*.44}
+\contentsline {section}{Procedure}{183}{section*.44}
+\contentsline {section}{Analysis and Interpretation}{183}{Item.1323}
+\contentsline {section}{Conclusion}{183}{Item.1326}
+\contentsline {section}{Questions for Discussion}{183}{Item.1326}
+\contentsline {section}{Reflection and Self Assessment}{183}{Item.1328}
+\contentsline {chapter}{Effects of Pressure on the Melting Point}{184}{chapter*.45}
+\contentsline {section}{Aim}{184}{section*.46}
+\contentsline {section}{Background Information}{184}{section*.46}
+\contentsline {section}{Materials}{184}{section*.46}
+\contentsline {section}{Procedure}{184}{section*.46}
+\contentsline {section}{Analysis and Interpretation}{184}{Item.1335}
+\contentsline {section}{Conclusion}{184}{Item.1339}
+\contentsline {section}{Questions for Discussion}{184}{Item.1339}
+\contentsline {section}{Reflection and Self Assessment}{185}{Item.1342}
+\contentsline {chapter}{Effects of Pressure on the Boiling Point}{186}{chapter*.47}
+\contentsline {section}{Aim}{186}{section*.48}
+\contentsline {section}{Background Information}{186}{section*.48}
+\contentsline {section}{Materials}{186}{section*.48}
+\contentsline {section}{Procedure}{186}{section*.48}
+\contentsline {section}{Analysis and Interpretation}{186}{Item.1354}
+\contentsline {section}{Conclusion}{186}{Item.1356}
+\contentsline {section}{Questions for Discussion}{186}{Item.1356}
+\contentsline {section}{Reflection and Self Assessment}{187}{Item.1360}
+\contentsline {part}{Electricity}{189}{part*.49}
+\contentsline {chapter}{Internal Resistance of a Cell}{189}{chapter*.50}
+\contentsline {section}{Aim}{189}{section*.51}
+\contentsline {section}{Background Information}{189}{section*.51}
+\contentsline {section}{Materials}{189}{section*.51}
+\contentsline {section}{Procedure}{189}{section*.51}
+\contentsline {section}{Analysis and Interpretation}{189}{figure.4.32}
+\contentsline {section}{Conclusion}{190}{Item.1371}
+\contentsline {section}{Questions for Discussion}{190}{Item.1371}
+\contentsline {section}{Reflection and Self Assessment}{190}{Item.1375}
+\contentsline {chapter}{Resistance of a Conductor}{191}{chapter*.52}
+\contentsline {section}{Aim}{191}{section*.53}
+\contentsline {section}{Background Information}{191}{section*.53}
+\contentsline {section}{Materials}{191}{section*.53}
+\contentsline {section}{Procedure}{191}{section*.53}
+\contentsline {section}{Analysis and Interpretation}{191}{figure.4.33}
+\contentsline {section}{Conclusion}{192}{Item.1385}
+\contentsline {section}{Questions for Discussion}{192}{Item.1385}
+\contentsline {section}{Reflection and Self Assessment}{192}{Item.1388}
+\contentsline {chapter}{Wheatstone Bridge}{193}{chapter*.54}
+\contentsline {section}{Aim}{193}{section*.55}
+\contentsline {section}{Background Information}{193}{section*.55}
+\contentsline {section}{Materials}{193}{section*.55}
+\contentsline {section}{Procedure}{193}{section*.55}
+\contentsline {section}{Analysis and Interpretation}{193}{figure.4.34}
+\contentsline {section}{Conclusion}{193}{Item.1398}
+\contentsline {section}{Questions for Discussion}{193}{Item.1398}
+\contentsline {section}{Reflection and Self Assessment}{194}{Item.1404}
+\contentsline {chapter}{Ohm's Law}{195}{chapter*.56}
+\contentsline {section}{Aim}{195}{section*.57}
+\contentsline {section}{Background Information}{195}{section*.57}
+\contentsline {section}{Materials}{195}{section*.57}
+\contentsline {section}{Procedure}{195}{section*.57}
+\contentsline {section}{Analysis and Interpretation}{195}{figure.4.35}
+\contentsline {section}{Conclusion}{196}{Item.1415}
+\contentsline {section}{Questions for Discussion}{196}{Item.1415}
+\contentsline {section}{Reflection and Self Assessment}{196}{Item.1418}
+\contentsline {chapter}{Heating Effect of Electric Current}{197}{chapter*.58}
+\contentsline {section}{Aim}{197}{section*.59}
+\contentsline {section}{Background Information}{197}{section*.59}
+\contentsline {section}{Materials}{197}{section*.59}
+\contentsline {section}{Procedure}{197}{section*.59}
+\contentsline {section}{Safety Measure}{197}{figure.4.36}
+\contentsline {section}{Analysis and Interpretation}{198}{figure.4.36}
+\contentsline {section}{Conclusion}{198}{Item.1436}
+\contentsline {section}{Questions for Discussion}{198}{Item.1436}
+\contentsline {section}{Reflection and Self Assessment}{198}{Item.1442}
+\contentsline {part}{Waves}{200}{part*.60}
+\contentsline {chapter}{Speed of Sound in Air}{200}{chapter*.61}
+\contentsline {section}{Aim}{200}{section*.62}
+\contentsline {section}{Background Information}{200}{section*.62}
+\contentsline {section}{Materials}{200}{section*.62}
+\contentsline {section}{Procedure}{200}{section*.62}
+\contentsline {section}{Analysis and Interpretation}{200}{figure.4.37}
+\contentsline {section}{Conclusion}{200}{Item.1452}
+\contentsline {section}{Questions for Discussion}{200}{Item.1452}
+\contentsline {section}{Reflection and Self Assessment}{201}{Item.1457}
+\contentsline {chapter}{Musical Notes}{202}{chapter*.63}
+\contentsline {section}{Aim}{202}{section*.64}
+\contentsline {section}{Background Information}{202}{section*.64}
+\contentsline {section}{Materials}{202}{section*.64}
+\contentsline {section}{Procedure}{202}{section*.64}
+\contentsline {section}{Analysis and Interpretation}{203}{figure.4.38}
+\contentsline {section}{Conclusion}{203}{Item.1468}
+\contentsline {section}{Questions for Discussion}{203}{Item.1468}
+\contentsline {section}{Reflection and Self Assessment}{203}{Item.1470}
+\save@tocdepth \setcounter {tocdepth}{1}
+\contentsline {chapter}{\numberline {A}Local Materials List}{204}{appendix.A}
+\contentsline {section}{\numberline {A.1}Alligator Clips}{204}{section.A.1}
+\contentsline {section}{\numberline {A.2}Balance}{204}{section.A.2}
+\contentsline {section}{\numberline {A.3}Beakers}{204}{section.A.3}
+\contentsline {section}{\numberline {A.4}Bunsen Burner}{204}{section.A.4}
+\contentsline {section}{\numberline {A.5}Circuit Components}{204}{section.A.5}
+\contentsline {section}{\numberline {A.6}Delivery Tube}{204}{section.A.6}
+\contentsline {section}{\numberline {A.7}Drawing Board}{204}{section.A.7}
+\contentsline {section}{\numberline {A.8}Droppers}{205}{section.A.8}
+\contentsline {section}{\numberline {A.9}Eureka Can}{205}{section.A.9}
+\contentsline {section}{\numberline {A.10}Funnel}{205}{section.A.10}
+\contentsline {section}{\numberline {A.11}Glass Blocks}{205}{section.A.11}
+\contentsline {section}{\numberline {A.12}Heat Source}{205}{section.A.12}
+\contentsline {section}{\numberline {A.13}Iron Filings}{205}{section.A.13}
+\contentsline {section}{\numberline {A.14}Light Bulbs}{205}{section.A.14}
+\contentsline {section}{\numberline {A.15}Masses}{205}{section.A.15}
+\contentsline {section}{\numberline {A.16}Measuring Cylinder}{206}{section.A.16}
+\contentsline {section}{\numberline {A.17}Metre Rule}{206}{section.A.17}
+\contentsline {section}{\numberline {A.18}Nichrome Wire / Resistance Wire}{206}{section.A.18}
+\contentsline {section}{\numberline {A.19}Optical Pins}{206}{section.A.19}
+\contentsline {section}{\numberline {A.20}Plane Mirror}{206}{section.A.20}
+\contentsline {section}{\numberline {A.21}Resistors}{206}{section.A.21}
+\contentsline {section}{\numberline {A.22}Retort Stand}{207}{section.A.22}
+\contentsline {section}{\numberline {A.23}Scale Pan}{207}{section.A.23}
+\contentsline {section}{\numberline {A.24}Spring Balance}{207}{section.A.24}
+\contentsline {section}{\numberline {A.25}Springs}{207}{section.A.25}
+\contentsline {section}{\numberline {A.26}Stopper}{207}{section.A.26}
+\contentsline {section}{\numberline {A.27}Stopwatches}{207}{section.A.27}
+\contentsline {section}{\numberline {A.28}Test Tubes}{207}{section.A.28}
+\contentsline {section}{\numberline {A.29}Test Tube Holder / Tongs}{207}{section.A.29}
+\contentsline {section}{\numberline {A.30}Test Tube Racks}{208}{section.A.30}
+\contentsline {section}{\numberline {A.31}Tripod Stands}{208}{section.A.31}
+\contentsline {section}{\numberline {A.32}Water Bath}{208}{section.A.32}
+\contentsline {section}{\numberline {A.33}Wire}{208}{section.A.33}
+\contentsline {subsection}{\numberline {A.33.1}All-purpose wire}{208}{subsection.A.33.1}
+\contentsline {subsection}{\numberline {A.33.2}Specific gauge wire}{208}{subsection.A.33.2}
+\contentsline {chapter}{\numberline {B}Shika Express Demonstrations for Physics}{209}{appendix.B}
+\contentsline {section}{Egg Float}{209}{section*.65}
+\contentsline {section}{Pressure in a Bottle}{209}{section*.65}

@@ -1,0 +1,1747 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.5)  10 MAR 2014 15:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**shika-phys.tex
+(./shika-phys.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(c:/texlive/2013/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(c:/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./shika-phys.sty
+
+LaTeX Warning: You have requested package `shika-phys',
+               but the package provides `hostit-phys'.
+
+Package: hostit-phys 
+(c:/texlive/2013/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2011/06/03 v3.11 for typesetting chemical formulae
+
+(c:/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/twoopt.sty
+Package: twoopt 2008/08/11 v1.5 Definitions with two optional arguments (HO)
+)
+(c:/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(c:/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+(c:/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(c:/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks15
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(c:/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(c:/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(c:/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(c:/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\tok@mhchem@ce@iii=\toks20
+\mhchem@arrowminlength=\skip49
+\mhchem@arrows@box=\box28
+\mhchem@arrowlength@pgf=\skip50
+\mhchem@arrowminlength@pgf=\skip51
+\mhchem@bondwidth=\skip52
+\mhchem@bondheight=\skip53
+\mhchem@smallbondwidth@tmpA=\skip54
+\mhchem@smallbondwidth@tmpB=\skip55
+\mhchem@smallbondwidth=\skip56
+\mhchem@cf@result=\toks21
+\mhchem@cf@element=\toks22
+\mhchem@cf@amount=\toks23
+\mhchem@cf@sup=\toks24
+\mhchem@cf@presub=\toks25
+\mhchem@cf@presup=\toks26
+\mhchem@cf@replaceMath@result=\toks27
+\mhchem@cf@replaceMathMinusDot@result=\toks28
+\mhchem@prepostscript@tmp@i=\skip57
+\mhchem@prepostscript@tmp@ii=\skip58
+\mhchem@mathbox@tmp@i=\skip59
+\mhchem@mathbox@tmp@ii=\skip60
+\mhchem@minispace@tmp=\skip61
+\mhchem@option@minussidebearingleft=\skip62
+\mhchem@option@minussidebearingright=\skip63
+)
+(c:/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen114
+\Hy@linkcounter=\count104
+\Hy@pagecounter=\count105
+
+(c:/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count106
+
+(c:/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count107
+
+(c:/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen115
+\Fld@menulength=\count108
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count109
+\c@Item=\count110
+\c@Hfootnote=\count111
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(c:/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count112
+\c@bookmark@seq@number=\count113
+
+(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip64
+)
+(c:/texlive/2013/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+)
+(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(c:/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+)
+(c:/texlive/2013/texmf-dist/tex/latex/mdwtools/mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+(c:/texlive/2013/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count114
+\mult@box=\box29
+\multicol@leftmargin=\dimen120
+\c@unbalance=\count115
+\c@collectmore=\count116
+\doublecol@number=\count117
+\multicoltolerance=\count118
+\multicolpretolerance=\count119
+\full@width=\dimen121
+\page@free=\dimen122
+\premulticols=\dimen123
+\postmulticols=\dimen124
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box30
+\last@line=\box31
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count120
+\c@finalcolumnbadness=\count121
+\last@try=\dimen125
+\multicolovershoot=\dimen126
+\multicolundershoot=\dimen127
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\multicol@sort@counter=\count122
+)
+(c:/texlive/2013/texmf-dist/tex/latex/tocvsec2/tocvsec2.sty
+Package: tocvsec2 2011/08/07 v1.3 variable ToC section entries
+\c@max@tocdepth=\count123
+\c@max@secnumdepth=\count124
+)
+(c:/texlive/2013/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip67
+\aftertitleunit=\skip68
+\ttl@plus=\dimen128
+\ttl@minus=\dimen129
+\ttl@toksa=\toks29
+\titlewidth=\dimen130
+\titlewidthlast=\dimen131
+\titlewidthfirst=\dimen132
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+)
+(c:/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count125
+\Gm@cntv=\count126
+\c@Gm@tempcnt=\count127
+\Gm@bindingoffset=\dimen133
+\Gm@wd@mp=\dimen134
+\Gm@odd@mp=\dimen135
+\Gm@even@mp=\dimen136
+\Gm@layoutwidth=\dimen137
+\Gm@layoutheight=\dimen138
+\Gm@layouthoffset=\dimen139
+\Gm@layoutvoffset=\dimen140
+\Gm@dimlist=\toks30
+) (./shika-phys.aux
+
+LaTeX Warning: Label `fig:full-wave-rectifier' multiply defined.
+
+
+LaTeX Warning: Label `fig:half-wave-rectifier' multiply defined.
+
+)
+\openout1 = `shika-phys.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (c:/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen141
+\scratchbox=\box56
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen142
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks32
+) (c:/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.gif,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box57
+
+(c:/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(c:/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Package hyperref Info: Link coloring ON on input line 5.
+
+(c:/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count134
+)
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+
+(./shika-phys.out) (./shika-phys.out)
+\@outlinefile=\write3
+\openout3 = `shika-phys.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./tex/title.tex [1
+
+{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./shika-phys.
+toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+ (c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...ine {1.5.13}Siphon}{29}{subsection.1.5.13}
+                                                   [1
+
+]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+ [2] [3]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [4] [5])
+\tf@toc=\write4
+\openout4 = `shika-phys.toc'.
+
+
+(./tex/part-hands-on-activities.tex [6] [7
+
+])
+Chapter 1.
+(./tex/i-activities_measurement.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
+
+(c:/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+ [8
+
+] [9]
+<./img/beam-balance.png, id=2208, 239.39438pt x 210.03468pt>
+File: ./img/beam-balance.png Graphic file (type png)
+
+<use ./img/beam-balance.png>
+Package pdftex.def Info: ./img/beam-balance.png used on input line 99.
+(pdftex.def)             Requested size: 239.39378pt x 210.03416pt.
+ [10 <./img/beam-balance.png>]
+(./img/spring-balance.pdf_tex
+<img/spring-balance.pdf, id=2219, 569.20332pt x 531.62108pt>
+File: img/spring-balance.pdf Graphic file (type pdf)
+
+<use img/spring-balance.pdf>
+Package pdftex.def Info: img/spring-balance.pdf used on input line 46.
+(pdftex.def)             Requested size: 150.0pt x 140.09206pt.
+) [11 <./img/spring-balance.pdf>]
+(./img/density-tower.pdf_tex
+<img/density-tower.pdf, id=2240, 422.74321pt x 481.94133pt>
+File: img/density-tower.pdf Graphic file (type pdf)
+
+<use img/density-tower.pdf>
+Package pdftex.def Info: img/density-tower.pdf used on input line 46.
+(pdftex.def)             Requested size: 200.0pt x 228.00528pt.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12]
+LaTeX Info: Redefining \bond on input line 259.
+LaTeX Info: Redefining \dbond on input line 259.
+LaTeX Info: Redefining \tbond on input line 259.
+ [13 <./img/density-tower.pdf>]
+LaTeX Info: Redefining \bond on input line 260.
+LaTeX Info: Redefining \dbond on input line 260.
+LaTeX Info: Redefining \tbond on input line 260.
+LaTeX Info: Redefining \bond on input line 262.
+LaTeX Info: Redefining \dbond on input line 262.
+LaTeX Info: Redefining \tbond on input line 262.
+LaTeX Info: Redefining \bond on input line 268.
+LaTeX Info: Redefining \dbond on input line 268.
+LaTeX Info: Redefining \tbond on input line 268.
+LaTeX Info: Redefining \bond on input line 269.
+LaTeX Info: Redefining \dbond on input line 269.
+LaTeX Info: Redefining \tbond on input line 269.
+LaTeX Info: Redefining \bond on input line 270.
+LaTeX Info: Redefining \dbond on input line 270.
+LaTeX Info: Redefining \tbond on input line 270.
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--271
+
+ []
+
+[14]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [15]) (./tex/i-activities_forces.tex [16]
+<./img/helicopter-1.png, id=2308, 432.11438pt x 101.62968pt>
+File: ./img/helicopter-1.png Graphic file (type png)
+
+<use ./img/helicopter-1.png>
+Package pdftex.def Info: ./img/helicopter-1.png used on input line 77.
+(pdftex.def)             Requested size: 203.83417pt x 47.93964pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./img/helicopter-2.png, id=2309, 432.11438pt x 255.95625pt>
+File: ./img/helicopter-2.png Graphic file (type png)
+
+<use ./img/helicopter-2.png>
+Package pdftex.def Info: ./img/helicopter-2.png used on input line 85.
+(pdftex.def)             Requested size: 271.7835pt x 160.99161pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./tex/i-activities_archimedes-principle-flotation.tex [17] [18 <./img/helico
+pter-1.png> <./img/helicopter-2.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [19] (./img/hydrometer.pdf_tex
+<img/hydrometer.pdf, id=2345, 413.17812pt x 450.27736pt>
+File: img/hydrometer.pdf Graphic file (type pdf)
+
+<use img/hydrometer.pdf>
+Package pdftex.def Info: img/hydrometer.pdf used on input line 46.
+(pdftex.def)             Requested size: 150.0pt x 163.46698pt.
+) [20 <./img/hydrometer.pdf>])
+(./tex/i-activities_properties-of-matter.tex [21]
+(./img/adhesion-cohesion.pdf_tex
+<img/adhesion-cohesion.pdf, id=2375, 845.61441pt x 350.4012pt>
+File: img/adhesion-cohesion.pdf Graphic file (type pdf)
+
+<use img/adhesion-cohesion.pdf>
+Package pdftex.def Info: img/adhesion-cohesion.pdf used on input line 46.
+(pdftex.def)             Requested size: 200.0pt x 82.87361pt.
+) [22 <./img/adhesion-cohesion.pdf>] [23]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+[24]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [25] [26]) (./tex/i-activities_pressure.tex [27]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+<./img/pressure-solid1.png, id=2426, 152.06813pt x 126.4725pt>
+File: ./img/pressure-solid1.png Graphic file (type png)
+
+<use ./img/pressure-solid1.png>
+Package pdftex.def Info: ./img/pressure-solid1.png used on input line 88.
+(pdftex.def)             Requested size: 152.06775pt x 126.47218pt.
+
+<./img/pressure-solid2.png, id=2427, 155.83218pt x 118.94438pt>
+File: ./img/pressure-solid2.png Graphic file (type png)
+
+<use ./img/pressure-solid2.png>
+Package pdftex.def Info: ./img/pressure-solid2.png used on input line 96.
+(pdftex.def)             Requested size: 155.8318pt x 118.94408pt.
+ [28] [29 <./img/pressure-solid1.png> <./img/pressure-solid2.png>] (./img/carte
+sian-diver.pdf_tex
+<img/cartesian-diver.pdf, id=2445, 505.23747pt x 692.88457pt>
+File: img/cartesian-diver.pdf Graphic file (type pdf)
+
+<use img/cartesian-diver.pdf>
+Package pdftex.def Info: img/cartesian-diver.pdf used on input line 46.
+(pdftex.def)             Requested size: 100.0pt x 137.13658pt.
+) [30 <./img/cartesian-diver.pdf>]
+<./img/pressure-liquid.png, id=2461, 264.23718pt x 177.66376pt>
+File: ./img/pressure-liquid.png Graphic file (type png)
+
+<use ./img/pressure-liquid.png>
+Package pdftex.def Info: ./img/pressure-liquid.png used on input line 221.
+(pdftex.def)             Requested size: 264.23653pt x 177.66331pt.
+ [31]
+<./img/hydraulic-press.png, id=2473, 260.47313pt x 191.9672pt>
+File: ./img/hydraulic-press.png Graphic file (type png)
+
+<use ./img/hydraulic-press.png>
+Package pdftex.def Info: ./img/hydraulic-press.png used on input line 256.
+(pdftex.def)             Requested size: 260.47249pt x 191.96672pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32 <./img/pressure-liquid.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [33 <./img/hydraulic-press.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [34]
+(./img/auto-flushing-tank.pdf_tex
+<img/auto-flushing-tank.pdf, id=2498, 354.7904pt x 328.4577pt>
+File: img/auto-flushing-tank.pdf Graphic file (type pdf)
+
+<use img/auto-flushing-tank.pdf>
+Package pdftex.def Info: img/auto-flushing-tank.pdf used on input line 46.
+(pdftex.def)             Requested size: 100.0pt x 92.57396pt.
+) [35 <./img/auto-flushing-tank.pdf>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+)
+(./tex/i-activities_work-energy-power.tex [36]
+(./img/energy-conservation.pdf_tex
+<img/energy-conservation.pdf, id=2517, 586.07072pt x 525.11943pt>
+File: img/energy-conservation.pdf Graphic file (type pdf)
+
+<use img/energy-conservation.pdf>
+Package pdftex.def Info: img/energy-conservation.pdf used on input line 46.
+(pdftex.def)             Requested size: 100.0pt x 89.59763pt.
+) [37 <./img/energy-conservation.pdf>])
+(./tex/i-activities_light.tex
+<./img/prop-of-light.png, id=2528, 434.37282pt x 146.04562pt>
+File: ./img/prop-of-light.png Graphic file (type png)
+
+<use ./img/prop-of-light.png>
+Package pdftex.def Info: ./img/prop-of-light.png used on input line 24.
+(pdftex.def)             Requested size: 434.37175pt x 146.04524pt.
+ [38 <./img/prop-of-light.png>]
+<./img/pinhole-camera.png, id=2541, 441.90094pt x 215.30438pt>
+File: ./img/pinhole-camera.png Graphic file (type png)
+
+<use ./img/pinhole-camera.png>
+Package pdftex.def Info: ./img/pinhole-camera.png used on input line 90.
+(pdftex.def)             Requested size: 441.89986pt x 215.30385pt.
+ [39]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [40 <./img/pinhole-camera.png>]) [41]
+Chapter 2.
+(./tex/ii-activities_static-electricity.tex [42
+
+] [43]
+(./img/al-leaf-electroscope.pdf_tex
+<img/al-leaf-electroscope.pdf, id=2593, 472.57784pt x 421.42114pt>
+File: img/al-leaf-electroscope.pdf Graphic file (type pdf)
+
+<use img/al-leaf-electroscope.pdf>
+Package pdftex.def Info: img/al-leaf-electroscope.pdf used on input line 46.
+(pdftex.def)             Requested size: 200.0pt x 178.35248pt.
+) [44 <./img/al-leaf-electroscope.pdf>]
+[45]) (./tex/ii-activities_current-electricity.tex
+(./img/conductors-insulators.pdf_tex
+<img/conductors-insulators.pdf, id=2623, 1052.67607pt x 306.10104pt>
+File: img/conductors-insulators.pdf Graphic file (type pdf)
+
+<use img/conductors-insulators.pdf>
+Package pdftex.def Info: img/conductors-insulators.pdf used on input line 46.
+(pdftex.def)             Requested size: 200.0pt x 58.15512pt.
+) [46 <./img/conductors-insulators.pdf>]
+[47] [48]) (./tex/ii-activities_magnetism.tex [49]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [50]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+ [51]
+(./img/magnetic-fields.pdf_tex
+<img/magnetic-fields.pdf, id=2698, 728.94354pt x 531.48851pt>
+File: img/magnetic-fields.pdf Graphic file (type pdf)
+
+<use img/magnetic-fields.pdf>
+Package pdftex.def Info: img/magnetic-fields.pdf used on input line 46.
+(pdftex.def)             Requested size: 150.0pt x 109.36134pt.
+) [52 <./img/magnetic-fields.pdf>] [53]
+(./img/magnetic-dip-gauge.pdf_tex
+<img/magnetic-dip-gauge.pdf, id=2728, 372.12984pt x 260.504pt>
+File: img/magnetic-dip-gauge.pdf Graphic file (type pdf)
+
+<use img/magnetic-dip-gauge.pdf>
+Package pdftex.def Info: img/magnetic-dip-gauge.pdf used on input line 46.
+(pdftex.def)             Requested size: 150.0pt x 105.00269pt.
+))
+(./tex/ii-activities_forces-in-equilibrium.tex [54 <./img/magnetic-dip-gauge.pd
+f>] <./img/equilibrium-moment.png, id=2749, 268.00125pt x 117.43875pt>
+File: ./img/equilibrium-moment.png Graphic file (type png)
+
+<use ./img/equilibrium-moment.png>
+Package pdftex.def Info: ./img/equilibrium-moment.png used on input line 40.
+(pdftex.def)             Requested size: 268.00058pt x 117.43845pt.
+ [55 <./img/equilibrium-moment.png>]
+<./img/centre-of-gravity.png, id=2759, 286.82156pt x 96.36pt>
+File: ./img/centre-of-gravity.png Graphic file (type png)
+
+<use ./img/centre-of-gravity.png>
+Package pdftex.def Info: ./img/centre-of-gravity.png used on input line 95.
+(pdftex.def)             Requested size: 286.82085pt x 96.35974pt.
+ [56])
+(./tex/ii-activities_simple-machines.tex [57 <./img/centre-of-gravity.png>]
+<./img/block-n-tackle.png, id=2786, 167.12437pt x 261.22594pt>
+File: ./img/block-n-tackle.png Graphic file (type png)
+
+<use ./img/block-n-tackle.png>
+Package pdftex.def Info: ./img/block-n-tackle.png used on input line 44.
+(pdftex.def)             Requested size: 167.12395pt x 261.22528pt.
+ [58 <./img/block-n-tackle.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+)
+(./tex/ii-activities_motion-stright-line.tex [59])
+(./tex/ii-activities_newtons-laws.tex
+<./img/inertia.png, id=2811, 213.79875pt x 216.81pt>
+File: ./img/inertia.png Graphic file (type png)
+ <use ./img/inertia.png>
+Package pdftex.def Info: ./img/inertia.png used on input line 42.
+(pdftex.def)             Requested size: 213.79822pt x 216.80946pt.
+
+[60] [61 <./img/inertia.png>]
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ± in font cmbx12!
+ [62] [63]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+ [64] [65]) [66]
+Chapter 3.
+(./tex/iii-activities_friction.tex [67
+
+] (./img/limiting-friction.pdf_tex
+<img/limiting-friction.pdf, id=2921, 445.74832pt x 283.72346pt>
+File: img/limiting-friction.pdf Graphic file (type pdf)
+
+<use img/limiting-friction.pdf>
+Package pdftex.def Info: img/limiting-friction.pdf used on input line 46.
+(pdftex.def)             Requested size: 150.0pt x 95.47762pt.
+) [68 <./img/limiting-friction.pdf>])
+(./tex/iii-activities_light.tex [69]
+LaTeX Info: Redefining \bond on input line 83.
+LaTeX Info: Redefining \dbond on input line 83.
+LaTeX Info: Redefining \tbond on input line 83.
+LaTeX Info: Redefining \bond on input line 83.
+LaTeX Info: Redefining \dbond on input line 83.
+LaTeX Info: Redefining \tbond on input line 83.
+LaTeX Info: Redefining \bond on input line 83.
+LaTeX Info: Redefining \dbond on input line 83.
+LaTeX Info: Redefining \tbond on input line 83.
+LaTeX Info: Redefining \bond on input line 83.
+LaTeX Info: Redefining \dbond on input line 83.
+LaTeX Info: Redefining \tbond on input line 83.
+ [70] [71] [72] [73] [74] [75] [76])
+(./tex/iii-activities_thermal-expansion.tex [77]
+<./img/bimetallic-strip.png, id=3051, 213.79875pt x 171.64125pt>
+File: ./img/bimetallic-strip.png Graphic file (type png)
+
+<use ./img/bimetallic-strip.png>
+Package pdftex.def Info: ./img/bimetallic-strip.png used on input line 84.
+(pdftex.def)             Requested size: 213.79822pt x 171.64081pt.
+ [78] [79 <./img/bimetallic-strip.png>]
+(./img/thermal-switch.pdf_tex
+<img/thermal-switch.pdf, id=3080, 515.69838pt x 470.14136pt>
+File: img/thermal-switch.pdf Graphic file (type pdf)
+
+<use img/thermal-switch.pdf>
+Package pdftex.def Info: img/thermal-switch.pdf used on input line 46.
+(pdftex.def)             Requested size: 150.0pt x 136.7464pt.
+) [80] [81 <./img/thermal-switch.pdf>] [82]
+[83] [84] [85] [86] [87]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [88]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+)
+(./tex/iii-activities_transfer-thermal-energy.tex
+(./img/heat-conduction.pdf_tex
+<img/heat-conduction.pdf, id=3205, 683.39992pt x 647.97797pt>
+File: img/heat-conduction.pdf Graphic file (type pdf)
+
+<use img/heat-conduction.pdf>
+Package pdftex.def Info: img/heat-conduction.pdf used on input line 46.
+(pdftex.def)             Requested size: 100.0pt x 94.80965pt.
+) [89]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [90 <./img/heat-conduction.pdf>] [91]
+<./img/convection.png, id=3242, 169.38281pt x 258.21469pt>
+File: ./img/convection.png Graphic file (type png)
+
+<use ./img/convection.png>
+Package pdftex.def Info: ./img/convection.png used on input line 154.
+(pdftex.def)             Requested size: 169.38239pt x 258.21405pt.
+ [92 <./img/convection.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+<./img/radiation.png, id=3255, 228.855pt x 164.11313pt>
+File: ./img/radiation.png Graphic file (type png)
+
+<use ./img/radiation.png>
+Package pdftex.def Info: ./img/radiation.png used on input line 222.
+(pdftex.def)             Requested size: 228.85443pt x 164.11272pt.
+ [93]) (./tex/iii-activities_meas-thermal-energy.tex
+[94 <./img/radiation.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+<./img/calorimeter.png, id=3283, 345.54094pt x 197.23688pt>
+File: ./img/calorimeter.png Graphic file (type png)
+
+<use ./img/calorimeter.png>
+Package pdftex.def Info: ./img/calorimeter.png used on input line 41.
+(pdftex.def)             Requested size: 345.54008pt x 197.23637pt.
+ [95] [96 <./img/calorimeter.png>]
+<./img/boiling-room-temp.png, id=3308, 227.34938pt x 109.91063pt>
+File: ./img/boiling-room-temp.png Graphic file (type png)
+
+<use ./img/boiling-room-temp.png>
+Package pdftex.def Info: ./img/boiling-room-temp.png used on input line 101.
+(pdftex.def)             Requested size: 227.34882pt x 109.91034pt.
+ [97 <./img/boiling-room-temp.png>])
+(./tex/iii-activities_vapour-humidity.tex [98]
+<./img/hygrometer.png, id=3339, 146.79843pt x 184.43906pt>
+File: ./img/hygrometer.png Graphic file (type png)
+
+<use ./img/hygrometer.png>
+Package pdftex.def Info: ./img/hygrometer.png used on input line 38.
+(pdftex.def)             Requested size: 146.79807pt x 184.4386pt.
+ [99 <./img/hygrometer.png>])
+(./tex/iii-activities_current-electricity.tex [100] [101]
+(./img/metre-bridge.pdf_tex
+<img/metre-bridge.pdf, id=3368, 985.87872pt x 379.71472pt>
+File: img/metre-bridge.pdf Graphic file (type pdf)
+
+<use img/metre-bridge.pdf>
+Package pdftex.def Info: img/metre-bridge.pdf used on input line 46.
+(pdftex.def)             Requested size: 350.0pt x 134.80255pt.
+)
+<./img/ohm's-law.png, id=3369, 249.93375pt x 212.29312pt>
+File: ./img/ohm's-law.png Graphic file (type png)
+
+<use ./img/ohm's-law.png>
+Package pdftex.def Info: ./img/ohm's-law.png used on input line 83.
+(pdftex.def)             Requested size: 249.93314pt x 212.2926pt.
+ [102 <./img/metre-bridge.pdf>]
+(./img/potential-metre.pdf_tex
+<img/potential-metre.pdf, id=3390, 926.40103pt x 295.78317pt>
+File: img/potential-metre.pdf Graphic file (type pdf)
+
+<use img/potential-metre.pdf>
+Package pdftex.def Info: img/potential-metre.pdf used on input line 46.
+(pdftex.def)             Requested size: 300.0pt x 95.78537pt.
+) [103 <./img/ohm's-law.png> <./img/potential-metre.pdf>] <./img/electric-heate
+r.png, id=3407, 144.54pt x 185.19188pt>
+File: ./img/electric-heater.png Graphic file (type png)
+
+<use ./img/electric-heater.png>
+Package pdftex.def Info: ./img/electric-heater.png used on input line 161.
+(pdftex.def)             Requested size: 144.53963pt x 185.1914pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[104] [105 <./img/electric-heater.png>] [106]
+<./img/leclanche-cell.png, id=3441, 369.63094pt x 137.7647pt>
+File: ./img/leclanche-cell.png Graphic file (type png)
+
+<use ./img/leclanche-cell.png>
+Package pdftex.def Info: ./img/leclanche-cell.png used on input line 277.
+(pdftex.def)             Requested size: 369.63002pt x 137.76434pt.
+) [107 <./img/leclanche-cell.png>]
+Chapter 4.
+(./tex/iv-activities_waves.tex [108
+
+] [109] [110] [111] [112] [113] [114]
+[115]
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ä in font cmbx12!
+Missing character: There is no ô in font cmbx12!
+ [116]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [117] <./img/sonometer.png, id=3572, 205.5178pt x 237.13594pt>
+File: ./img/sonometer.png Graphic file (type png)
+
+<use ./img/sonometer.png>
+Package pdftex.def Info: ./img/sonometer.png used on input line 459.
+(pdftex.def)             Requested size: 205.5173pt x 237.13535pt.
+ [118 <./img/sonometer.png>]
+<./img/resonance-tube.png, id=3586, 231.11343pt x 171.64125pt>
+File: ./img/resonance-tube.png Graphic file (type png)
+
+<use ./img/resonance-tube.png>
+Package pdftex.def Info: ./img/resonance-tube.png used on input line 516.
+(pdftex.def)             Requested size: 231.11287pt x 171.64081pt.
+ [119]) (./tex/iv-activities_electromagnetism.tex [120 <./img/resonance-tube.pn
+g>] [121] [122] [123]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+<./img/induced-mag-field-coil.png, id=3656, 296.60812pt x 124.96687pt>
+File: ./img/induced-mag-field-coil.png Graphic file (type png)
+
+<use ./img/induced-mag-field-coil.png>
+Package pdftex.def Info: ./img/induced-mag-field-coil.png used on input line 13
+3.
+(pdftex.def)             Requested size: 284.52756pt x 119.88103pt.
+
+<./img/induced-mag-field-wire.png, id=3657, 257.46187pt x 153.57375pt>
+File: ./img/induced-mag-field-wire.png Graphic file (type png)
+
+<use ./img/induced-mag-field-wire.png>
+Package pdftex.def Info: ./img/induced-mag-field-wire.png used on input line 14
+9.
+(pdftex.def)             Requested size: 284.52756pt x 169.73305pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[124 <./img/induced-mag-field-coil.png>] [125 <./img/induced-mag-field-wire.png
+>] (./img/simple-motor.pdf_tex
+<img/simple-motor.pdf, id=3672, 1247.79616pt x 614.6197pt>
+File: img/simple-motor.pdf Graphic file (type pdf)
+
+<use img/simple-motor.pdf>
+Package pdftex.def Info: img/simple-motor.pdf used on input line 46.
+(pdftex.def)             Requested size: 300.0pt x 147.76495pt.
+) [126 <./img/simple-motor.pdf>] [127]
+(./img/inverter.pdf_tex <img/inverter.pdf, id=3703, 959.51724pt x 428.89612pt>
+File: img/inverter.pdf Graphic file (type pdf)
+
+<use img/inverter.pdf>
+Package pdftex.def Info: img/inverter.pdf used on input line 46.
+(pdftex.def)             Requested size: 250.0pt x 111.74596pt.
+) (./img/half-wave-rectifier.pdf_tex
+<img/half-wave-rectifier.pdf, id=3704, 674.87625pt x 665.4117pt>
+File: img/half-wave-rectifier.pdf Graphic file (type pdf)
+
+<use img/half-wave-rectifier.pdf>
+Package pdftex.def Info: img/half-wave-rectifier.pdf used on input line 46.
+(pdftex.def)             Requested size: 150.0pt x 147.89372pt.
+)
+<./img/full-wave-rectifier.png, id=3705, 261.97874pt x 94.85437pt>
+File: ./img/full-wave-rectifier.png Graphic file (type png)
+
+<use ./img/full-wave-rectifier.png>
+Package pdftex.def Info: ./img/full-wave-rectifier.png used on input line 341.
+(pdftex.def)             Requested size: 261.9781pt x 94.85413pt.
+ [128 <./img/inverter.pdf>] [129 <./img/half-wave-rectifier.pdf> <./img/full-wa
+ve-rectifier.png>] [130]
+(./img/water-turbine.pdf_tex
+<img/water-turbine.pdf, id=3757, 1304.40842pt x 819.64403pt>
+File: img/water-turbine.pdf Graphic file (type pdf)
+
+<use img/water-turbine.pdf>
+Package pdftex.def Info: img/water-turbine.pdf used on input line 46.
+(pdftex.def)             Requested size: 200.0pt x 125.66777pt.
+) [131 <./img/water-turbine.pdf>]
+(./img/wind-turbine.pdf_tex
+<img/wind-turbine.pdf, id=3780, 1053.48193pt x 1178.68456pt>
+File: img/wind-turbine.pdf Graphic file (type pdf)
+
+<use img/wind-turbine.pdf>
+Package pdftex.def Info: img/wind-turbine.pdf used on input line 46.
+(pdftex.def)             Requested size: 200.0pt x 223.75455pt.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[132]) (./tex/iv-activities_electronics.tex [133 <./img/wind-turbine.pdf>]
+<./img/diode.png, id=3810, 252.19218pt x 103.13531pt>
+File: ./img/diode.png Graphic file (type png)
+ <use ./img/diode.png>
+Package pdftex.def Info: ./img/diode.png used on input line 40.
+(pdftex.def)             Requested size: 252.19156pt x 103.13504pt.
+
+[134 <./img/diode.png>] [135]
+File: ./img/full-wave-rectifier.png Graphic file (type png)
+ <use ./img/full-wave-rectifier.png>
+Package pdftex.def Info: ./img/full-wave-rectifier.png used on input line 105.
+(pdftex.def)             Requested size: 261.9781pt x 94.85413pt.
+ [136]
+[137] (./img/half-wave-rectifier.pdf_tex
+File: img/half-wave-rectifier.pdf Graphic file (type pdf)
+ <use img/half-wave-rectifier.pdf>
+Package pdftex.def Info: img/half-wave-rectifier.pdf used on input line 46.
+(pdftex.def)             Requested size: 180.0pt x 177.47043pt.
+))
+(./tex/iv-activities_elementary-astronomy.tex [138] [139])
+(./tex/part-spw-phys.tex [140] [141
+
+]) (./tex/part-spw-mechanics.tex [142
+
+])
+(./tex/spw/archimedes-principle.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/archimedes-1.jpg, id=3914, 575.90157pt x 342.5297pt>
+File: ./img/archimedes-1.jpg Graphic file (type jpg)
+
+<use ./img/archimedes-1.jpg>
+Package pdftex.def Info: ./img/archimedes-1.jpg used on input line 26.
+(pdftex.def)             Requested size: 369.88582pt x 220.00224pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[143
+
+]) (./tex/spw/law-of-flotation.tex [144 <./img/archimedes-1.jpg>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/law-of-flotation-1.png, id=3939, 446.41782pt x 190.46156pt>
+File: ./img/law-of-flotation-1.png Graphic file (type png)
+
+<use ./img/law-of-flotation-1.png>
+Package pdftex.def Info: ./img/law-of-flotation-1.png used on input line 27.
+(pdftex.def)             Requested size: 398.33858pt x 169.95198pt.
+ [145
+
+ <./img/law-of-flotation-1.png>])
+(./tex/spw/elasticity.tex [146]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/elasticity-1.png, id=3964, 237.13594pt x 172.39406pt>
+File: ./img/elasticity-1.png Graphic file (type png)
+
+<use ./img/elasticity-1.png>
+Package pdftex.def Info: ./img/elasticity-1.png used on input line 25.
+(pdftex.def)             Requested size: 284.52756pt x 206.85341pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[147
+
+]) (./tex/spw/pressure-liquid.tex [148 <./img/elasticity-1.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/pressure-liquid-1.png, id=3989, 208.52907pt x 140.77594pt>
+File: ./img/pressure-liquid-1.png Graphic file (type png)
+
+<use ./img/pressure-liquid-1.png>
+Package pdftex.def Info: ./img/pressure-liquid-1.png used on input line 21.
+(pdftex.def)             Requested size: 227.62204pt x 153.6747pt.
+ [149
+
+ <./img/pressure-liquid-1.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+)
+(./tex/spw/linear-acceleration.tex [150]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/linear-acceleration-1.png, id=4013, 452.4403pt x 209.28188pt>
+File: ./img/linear-acceleration-1.png Graphic file (type png)
+
+<use ./img/linear-acceleration-1.png>
+Package pdftex.def Info: ./img/linear-acceleration-1.png used on input line 26.
+
+(pdftex.def)             Requested size: 398.33858pt x 184.25482pt.
+
+<./img/linear-acceleration-2.png, id=4014, 425.33907pt x 85.06781pt>
+File: ./img/linear-acceleration-2.png Graphic file (type png)
+
+<use ./img/linear-acceleration-2.png>
+Package pdftex.def Info: ./img/linear-acceleration-2.png used on input line 33.
+
+(pdftex.def)             Requested size: 398.33858pt x 79.67169pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[151
+
+ <./img/linear-acceleration-1.png>]) (./tex/spw/simple-pendulum.tex
+[152 <./img/linear-acceleration-2.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/pendulum-1.png, id=4043, 145.29282pt x 127.97812pt>
+File: ./img/pendulum-1.png Graphic file (type png)
+
+<use ./img/pendulum-1.png>
+Package pdftex.def Info: ./img/pendulum-1.png used on input line 23.
+(pdftex.def)             Requested size: 170.71652pt x 150.38211pt.
+ [153
+
+ <./img/pendulum-1.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+)
+(./tex/spw/coefficient-friction.tex [154]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<./img/coefficient-friction-1.png, id=4065, 318.43968pt x 144.54pt>
+File: ./img/coefficient-friction-1.png Graphic file (type png)
+
+<use ./img/coefficient-friction-1.png>
+Package pdftex.def Info: ./img/coefficient-friction-1.png used on input line 28
+.
+(pdftex.def)             Requested size: 284.52756pt x 129.14743pt.
+ [155
+
+ <./img/coefficient-friction-1.png>]) (./tex/part-spw-light.tex [156] [157
+
+]) (./tex/spw/law-of-reflection.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<./img/law-of-reflection-1.png, id=4093, 201.00093pt x 121.20282pt>
+File: ./img/law-of-reflection-1.png Graphic file (type png)
+
+<use ./img/law-of-reflection-1.png>
+Package pdftex.def Info: ./img/law-of-reflection-1.png used on input line 29.
+(pdftex.def)             Requested size: 227.62204pt x 137.25533pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[158
+
+]) (./tex/spw/plane-mirror.tex [159 <./img/law-of-reflection-1.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<./img/plane-mirror-1.png, id=4123, 228.855pt x 125.71968pt>
+File: ./img/plane-mirror-1.png Graphic file (type png)
+
+<use ./img/plane-mirror-1.png>
+Package pdftex.def Info: ./img/plane-mirror-1.png used on input line 29.
+(pdftex.def)             Requested size: 227.62204pt x 125.04794pt.
+ [160
+
+ <./img/plane-mirror-1.png>])
+(./tex/spw/refractive-index.tex [161]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/refractive-index-1.png, id=4152, 234.8775pt x 277.78781pt>
+File: ./img/refractive-index-1.png Graphic file (type png)
+
+<use ./img/refractive-index-1.png>
+Package pdftex.def Info: ./img/refractive-index-1.png used on input line 30.
+(pdftex.def)             Requested size: 227.62204pt x 269.20798pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[162
+
+]) (./tex/spw/critical-angle.tex [163 <./img/refractive-index-1.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<./img/critical-angle-1.png, id=4181, 192.72pt x 258.21469pt>
+File: ./img/critical-angle-1.png Graphic file (type png)
+
+<use ./img/critical-angle-1.png>
+Package pdftex.def Info: ./img/critical-angle-1.png used on input line 29.
+(pdftex.def)             Requested size: 113.81102pt x 152.48718pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[164
+
+]) (./tex/spw/minimum-deviation.tex [165 <./img/critical-angle-1.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/minimum-deviation-1.png, id=4211, 300.3722pt x 132.495pt>
+File: ./img/minimum-deviation-1.png Graphic file (type png)
+
+<use ./img/minimum-deviation-1.png>
+Package pdftex.def Info: ./img/minimum-deviation-1.png used on input line 28.
+(pdftex.def)             Requested size: 284.52756pt x 125.51572pt.
+ [166
+
+ <./img/minimum-deviation-1.png>])
+(./tex/spw/focal-length.tex [167]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/focal-length-1.png, id=4237, 365.86688pt x 212.29312pt>
+File: ./img/focal-length-1.png Graphic file (type png)
+
+<use ./img/focal-length-1.png>
+Package pdftex.def Info: ./img/focal-length-1.png used on input line 27.
+(pdftex.def)             Requested size: 284.52756pt x 165.1053pt.
+ [168
+
+ <./img/focal-length-1.png>])
+(./tex/spw/convex-lens.tex [169]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<./img/convex-lens-1.png, id=4264, 397.485pt x 220.57407pt>
+File: ./img/convex-lens-1.png Graphic file (type png)
+
+<use ./img/convex-lens-1.png>
+Package pdftex.def Info: ./img/convex-lens-1.png used on input line 27.
+(pdftex.def)             Requested size: 284.52756pt x 157.89436pt.
+ [170
+
+ <./img/convex-lens-1.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+)
+(./tex/part-spw-heat.tex [171] [172
+
+]) (./tex/spw/charles-law.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/charles-law-1.png, id=4291, 416.30531pt x 259.7203pt>
+File: ./img/charles-law-1.png Graphic file (type png)
+
+<use ./img/charles-law-1.png>
+Package pdftex.def Info: ./img/charles-law-1.png used on input line 28.
+(pdftex.def)             Requested size: 341.43306pt x 213.01958pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[173
+
+]) (./tex/spw/boyles-law.tex [174 <./img/charles-law-1.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/boyles-law-1.png, id=4318, 328.97906pt x 231.11343pt>
+File: ./img/boyles-law-1.png Graphic file (type png)
+
+<use ./img/boyles-law-1.png>
+Package pdftex.def Info: ./img/boyles-law-1.png used on input line 21.
+(pdftex.def)             Requested size: 284.52756pt x 199.8892pt.
+ [175
+
+ <./img/boyles-law-1.png>])
+(./tex/spw/pressure-law.tex [176]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/pressure-law-1.png, id=4337, 372.64218pt x 357.58594pt>
+File: ./img/pressure-law-1.png Graphic file (type png)
+
+<use ./img/pressure-law-1.png>
+Package pdftex.def Info: ./img/pressure-law-1.png used on input line 31.
+(pdftex.def)             Requested size: 227.62204pt x 218.42174pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[177
+
+]) (./tex/spw/melting-point.tex [178 <./img/pressure-law-1.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+[179
+
+]) (./tex/spw/effects-impurities-boiling.tex [180]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+[181
+
+]) (./tex/spw/effects-impurities-freezing.tex [182]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+) (./tex/spw/effects-pressure-melting.tex [183
+
+]
+Overfull \hbox (23.7175pt too wide) in paragraph at lines 1--1
+|\OT1/cmr/bx/n/24.88 Effects of Pres-sure on the Melt-ing Point| 
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+[184
+
+]) (./tex/spw/effects-pressure-boiling.tex [185]
+Overfull \hbox (15.17937pt too wide) in paragraph at lines 1--1
+|\OT1/cmr/bx/n/24.88 Effects of Pres-sure on the Boil-ing Point| 
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+[186
+
+]) (./tex/part-spw-electricity.tex [187] [188
+
+])
+(./tex/spw/internal-resistance.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/internal-resistance-1.png, id=4473, 304.13625pt x 298.86656pt>
+File: ./img/internal-resistance-1.png Graphic file (type png)
+
+<use ./img/internal-resistance-1.png>
+Package pdftex.def Info: ./img/internal-resistance-1.png used on input line 26.
+
+(pdftex.def)             Requested size: 170.71652pt x 167.76086pt.
+ [189
+
+ <./img/internal-resistance-1.png>])
+(./tex/spw/resistance-conductor.tex [190]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/resistance-conductor-1.png, id=4495, 239.39438pt x 106.14656pt>
+File: ./img/resistance-conductor-1.png Graphic file (type png)
+
+<use ./img/resistance-conductor-1.png>
+Package pdftex.def Info: ./img/resistance-conductor-1.png used on input line 23
+.
+(pdftex.def)             Requested size: 284.52756pt x 126.16696pt.
+ [191
+
+ <./img/resistance-conductor-1.png>]) (./tex/spw/wheatstone-bridge.tex [192]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/wheatstone-bridge-1.jpg, id=4517, 474.77374pt x 378.41376pt>
+File: ./img/wheatstone-bridge-1.jpg Graphic file (type jpg)
+
+<use ./img/wheatstone-bridge-1.jpg>
+Package pdftex.def Info: ./img/wheatstone-bridge-1.jpg used on input line 22.
+(pdftex.def)             Requested size: 341.43306pt x 272.14589pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[193
+
+]) (./tex/spw/ohms-law.tex [194 <./img/wheatstone-bridge-1.jpg>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/ohms-law-1.png, id=4541, 393.72093pt x 228.855pt>
+File: ./img/ohms-law-1.png Graphic file (type png)
+
+<use ./img/ohms-law-1.png>
+Package pdftex.def Info: ./img/ohms-law-1.png used on input line 26.
+(pdftex.def)             Requested size: 284.52756pt x 165.38307pt.
+ [195
+
+ <./img/ohms-law-1.png>])
+(./tex/spw/heating-effect-current.tex [196]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/heating-effect-current-1.png, id=4562, 348.55219pt x 406.51875pt>
+File: ./img/heating-effect-current-1.png Graphic file (type png)
+
+<use ./img/heating-effect-current-1.png>
+Package pdftex.def Info: ./img/heating-effect-current-1.png used on input line 
+42.
+(pdftex.def)             Requested size: 170.71652pt x 199.10909pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[197
+
+]) (./tex/part-spw-waves.tex [198 <./img/heating-effect-current-1.png>]
+[199
+
+]) (./tex/spw/speed-of-sound.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/speed-of-sound-1.png, id=4598, 407.27156pt x 475.7775pt>
+File: ./img/speed-of-sound-1.png Graphic file (type png)
+
+<use ./img/speed-of-sound-1.png>
+Package pdftex.def Info: ./img/speed-of-sound-1.png used on input line 24.
+(pdftex.def)             Requested size: 227.62204pt x 265.91087pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[200
+
+]) (./tex/spw/musical-notes.tex [201 <./img/speed-of-sound-1.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+<./img/musical-notes-1.png, id=4620, 336.50719pt x 146.04562pt>
+File: ./img/musical-notes-1.png Graphic file (type png)
+
+<use ./img/musical-notes-1.png>
+Package pdftex.def Info: ./img/musical-notes-1.png used on input line 25.
+(pdftex.def)             Requested size: 398.33858pt x 172.88274pt.
+ [202
+
+ <./img/musical-notes-1.png>])
+(./tex/local-materials-list.tex [203]
+Appendix A.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+[204
+
+] [205]
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+[206] [207]) (./tex/shika-express-phys.tex [208]
+Appendix B.
+
+Overfull \hbox (50.835pt too wide) in paragraph at lines 3--3
+|[]\OT1/cmr/bx/n/24.88 Shika Ex-press Demon-stra-tions for Physics| 
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 5.
+
+<./img/egg-float.png, id=4670, 214.55156pt x 170.13562pt>
+File: ./img/egg-float.png Graphic file (type png)
+
+<use ./img/egg-float.png>
+Package pdftex.def Info: ./img/egg-float.png used on input line 20.
+(pdftex.def)             Requested size: 142.26378pt x 112.81424pt.
+
+<./img/pressure-liquid-alt.png, id=4671, 293.59688pt x 179.92218pt>
+File: ./img/pressure-liquid-alt.png Graphic file (type png)
+
+<use ./img/pressure-liquid-alt.png>
+Package pdftex.def Info: ./img/pressure-liquid-alt.png used on input line 44.
+(pdftex.def)             Requested size: 227.62204pt x 139.4904pt.
+ [209
+
+ <./img/egg-float.png>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
+ [210 <./img/pressure-liquid-alt.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+ (./shika-phys.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package rerunfilecheck Info: File `shika-phys.out' has not changed.
+(rerunfilecheck)             Checksum: 47B627AAE45D46E346A4B5F64F6A2BD5;34540.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+ ) 
+Here is how much of TeX's memory you used:
+ 10411 strings out of 493315
+ 148666 string characters out of 6141455
+ 225014 words of memory out of 5000000
+ 11402 multiletter control sequences out of 15000+600000
+ 9677 words of font info for 36 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 41i,16n,37p,1229b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2013
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2013/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2013/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi7.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c
+:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2
+013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2013/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2013/texmf-dist/font
+s/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on shika-phys.pdf (211 pages, 2226205 bytes).
+PDF statistics:
+ 5157 PDF objects out of 6186 (max. 8388607)
+ 4781 compressed objects within 48 object streams
+ 2049 named destinations out of 2073 (max. 500000)
+ 4373 words of extra memory for PDF output out of 10000 (max. 10000000)
+
