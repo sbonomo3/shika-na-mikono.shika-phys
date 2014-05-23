@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.5)  11 APR 2014 13:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.5)  22 MAY 2014 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,161 +500,345 @@ LaTeX Info: Redefining \nameref on input line 5.
 \@outlinefile=\write3
 \openout3 = `shika-phys.out'.
 
- (./tex/title.tex [1
-
-{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./shika-phys.
-toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 6.
-
-(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 6.
-
-(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write4
-\openout4 = `shika-phys.toc'.
-
-
-(./tex/part-hands-on-activities.tex [2
-
-] [3
-
-])
+ (./tex/local-materials-list.tex
 Chapter 1.
-[4
-
-]
-Chapter 2.
-[5
-
-]
-Chapter 3.
-(./tex/iii-activities_optical-instruments-alt.tex
-<./img/source/simple-microscope.png, id=78, 353.82187pt x 451.6875pt>
-File: ./img/source/simple-microscope.png Graphic file (type png)
-
-<use ./img/source/simple-microscope.png>
-Package pdftex.def Info: ./img/source/simple-microscope.png used on input line 
-9.
-(pdftex.def)             Requested size: 226.48395pt x 289.13414pt.
-
-Overfull \hbox (5.0pt too wide) in paragraph at lines 9--10
- [] 
- []
-
-<./img/source/magnification.png, id=80, 268.00125pt x 410.2828pt>
-File: ./img/source/magnification.png Graphic file (type png)
-
-<use ./img/source/magnification.png>
-Package pdftex.def Info: ./img/source/magnification.png used on input line 28.
-(pdftex.def)             Requested size: 203.83417pt x 312.0498pt.
-
-Underfull \hbox (badness 8113) in paragraph at lines 40--42
-[]\OT1/cmr/m/n/10 Magnifying glass, mi-cro-scopes,
- []
-
-<./img/source/human-eye.png, id=81, 330.48468pt x 304.88907pt>
-File: ./img/source/human-eye.png Graphic file (type png)
-
-<use ./img/source/human-eye.png>
-Package pdftex.def Info: ./img/source/human-eye.png used on input line 47.
-(pdftex.def)             Requested size: 181.18439pt x 167.15915pt.
- [6
-
- <./img/source/simple-microscope.png> <./img/source/magnification.png>])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7 <./img/source/human-eye.png>]
-Chapter 4.
-(./tex/local-materials-list.tex [8
-
-]
-Appendix A.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
 (c:/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
+<./img/vso/using-local-materials.jpg, id=277, 542.025pt x 122.70844pt>
+File: ./img/vso/using-local-materials.jpg Graphic file (type jpg)
 
- []
+<use ./img/vso/using-local-materials.jpg>
+Package pdftex.def Info: ./img/vso/using-local-materials.jpg used on input line
+ 17.
+(pdftex.def)             Requested size: 341.43306pt x 77.29922pt.
 
+<./img/vso/multi-purpose-bottle.jpg, id=278, 405.76593pt x 136.25906pt>
+File: ./img/vso/multi-purpose-bottle.jpg Graphic file (type jpg)
 
-LaTeX Warning: Reference `sub:beambalance' on page 9 undefined on input line 23
-.
+<use ./img/vso/multi-purpose-bottle.jpg>
+Package pdftex.def Info: ./img/vso/multi-purpose-bottle.jpg used on input line 
+18.
+(pdftex.def)             Requested size: 341.43306pt x 114.6585pt.
 
-
-Package hyperref Warning: Suppressing empty link on input line 33.
-
-[9
-
-] [10]
-
-LaTeX Warning: Reference `sub:meascyl' on page 11 undefined on input line 110.
-
-
-LaTeX Warning: Reference `sub:metrerule' on page 11 undefined on input line 116
-.
-
-
-Package hyperref Warning: Suppressing empty link on input line 120.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--139
+Underfull \hbox (badness 10000) in paragraph at lines 21--27
 
  []
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
- []
+{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/vso/using
+-local-materials.jpg> <./img/vso/multi-purpose-bottle.jpg>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 110.
 
-[11] [12]
-
-Package hyperref Warning: Suppressing empty link on input line 217.
-
+(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
+LaTeX Font Info:    Try loading font information for U+msb on input line 110.
+
+(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./img/beam-balance.png, id=368, 239.39438pt x 210.03468pt>
+File: ./img/beam-balance.png Graphic file (type png)
+
+<use ./img/beam-balance.png>
+Package pdftex.def Info: ./img/beam-balance.png used on input line 113.
+(pdftex.def)             Requested size: 203.83417pt x 178.83798pt.
+
+<./img/vso/beakers.jpg, id=370, 331.99031pt x 94.10156pt>
+File: ./img/vso/beakers.jpg Graphic file (type jpg)
+
+<use ./img/vso/beakers.jpg>
+Package pdftex.def Info: ./img/vso/beakers.jpg used on input line 124.
+(pdftex.def)             Requested size: 227.62204pt x 64.51947pt.
+
+Overfull \hbox (6.13809pt too wide) in paragraph at lines 124--125
+ [] 
+ []
+
+<./img/source/volumetric.jpg, id=373, 338.01282pt x 195.73125pt>
+File: ./img/source/volumetric.jpg Graphic file (type jpg)
+
+<use ./img/source/volumetric.jpg>
+Package pdftex.def Info: ./img/source/volumetric.jpg used on input line 188.
+(pdftex.def)             Requested size: 181.18439pt x 104.91975pt.
+ [2 <./img/beam-balance.png> <./img/vso/beakers.jpg>]
+<./img/source/deflagrating-spoon.jpg, id=400, 230.36063pt x 280.04625pt>
+File: ./img/source/deflagrating-spoon.jpg Graphic file (type jpg)
+
+<use ./img/source/deflagrating-spoon.jpg>
+Package pdftex.def Info: ./img/source/deflagrating-spoon.jpg used on input line
+ 208.
+(pdftex.def)             Requested size: 135.89174pt x 165.2002pt.
+
+<./img/vso/tubes.jpg, id=401, 262.73157pt x 298.11375pt>
+File: ./img/vso/tubes.jpg Graphic file (type jpg)
+
+<use ./img/vso/tubes.jpg>
+Package pdftex.def Info: ./img/vso/tubes.jpg used on input line 217.
+(pdftex.def)             Requested size: 203.83417pt x 231.29504pt.
+
+<./img/vso/electrodes.jpg, id=402, 313.17pt x 157.33781pt>
+File: ./img/vso/electrodes.jpg Graphic file (type jpg)
+
+<use ./img/vso/electrodes.jpg>
+Package pdftex.def Info: ./img/vso/electrodes.jpg used on input line 238.
+(pdftex.def)             Requested size: 203.83417pt x 102.41pt.
+
+<./img/source/dry-cell.jpg, id=403, 252.945pt x 271.0125pt>
+File: ./img/source/dry-cell.jpg Graphic file (type jpg)
+
+<use ./img/source/dry-cell.jpg>
+Package pdftex.def Info: ./img/source/dry-cell.jpg used on input line 250.
+(pdftex.def)             Requested size: 181.18439pt x 194.1281pt.
+ [3 <./img/source/volumetric.jpg> <./img/source/deflagrating-spoon.jpg> <./img/
+vso/tubes.jpg> <./img/vso/electrodes.jpg>]
+<./img/vso/eureka-can.jpg, id=408, 210.03468pt x 156.585pt>
+File: ./img/vso/eureka-can.jpg Graphic file (type jpg)
+
+<use ./img/vso/eureka-can.jpg>
+Package pdftex.def Info: ./img/vso/eureka-can.jpg used on input line 306.
+(pdftex.def)             Requested size: 142.26378pt x 106.06064pt.
+
+<./img/source/filter-paper.jpg, id=409, 219.82124pt x 239.39438pt>
+File: ./img/source/filter-paper.jpg Graphic file (type jpg)
+
+<use ./img/source/filter-paper.jpg>
+Package pdftex.def Info: ./img/source/filter-paper.jpg used on input line 315.
+(pdftex.def)             Requested size: 181.18439pt x 197.32379pt.
+
+<./img/vso/funnels.jpg, id=410, 274.02374pt x 216.05719pt>
+File: ./img/vso/funnels.jpg Graphic file (type jpg)
+
+<use ./img/vso/funnels.jpg>
+Package pdftex.def Info: ./img/vso/funnels.jpg used on input line 333.
+(pdftex.def)             Requested size: 221.95676pt x 175.00864pt.
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 333--334
+ [] 
+ []
+
+[4 <./img/source/dry-cell.jpg> <./img/vso/eureka-can.jpg> <./img/source/filter-
+paper.jpg>] <./img/source/goggles.jpg, id=415, 254.45062pt x 453.94594pt>
+File: ./img/source/goggles.jpg Graphic file (type jpg)
+
+<use ./img/source/goggles.jpg>
+Package pdftex.def Info: ./img/source/goggles.jpg used on input line 364.
+(pdftex.def)             Requested size: 181.18439pt x 323.25282pt.
+
+<./img/source/heat-sources.jpg, id=416, 411.78844pt x 236.38312pt>
+File: ./img/source/heat-sources.jpg Graphic file (type jpg)
+
+<use ./img/source/heat-sources.jpg>
+Package pdftex.def Info: ./img/source/heat-sources.jpg used on input line 376.
+(pdftex.def)             Requested size: 221.95676pt x 127.41052pt.
+
+<./img/source/heat-sources-2.jpg, id=417, 287.57437pt x 350.81062pt>
+File: ./img/source/heat-sources-2.jpg Graphic file (type jpg)
+
+<use ./img/source/heat-sources-2.jpg>
+Package pdftex.def Info: ./img/source/heat-sources-2.jpg used on input line 377
+.
+(pdftex.def)             Requested size: 221.95676pt x 270.7727pt.
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 376--378
+ [] 
+ []
+
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 376--378
+ [] 
+ []
+
+[5 <./img/vso/funnels.jpg> <./img/source/goggles.jpg> <./img/source/heat-source
+s.jpg>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ <./img/vso/meas-cyl.jpg, id=424, 114.4275pt x 122.70844pt>
+File: ./img/vso/meas-cyl.jpg Graphic file (type jpg)
+
+<use ./img/vso/meas-cyl.jpg>
+Package pdftex.def Info: ./img/vso/meas-cyl.jpg used on input line 434.
+(pdftex.def)             Requested size: 90.5922pt x 97.15204pt.
+
+
+LaTeX Warning: Reference `cha:microscopy' on page 6 undefined on input line 446
+.
+
+
+LaTeX Warning: Reference `cha:microscopy' on page 6 undefined on input line 446
+.
+
+[6 <./img/source/heat-sources-2.jpg> <./img/vso/meas-cyl.jpg>]
+<./img/source/spoon.jpg, id=429, 191.9672pt x 92.59593pt>
+File: ./img/source/spoon.jpg Graphic file (type jpg)
+
+<use ./img/source/spoon.jpg>
+Package pdftex.def Info: ./img/source/spoon.jpg used on input line 465.
+(pdftex.def)             Requested size: 90.5922pt x 43.6981pt.
+
+<./img/source/syringe.jpg, id=432, 60.225pt x 190.46156pt>
+File: ./img/source/syringe.jpg Graphic file (type jpg)
+
+<use ./img/source/syringe.jpg>
+Package pdftex.def Info: ./img/source/syringe.jpg used on input line 500.
+(pdftex.def)             Requested size: 45.29955pt x 143.2643pt.
+
+<./img/vso/pulleys.jpg, id=433, 275.52937pt x 311.66437pt>
+File: ./img/vso/pulleys.jpg Graphic file (type jpg)
+
+<use ./img/vso/pulleys.jpg>
+Package pdftex.def Info: ./img/vso/pulleys.jpg used on input line 510.
+(pdftex.def)             Requested size: 181.18439pt x 204.95248pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--528
+
+ []
+
+[7 <./img/source/spoon.jpg> <./img/source/syringe.jpg> <./img/vso/pulleys.jpg>]
+<./img/source/scale-pans.png, id=444, 407.27156pt x 167.12437pt>
+File: ./img/source/scale-pans.png Graphic file (type png)
+
+<use ./img/source/scale-pans.png>
+Package pdftex.def Info: ./img/source/scale-pans.png used on input line 547.
+(pdftex.def)             Requested size: 227.62204pt x 93.40538pt.
+
+Overfull \hbox (6.13809pt too wide) in paragraph at lines 547--548
+ [] 
+ []
+
+<./img/source/slide-cover-slip.jpg, id=445, 258.21469pt x 188.20313pt>
+File: ./img/source/slide-cover-slip.jpg Graphic file (type jpg)
+
+<use ./img/source/slide-cover-slip.jpg>
+Package pdftex.def Info: ./img/source/slide-cover-slip.jpg used on input line 5
+71.
+(pdftex.def)             Requested size: 181.18439pt x 132.06291pt.
+
+<./img/source/spring-balance.png, id=446, 274.77657pt x 348.55219pt>
+File: ./img/source/spring-balance.png Graphic file (type png)
+
+<use ./img/source/spring-balance.png>
+Package pdftex.def Info: ./img/source/spring-balance.png used on input line 594
+.
+(pdftex.def)             Requested size: 181.18439pt x 229.83772pt.
+
+<./img/source/stoppers.jpg, id=447, 222.07968pt x 288.3272pt>
+File: ./img/source/stoppers.jpg Graphic file (type jpg)
+
+<use ./img/source/stoppers.jpg>
+Package pdftex.def Info: ./img/source/stoppers.jpg used on input line 611.
+(pdftex.def)             Requested size: 135.89174pt x 176.42926pt.
+ [8 <./img/source/scale-pans.png> <./img/source/slide-cover-slip.jpg> <./img/so
+urce/spring-balance.png>]
+File: ./img/source/syringe.jpg Graphic file (type jpg)
+
+<use ./img/source/syringe.jpg>
+Package pdftex.def Info: ./img/source/syringe.jpg used on input line 629.
+(pdftex.def)             Requested size: 45.29955pt x 143.2643pt.
+
+<./img/vso/test-tube-brush.jpg, id=456, 238.64156pt x 97.86563pt>
+File: ./img/vso/test-tube-brush.jpg Graphic file (type jpg)
+
+<use ./img/vso/test-tube-brush.jpg>
+Package pdftex.def Info: ./img/vso/test-tube-brush.jpg used on input line 642.
+(pdftex.def)             Requested size: 203.83417pt x 83.59084pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 645--645
+ |[]\OT1/cmr/bx/n/14.4 Test Tube Holder /
+ []
+
+<./img/vso/test-tube-holder.jpg, id=457, 194.22563pt x 117.43875pt>
+File: ./img/vso/test-tube-holder.jpg Graphic file (type jpg)
+
+<use ./img/vso/test-tube-holder.jpg>
+Package pdftex.def Info: ./img/vso/test-tube-holder.jpg used on input line 652.
+
+(pdftex.def)             Requested size: 203.83417pt x 123.25159pt.
+
+<./img/vso/test-tube-rack.jpg, id=458, 314.67563pt x 204.765pt>
+File: ./img/vso/test-tube-rack.jpg Graphic file (type jpg)
+
+<use ./img/vso/test-tube-rack.jpg>
+Package pdftex.def Info: ./img/vso/test-tube-rack.jpg used on input line 662.
+(pdftex.def)             Requested size: 203.83417pt x 132.63948pt.
+ [9 <./img/source/stoppers.jpg> <./img/vso/test-tube-brush.jpg> <./img/vso/test
+-tube-holder.jpg> <./img/vso/test-tube-rack.jpg>] <./img/vso/tripod-stand.jpg, 
+id=463, 213.79875pt x 238.64156pt>
+File: ./img/vso/tripod-stand.jpg Graphic file (type jpg)
+
+<use ./img/vso/tripod-stand.jpg>
+Package pdftex.def Info: ./img/vso/tripod-stand.jpg used on input line 672.
+(pdftex.def)             Requested size: 142.26378pt x 158.79295pt.
+
+<./img/source/trough.jpg, id=467, 237.88875pt x 263.48438pt>
+File: ./img/source/trough.jpg Graphic file (type jpg)
+
+<use ./img/source/trough.jpg>
+Package pdftex.def Info: ./img/source/trough.jpg used on input line 693.
+(pdftex.def)             Requested size: 181.18439pt x 200.68842pt.
+
+<./img/source/wire.jpg, id=468, 274.02374pt x 62.48344pt>
+File: ./img/source/wire.jpg Graphic file (type jpg)
+
+<use ./img/source/wire.jpg>
+Package pdftex.def Info: ./img/source/wire.jpg used on input line 735.
+(pdftex.def)             Requested size: 181.18439pt x 41.3145pt.
+ [10 <./img/vso/tripod-stand.jpg> <./img/source/trough.jpg>] <./img/source/wire
+-gauze.jpg, id=474, 277.78781pt x 137.01187pt>
+File: ./img/source/wire-gauze.jpg Graphic file (type jpg)
+
+<use ./img/source/wire-gauze.jpg>
+Package pdftex.def Info: ./img/source/wire-gauze.jpg used on input line 753.
+(pdftex.def)             Requested size: 181.18439pt x 89.36607pt.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
+ [11 <./img/source/wire.jpg> <./img/source/wire-gauze.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
  (./shika-phys.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 170.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 170.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `shika-phys.out' has not changed.
-(rerunfilecheck)             Checksum: D40E0FEE92DD2B6070270D17EB1DEB39;664.
+(rerunfilecheck)             Checksum: 48D8DC1E51E847CC55EEB7BAAA012619;4198.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 170.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
  ) 
 Here is how much of TeX's memory you used:
- 7475 strings out of 493315
- 108502 string characters out of 6141455
- 217799 words of memory out of 5000000
- 10782 multiletter control sequences out of 15000+600000
- 9019 words of font info for 34 fonts, out of 8000000 for 9000
+ 7796 strings out of 493315
+ 114465 string characters out of 6141455
+ 222456 words of memory out of 5000000
+ 10980 multiletter control sequences out of 15000+600000
+ 7977 words of font info for 31 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,11n,49p,546b,586s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,45p,599b,764s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2013
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2013/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2013/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2013/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
-.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/
-texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/20
-13/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on shika-phys.pdf (13 pages, 225008 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2013/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2013/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.
+pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on shika-phys.pdf (11 pages, 950156 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 544 PDF objects out of 1000 (max. 8388607)
+ 483 compressed objects within 5 object streams
+ 129 named destinations out of 1000 (max. 500000)
+ 695 words of extra memory for PDF output out of 10000 (max. 10000000)
 
