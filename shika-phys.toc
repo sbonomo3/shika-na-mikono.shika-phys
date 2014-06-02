@@ -1,56 +1,129 @@
 
 \contentsline {part}{I\hspace {1em}Hands-On Activities}{3}{part.1}
-\contentsline {chapter}{\numberline {1}Physics Activities for Form I}{4}{chapter.1}
-\contentsline {section}{\numberline {1.1}Measurement and Density/Relative Density}{4}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Data on Weighing}{4}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Data on Distance}{4}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Data on Time}{4}{subsection.1.1.3}
-\contentsline {subsection}{\numberline {1.1.4}Construction of a Metre Rule}{5}{subsection.1.1.4}
-\contentsline {subsection}{\numberline {1.1.5}Construction of a Beam Balance}{5}{subsection.1.1.5}
-\contentsline {subsection}{\numberline {1.1.6}Scale Pans}{5}{subsection.1.1.6}
-\contentsline {subsection}{\numberline {1.1.7}Construction of a Measuring Cylinder}{5}{subsection.1.1.7}
-\contentsline {subsection}{\numberline {1.1.8}Construction of a Eureka Can}{5}{subsection.1.1.8}
-\contentsline {subsection}{\numberline {1.1.9}Errors in Measurement}{5}{subsection.1.1.9}
-\contentsline {subsection}{\numberline {1.1.10}Density Column}{6}{subsection.1.1.10}
-\contentsline {subsection}{\numberline {1.1.11}U-Tube Apparatus}{6}{subsection.1.1.11}
-\contentsline {chapter}{\numberline {2}Physics Activities for Form II}{8}{chapter.2}
-\contentsline {chapter}{\numberline {3}Physics Activities for Form III}{9}{chapter.3}
-\contentsline {chapter}{\numberline {4}Physics Activities for Form IV}{10}{chapter.4}
-\contentsline {part}{Appendix}{10}{chapter.4}
+\contentsline {part}{Appendix}{4}{part.1}
 \save@tocdepth \setcounter {tocdepth}{0}
-\contentsline {chapter}{\numberline {A}Local Materials List}{11}{appendix.A}
-\contentsline {section}{\numberline {A.1}Alligator Clips}{11}{section.A.1}
-\contentsline {section}{\numberline {A.2}Balance}{11}{section.A.2}
-\contentsline {section}{\numberline {A.3}Beakers}{11}{section.A.3}
-\contentsline {section}{\numberline {A.4}Bunsen Burner}{11}{section.A.4}
-\contentsline {section}{\numberline {A.5}Circuit Components}{11}{section.A.5}
-\contentsline {section}{\numberline {A.6}Delivery Tube}{11}{section.A.6}
-\contentsline {section}{\numberline {A.7}Drawing Board}{12}{section.A.7}
-\contentsline {section}{\numberline {A.8}Droppers}{12}{section.A.8}
-\contentsline {section}{\numberline {A.9}Eureka Can}{12}{section.A.9}
-\contentsline {section}{\numberline {A.10}Funnel}{12}{section.A.10}
-\contentsline {section}{\numberline {A.11}Glass Blocks}{12}{section.A.11}
-\contentsline {section}{\numberline {A.12}Heat Source}{12}{section.A.12}
-\contentsline {section}{\numberline {A.13}Iron Filings}{12}{section.A.13}
-\contentsline {section}{\numberline {A.14}Light Bulbs}{12}{section.A.14}
-\contentsline {section}{\numberline {A.15}Masses}{13}{section.A.15}
-\contentsline {section}{\numberline {A.16}Measuring Cylinder}{13}{section.A.16}
-\contentsline {section}{\numberline {A.17}Metre Rule}{13}{section.A.17}
-\contentsline {section}{\numberline {A.18}Nichrome Wire / Resistance Wire}{13}{section.A.18}
-\contentsline {section}{\numberline {A.19}Optical Pins}{13}{section.A.19}
-\contentsline {section}{\numberline {A.20}Plane Mirror}{13}{section.A.20}
-\contentsline {section}{\numberline {A.21}Resistors}{13}{section.A.21}
-\contentsline {section}{\numberline {A.22}Retort Stand}{14}{section.A.22}
-\contentsline {section}{\numberline {A.23}Scale Pan}{14}{section.A.23}
-\contentsline {section}{\numberline {A.24}Spring Balance}{14}{section.A.24}
-\contentsline {section}{\numberline {A.25}Springs}{14}{section.A.25}
-\contentsline {section}{\numberline {A.26}Stopper}{14}{section.A.26}
-\contentsline {section}{\numberline {A.27}Stopwatches}{14}{section.A.27}
-\contentsline {section}{\numberline {A.28}Test Tubes}{14}{section.A.28}
-\contentsline {section}{\numberline {A.29}Test Tube Holder / Tongs}{15}{section.A.29}
-\contentsline {section}{\numberline {A.30}Test Tube Racks}{15}{section.A.30}
-\contentsline {section}{\numberline {A.31}Tripod Stands}{15}{section.A.31}
-\contentsline {section}{\numberline {A.32}Water Bath}{15}{section.A.32}
-\contentsline {section}{\numberline {A.33}Wire}{15}{section.A.33}
-\contentsline {subsection}{\numberline {A.33.1}All-purpose wire}{15}{subsection.A.33.1}
-\contentsline {subsection}{\numberline {A.33.2}Specific gauge wire}{15}{subsection.A.33.2}
+\contentsline {part}{Materials and Equipment}{4}{section*.2}
+\contentsline {chapter}{\numberline {A}Local Materials List}{5}{appendix.A}
+\contentsline {section}{\numberline {A.1}Alligator Clips}{6}{section.A.1}
+\contentsline {section}{\numberline {A.2}Balance}{6}{section.A.2}
+\contentsline {section}{\numberline {A.3}Beakers}{6}{section.A.3}
+\contentsline {section}{\numberline {A.4}Bulbs}{6}{section.A.4}
+\contentsline {section}{\numberline {A.5}Bunsen Burner}{6}{section.A.5}
+\contentsline {section}{\numberline {A.6}Circuit Components}{6}{section.A.6}
+\contentsline {section}{\numberline {A.7}Containers}{6}{section.A.7}
+\contentsline {section}{\numberline {A.8}Deflagrating Spoon}{7}{section.A.8}
+\contentsline {section}{\numberline {A.9}Delivery Tube}{7}{section.A.9}
+\contentsline {section}{\numberline {A.10}Drawing Board}{7}{section.A.10}
+\contentsline {section}{\numberline {A.11}Droppers}{7}{section.A.11}
+\contentsline {section}{\numberline {A.12}Electrodes}{7}{section.A.12}
+\contentsline {subsection}{\numberline {A.12.1}Graphite}{7}{subsection.A.12.1}
+\contentsline {subsection}{\numberline {A.12.2}Zinc}{7}{subsection.A.12.2}
+\contentsline {subsection}{\numberline {A.12.3}Iron}{8}{subsection.A.12.3}
+\contentsline {subsection}{\numberline {A.12.4}Copper}{8}{subsection.A.12.4}
+\contentsline {section}{\numberline {A.13}Eureka Can}{8}{section.A.13}
+\contentsline {section}{\numberline {A.14}Filter Paper}{8}{section.A.14}
+\contentsline {section}{\numberline {A.15}Flasks}{8}{section.A.15}
+\contentsline {section}{\numberline {A.16}Funnel}{8}{section.A.16}
+\contentsline {section}{\numberline {A.17}Glass blocks}{9}{section.A.17}
+\contentsline {section}{\numberline {A.18}Gloves}{9}{section.A.18}
+\contentsline {subsection}{\numberline {A.18.1}Latex gloves}{9}{subsection.A.18.1}
+\contentsline {subsection}{\numberline {A.18.2}Thick gloves}{9}{subsection.A.18.2}
+\contentsline {section}{\numberline {A.19}Goggles}{9}{section.A.19}
+\contentsline {section}{\numberline {A.20}Heat Source}{9}{section.A.20}
+\contentsline {subsection}{\numberline {A.20.1}Heating Solutions}{10}{subsection.A.20.1}
+\contentsline {subsection}{\numberline {A.20.2}Heating Solids}{10}{subsection.A.20.2}
+\contentsline {subsection}{\numberline {A.20.3}Flame Tests}{10}{subsection.A.20.3}
+\contentsline {section}{\numberline {A.21}Iron Filings}{10}{section.A.21}
+\contentsline {section}{\numberline {A.22}Masses}{10}{section.A.22}
+\contentsline {section}{\numberline {A.23}Measuring Cylinder}{10}{section.A.23}
+\contentsline {section}{\numberline {A.24}Metre Rule}{10}{section.A.24}
+\contentsline {section}{\numberline {A.25}Microscope}{10}{section.A.25}
+\contentsline {section}{\numberline {A.26}Mirrors}{10}{section.A.26}
+\contentsline {subsection}{\numberline {A.26.1}Plane Mirrors}{10}{subsection.A.26.1}
+\contentsline {subsection}{\numberline {A.26.2}Curved Mirrors}{11}{subsection.A.26.2}
+\contentsline {section}{\numberline {A.27}Nichrome Wire}{11}{section.A.27}
+\contentsline {section}{\numberline {A.28}Optical Pins}{11}{section.A.28}
+\contentsline {section}{\numberline {A.29}Pipettes}{11}{section.A.29}
+\contentsline {section}{\numberline {A.30}Pulleys}{11}{section.A.30}
+\contentsline {section}{\numberline {A.31}Resistors}{11}{section.A.31}
+\contentsline {section}{\numberline {A.32}Retort Stand}{12}{section.A.32}
+\contentsline {section}{\numberline {A.33}Scale Pans}{12}{section.A.33}
+\contentsline {section}{\numberline {A.34}Slides and Cover Slips}{12}{section.A.34}
+\contentsline {section}{\numberline {A.35}Spring Balance}{12}{section.A.35}
+\contentsline {section}{\numberline {A.36}Springs}{12}{section.A.36}
+\contentsline {section}{\numberline {A.37}Stoppers}{12}{section.A.37}
+\contentsline {section}{\numberline {A.38}Stopwatches}{13}{section.A.38}
+\contentsline {section}{\numberline {A.39}Test Tubes}{13}{section.A.39}
+\contentsline {subsection}{\numberline {A.39.1}Plastic Test Tubes}{13}{subsection.A.39.1}
+\contentsline {subsection}{\numberline {A.39.2}For Thermal Decomposition}{13}{subsection.A.39.2}
+\contentsline {section}{\numberline {A.40}Test Tube Brush}{13}{section.A.40}
+\contentsline {section}{\numberline {A.41}Test Tube Holder / Tongs}{13}{section.A.41}
+\contentsline {section}{\numberline {A.42}Test Tube Racks}{13}{section.A.42}
+\contentsline {section}{\numberline {A.43}Tripod Stands}{14}{section.A.43}
+\contentsline {section}{\numberline {A.44}Volumetric ``Glass''ware}{14}{section.A.44}
+\contentsline {section}{\numberline {A.45}Wash Bottle}{14}{section.A.45}
+\contentsline {section}{\numberline {A.46}Water Bath}{14}{section.A.46}
+\contentsline {section}{\numberline {A.47}Weights}{14}{section.A.47}
+\contentsline {subsection}{\numberline {A.47.1}Crude Weights}{14}{subsection.A.47.1}
+\contentsline {subsection}{\numberline {A.47.2}Adding Weight in Known Intervals}{14}{subsection.A.47.2}
+\contentsline {subsection}{\numberline {A.47.3}Precise Weights}{14}{subsection.A.47.3}
+\contentsline {section}{\numberline {A.48}Wire}{15}{section.A.48}
+\contentsline {subsection}{\numberline {A.48.1}Connecting Wires}{15}{subsection.A.48.1}
+\contentsline {subsection}{\numberline {A.48.2}Specific Gauge Wire}{15}{subsection.A.48.2}
+\contentsline {section}{\numberline {A.49}Wire Gauze}{15}{section.A.49}
+\contentsline {chapter}{\numberline {B}Low Tech Microscopy}{16}{appendix.B}
+\contentsline {section}{\numberline {B.1}Water as a lens}{16}{section.B.1}
+\contentsline {section}{\numberline {B.2}Perfect circles}{16}{section.B.2}
+\contentsline {section}{\numberline {B.3}Slides}{16}{section.B.3}
+\contentsline {section}{\numberline {B.4}Backlighting}{16}{section.B.4}
+\contentsline {section}{\numberline {B.5}Simple Microscopes and Magnifiers}{17}{section.B.5}
+\contentsline {subsection}{\numberline {B.5.1}Clear-Container Magnifiers}{17}{subsection.B.5.1}
+\contentsline {subsection}{\numberline {B.5.2}Simple Microscope}{17}{subsection.B.5.2}
+\contentsline {subsection}{\numberline {B.5.3}Simple Compound Microscope}{17}{subsection.B.5.3}
+\contentsline {subsection}{\numberline {B.5.4}Card Bridge Microscope}{17}{subsection.B.5.4}
+\contentsline {chapter}{\numberline {C}Storage of Materials}{18}{appendix.C}
+\contentsline {section}{\numberline {C.1}The Science Box}{18}{section.C.1}
+\contentsline {section}{\numberline {C.2}Card and Picture Boxes}{18}{section.C.2}
+\contentsline {section}{\numberline {C.3}Matchbox Drawers}{18}{section.C.3}
+\contentsline {section}{\numberline {C.4}Dividing Boxes}{18}{section.C.4}
+\contentsline {section}{\numberline {C.5}Envelopes and Bags}{18}{section.C.5}
+\contentsline {chapter}{\numberline {D}Pastes and Modeling Materials}{19}{appendix.D}
+\contentsline {section}{\numberline {D.1}Papier M\^{a}ch\'{e}}{19}{section.D.1}
+\contentsline {section}{\numberline {D.2}Papier M\^{a}ch\'{e} Layering}{19}{section.D.2}
+\contentsline {section}{\numberline {D.3}Modeling Clay}{19}{section.D.3}
+\contentsline {section}{\numberline {D.4}Paste and Sand Cement}{19}{section.D.4}
+\contentsline {section}{\numberline {D.5}Flour Paste}{20}{section.D.5}
+\contentsline {section}{\numberline {D.6}Casein Glue}{20}{section.D.6}
+\contentsline {part}{Interactive Learning}{20}{section*.4}
+\contentsline {chapter}{\numberline {E}Visual Aids and Displays}{22}{appendix.E}
+\contentsline {section}{\numberline {E.1}Science Corner}{22}{section.E.1}
+\contentsline {section}{\numberline {E.2}Cardboard Box Displays}{23}{section.E.2}
+\contentsline {subsection}{\numberline {E.2.1}Zigzag Multiboards}{23}{subsection.E.2.1}
+\contentsline {subsection}{\numberline {E.2.2}Portability}{23}{subsection.E.2.2}
+\contentsline {section}{\numberline {E.3}Hanging Displays}{23}{section.E.3}
+\contentsline {subsection}{\numberline {E.3.1}Display Beams and Hooks}{23}{subsection.E.3.1}
+\contentsline {subsection}{\numberline {E.3.2}Display Charts}{24}{subsection.E.3.2}
+\contentsline {subsection}{\numberline {E.3.3}String Display Lines}{24}{subsection.E.3.3}
+\contentsline {subsection}{\numberline {E.3.4}Carrier Bag Display}{25}{subsection.E.3.4}
+\contentsline {section}{\numberline {E.4}Transparent Flip-Sheets}{25}{section.E.4}
+\contentsline {section}{\numberline {E.5}Clothing Posters}{25}{section.E.5}
+\contentsline {section}{\numberline {E.6}Magnet Boards}{25}{section.E.6}
+\contentsline {chapter}{\numberline {F}Science Outside the Classroom}{26}{appendix.F}
+\contentsline {section}{\numberline {F.1}Science Clubs}{26}{section.F.1}
+\contentsline {subsection}{\numberline {F.1.1}Organizing a Club}{26}{subsection.F.1.1}
+\contentsline {subsection}{\numberline {F.1.2}Activities Record Book}{27}{subsection.F.1.2}
+\contentsline {subsection}{\numberline {F.1.3}Science Notice Board}{27}{subsection.F.1.3}
+\contentsline {subsection}{\numberline {F.1.4}Science in the News Book}{27}{subsection.F.1.4}
+\contentsline {subsection}{\numberline {F.1.5}Personal Science Kits}{27}{subsection.F.1.5}
+\contentsline {subsection}{\numberline {F.1.6}Collections and Research}{28}{subsection.F.1.6}
+\contentsline {subsection}{\numberline {F.1.7}Additional Practicals}{28}{subsection.F.1.7}
+\contentsline {section}{\numberline {F.2}Science Fairs}{28}{section.F.2}
+\contentsline {section}{\numberline {F.3}Science Competitions}{28}{section.F.3}
+\contentsline {section}{\numberline {F.4}Science Conferences \hfill \\ and Camps}{29}{section.F.4}
+\contentsline {section}{\numberline {F.5}Field Trips}{29}{section.F.5}
+\contentsline {chapter}{\numberline {G}Science in the Community}{30}{appendix.G}
+\contentsline {section}{\numberline {G.1}Science for All}{30}{section.G.1}
+\contentsline {section}{\numberline {G.2}Science Target Groups}{30}{section.G.2}
+\contentsline {section}{\numberline {G.3}Environmental \hfill \\ Awareness}{31}{section.G.3}
+\contentsline {section}{\numberline {G.4}Wildlife Conservation}{31}{section.G.4}
+\contentsline {section}{\numberline {G.5}Science and Health}{32}{section.G.5}
