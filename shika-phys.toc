@@ -1,129 +1,491 @@
 
-\contentsline {part}{I\hspace {1em}Hands-On Activities}{3}{part.1}
-\contentsline {part}{Appendix}{4}{part.1}
+\contentsline {part}{I\hspace {1em}Hands-On Activities}{9}{part.1}
+\contentsline {chapter}{\numberline {1}Physics Activities for Form I}{10}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction to Physics}{10}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Measurement and Data}{10}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Mechanics}{11}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Matter}{11}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Thermal Physics}{11}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Wave Motion}{11}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}Light and Optics}{12}{subsection.1.1.6}
+\contentsline {subsection}{\numberline {1.1.7}Electricity and Magnetism}{12}{subsection.1.1.7}
+\contentsline {section}{\numberline {1.2}Introduction to Laboratory Practice}{13}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Display of Hazardous Chemicals}{13}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}A Safety Game}{13}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}The Cleanliness Play}{13}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}The Tidiness Play}{13}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Complete the Circuit}{14}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}Density Tower}{15}{subsection.1.2.6}
+\contentsline {subsection}{\numberline {1.2.7}Sinkers and Floaters}{16}{subsection.1.2.7}
+\contentsline {subsection}{\numberline {1.2.8}Mixing Colours}{17}{subsection.1.2.8}
+\contentsline {section}{\numberline {1.3}Measurement and Density/Relative Density}{18}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Data on Weighing}{18}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Data on Distance}{18}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Data on Time}{19}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Data on Velocity}{19}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Construction of a Metre Rule}{20}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}Construction of a Beam Balance}{20}{subsection.1.3.6}
+\contentsline {subsection}{\numberline {1.3.7}Scale Pans}{20}{subsection.1.3.7}
+\contentsline {subsection}{\numberline {1.3.8}Construction of a Measuring Cylinder}{20}{subsection.1.3.8}
+\contentsline {subsection}{\numberline {1.3.9}Construction of a Eureka Can}{20}{subsection.1.3.9}
+\contentsline {subsection}{\numberline {1.3.10}Errors in Measurement}{21}{subsection.1.3.10}
+\contentsline {subsection}{\numberline {1.3.11}Density Tower}{21}{subsection.1.3.11}
+\contentsline {subsection}{\numberline {1.3.12}U-Tube Apparatus}{21}{subsection.1.3.12}
+\contentsline {section}{\numberline {1.4}Force}{22}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Examples of Forces}{22}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Making a Spring Balance}{22}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Observing Effects of Forces}{22}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Presence of Gravity}{22}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Helicopters}{23}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}Forces on Bridges}{23}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.7}Parachutes}{23}{subsection.1.4.7}
+\contentsline {subsection}{\numberline {1.4.8}Strengthening Bridges}{23}{subsection.1.4.8}
+\contentsline {section}{\numberline {1.5}Archimedes' Principle and the Law of Flotation}{24}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Verifying Archimedes' Principle}{24}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Verifying the Law of Flotation}{24}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Sinkers and Floaters}{25}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Egg Float}{25}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}Floating Candle}{25}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Cartesian Diver}{26}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}The Hydrometer}{26}{subsection.1.5.7}
+\contentsline {section}{\numberline {1.6}Structure and Properties of Matter}{27}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Student Particles}{27}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}A Model of Motion}{27}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Changes of State}{27}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Model of Brownian Movement}{27}{subsection.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}Salt is Made of Particles}{28}{subsection.1.6.5}
+\contentsline {subsection}{\numberline {1.6.6}Weighing Particles}{28}{subsection.1.6.6}
+\contentsline {subsection}{\numberline {1.6.7}Hooke's Law}{28}{subsection.1.6.7}
+\contentsline {subsection}{\numberline {1.6.8}Adhesion of Glass and Water}{29}{subsection.1.6.8}
+\contentsline {subsection}{\numberline {1.6.9}Pinching Water}{29}{subsection.1.6.9}
+\contentsline {subsection}{\numberline {1.6.10}Exploring Adhesion and Cohesion}{29}{subsection.1.6.10}
+\contentsline {subsection}{\numberline {1.6.11}Water Drops}{29}{subsection.1.6.11}
+\contentsline {subsection}{\numberline {1.6.12}Water Dome}{30}{subsection.1.6.12}
+\contentsline {subsection}{\numberline {1.6.13}Pin Float}{30}{subsection.1.6.13}
+\contentsline {subsection}{\numberline {1.6.14}Overflowing Glass}{30}{subsection.1.6.14}
+\contentsline {subsection}{\numberline {1.6.15}Blowing Bubbles}{30}{subsection.1.6.15}
+\contentsline {subsection}{\numberline {1.6.16}Capillary Rise}{31}{subsection.1.6.16}
+\contentsline {subsection}{\numberline {1.6.17}Moving Matches}{31}{subsection.1.6.17}
+\contentsline {subsection}{\numberline {1.6.18}Measuring Capillary Rise}{31}{subsection.1.6.18}
+\contentsline {subsection}{\numberline {1.6.19}Automatic Irrigation}{31}{subsection.1.6.19}
+\contentsline {subsection}{\numberline {1.6.20}Diffusion in Liquids}{32}{subsection.1.6.20}
+\contentsline {subsection}{\numberline {1.6.21}Smelling Particles}{32}{subsection.1.6.21}
+\contentsline {subsection}{\numberline {1.6.22}Diffusion in Daily Life}{32}{subsection.1.6.22}
+\contentsline {subsection}{\numberline {1.6.23}Diffusion and Pollution}{32}{subsection.1.6.23}
+\contentsline {subsection}{\numberline {1.6.24}Vanilla Balloon}{33}{subsection.1.6.24}
+\contentsline {subsection}{\numberline {1.6.25}Potato Osmosis}{33}{subsection.1.6.25}
+\contentsline {subsection}{\numberline {1.6.26}Semi-Permeable Membranes}{33}{subsection.1.6.26}
+\contentsline {subsection}{\numberline {1.6.27}Osmosis with Eggs}{33}{subsection.1.6.27}
+\contentsline {section}{\numberline {1.7}Pressure}{34}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}What is Pressure?}{34}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Balloon Pop}{34}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Carrying a Load on the Head}{34}{subsection.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}Potato Poke}{34}{subsection.1.7.4}
+\contentsline {subsection}{\numberline {1.7.5}Effect of Surface Area on Pressure}{35}{subsection.1.7.5}
+\contentsline {subsection}{\numberline {1.7.6}Pressure Increases with Depth}{35}{subsection.1.7.6}
+\contentsline {subsection}{\numberline {1.7.7}Pressure Acts in All Directions}{35}{subsection.1.7.7}
+\contentsline {subsection}{\numberline {1.7.8}Straw Fountain}{36}{subsection.1.7.8}
+\contentsline {subsection}{\numberline {1.7.9}Hydraulic Press}{36}{subsection.1.7.9}
+\contentsline {subsection}{\numberline {1.7.10}The Manometer}{36}{subsection.1.7.10}
+\contentsline {subsection}{\numberline {1.7.11}Overturned Glass}{37}{subsection.1.7.11}
+\contentsline {subsection}{\numberline {1.7.12}Holey Bottle}{37}{subsection.1.7.12}
+\contentsline {subsection}{\numberline {1.7.13}Bottle Crush}{37}{subsection.1.7.13}
+\contentsline {subsection}{\numberline {1.7.14}Automatic Flushing Tank}{37}{subsection.1.7.14}
+\contentsline {subsection}{\numberline {1.7.15}The Barometer}{38}{subsection.1.7.15}
+\contentsline {subsection}{\numberline {1.7.16}Madgeburg Hemisphere}{38}{subsection.1.7.16}
+\contentsline {subsection}{\numberline {1.7.17}The Siphon}{38}{subsection.1.7.17}
+\contentsline {section}{\numberline {1.8}Work, Energy and Power}{39}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Work Done by Lifting}{39}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}Work Done by Friction}{39}{subsection.1.8.2}
+\contentsline {subsection}{\numberline {1.8.3}Forms of Energy}{39}{subsection.1.8.3}
+\contentsline {subsection}{\numberline {1.8.4}A Slingshot}{39}{subsection.1.8.4}
+\contentsline {subsection}{\numberline {1.8.5}Potential Energy of a Clothespin}{40}{subsection.1.8.5}
+\contentsline {subsection}{\numberline {1.8.6}The Steam Engine}{40}{subsection.1.8.6}
+\contentsline {subsection}{\numberline {1.8.7}The Simple Pendulum}{40}{subsection.1.8.7}
+\contentsline {subsection}{\numberline {1.8.8}Stair Power}{40}{subsection.1.8.8}
+\contentsline {section}{\numberline {1.9}Light}{41}{section.1.9}
+\contentsline {subsection}{\numberline {1.9.1}Light Travels in a Straight Line}{41}{subsection.1.9.1}
+\contentsline {subsection}{\numberline {1.9.2}Light Through a Comb}{41}{subsection.1.9.2}
+\contentsline {subsection}{\numberline {1.9.3}Ray Boxes}{41}{subsection.1.9.3}
+\contentsline {subsection}{\numberline {1.9.4}Pinhole Camera}{42}{subsection.1.9.4}
+\contentsline {subsection}{\numberline {1.9.5}Transparent, Translucent, Opaque}{42}{subsection.1.9.5}
+\contentsline {subsection}{\numberline {1.9.6}Formation of Shadows}{42}{subsection.1.9.6}
+\contentsline {subsection}{\numberline {1.9.7}Laws of Reflection}{43}{subsection.1.9.7}
+\contentsline {subsection}{\numberline {1.9.8}Reversed Image}{43}{subsection.1.9.8}
+\contentsline {subsection}{\numberline {1.9.9}Images Formed in Multiple Mirrors}{43}{subsection.1.9.9}
+\contentsline {subsection}{\numberline {1.9.10}Periscope}{44}{subsection.1.9.10}
+\contentsline {subsection}{\numberline {1.9.11}Kaleidoscope}{44}{subsection.1.9.11}
+\contentsline {chapter}{\numberline {2}Physics Activities for Form II}{45}{chapter.2}
+\contentsline {section}{\numberline {2.1}Static Electricity}{45}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Paper Jump}{45}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Law of Electrostatics}{45}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Electrostatic Induction}{46}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Water Pull}{46}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Charged Balloon}{46}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Simple Electroscope}{46}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Construction of a Simple Electroscope}{47}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}Simple Detector}{47}{subsection.2.1.8}
+\contentsline {subsection}{\numberline {2.1.9}Paper Capacitor}{47}{subsection.2.1.9}
+\contentsline {section}{\numberline {2.2}Current Electricity}{48}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Conductors and Insulators}{48}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Student Circuits}{48}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Creating a Light Bulb}{48}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Verifying Ohm's Law}{48}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Circuit Boards}{49}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Switches}{49}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Rheostat}{49}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}Finding Circuit Components}{49}{subsection.2.2.8}
+\contentsline {section}{\numberline {2.3}Magnetism}{51}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Magnetic and Non-magnetic Materials}{51}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Interaction Between Magnets}{51}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Stroking Method}{51}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Electromagnet}{51}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Demagnetisation of a Magnet}{52}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Magnetic Filings}{52}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Simple Compass}{52}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}Magnetic Dip Gauge}{52}{subsection.2.3.8}
+\contentsline {section}{\numberline {2.4}Forces in Equilibrium}{53}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Ruler Balance}{53}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Door Tug-of-War}{53}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Moment of a Door}{53}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Candle Balance}{53}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Determining an Unknown \hfill \\ Mass}{54}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}Mass of a Ruler}{54}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {2.4.7}Finding the CoG}{54}{subsection.2.4.7}
+\contentsline {subsection}{\numberline {2.4.8}CoG of a Ruler}{54}{subsection.2.4.8}
+\contentsline {subsection}{\numberline {2.4.9}Balancing Forks}{55}{subsection.2.4.9}
+\contentsline {subsection}{\numberline {2.4.10}Balancing Nails}{55}{subsection.2.4.10}
+\contentsline {section}{\numberline {2.5}Simple Machines}{56}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Ruler Lever}{56}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Uses of Levers}{56}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}The Seesaw}{56}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Simple Pulleys}{57}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Uses of Pulleys}{57}{subsection.2.5.5}
+\contentsline {subsection}{\numberline {2.5.6}Single Pulley}{57}{subsection.2.5.6}
+\contentsline {subsection}{\numberline {2.5.7}Block and Tackle System}{58}{subsection.2.5.7}
+\contentsline {subsection}{\numberline {2.5.8}Strength vs. Science}{58}{subsection.2.5.8}
+\contentsline {subsection}{\numberline {2.5.9}The Ramp}{59}{subsection.2.5.9}
+\contentsline {subsection}{\numberline {2.5.10}Bottle Cap Gearworks}{59}{subsection.2.5.10}
+\contentsline {subsection}{\numberline {2.5.11}Syringe Hydraulics}{59}{subsection.2.5.11}
+\contentsline {section}{\numberline {2.6}Motion in a Straight Line}{60}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Object Toss}{60}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Uniform Motion}{60}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Accelerated Motion}{60}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Making the Vehicle}{60}{subsection.2.6.4}
+\contentsline {subsection}{\numberline {2.6.5}Making the Timing Cup}{60}{subsection.2.6.5}
+\contentsline {subsection}{\numberline {2.6.6}Ticker Timer}{61}{subsection.2.6.6}
+\contentsline {subsection}{\numberline {2.6.7}Determining Acceleration Due to Gravity}{61}{subsection.2.6.7}
+\contentsline {section}{\numberline {2.7}Newton's Laws of Motion}{62}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Bucket Swing}{62}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Card Flick}{62}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}Bucket Pendulums}{62}{subsection.2.7.3}
+\contentsline {subsection}{\numberline {2.7.4}Standing Passenger}{63}{subsection.2.7.4}
+\contentsline {subsection}{\numberline {2.7.5}Spinning Eggs}{63}{subsection.2.7.5}
+\contentsline {subsection}{\numberline {2.7.6}Atwood's Machine}{63}{subsection.2.7.6}
+\contentsline {subsection}{\numberline {2.7.7}Bumping Bottles}{63}{subsection.2.7.7}
+\contentsline {subsection}{\numberline {2.7.8}Pile of Coins}{64}{subsection.2.7.8}
+\contentsline {subsection}{\numberline {2.7.9}Dropping Fruit}{64}{subsection.2.7.9}
+\contentsline {subsection}{\numberline {2.7.10}Balloon Rocket}{64}{subsection.2.7.10}
+\contentsline {subsection}{\numberline {2.7.11}Pushing a Canoe}{64}{subsection.2.7.11}
+\contentsline {subsection}{\numberline {2.7.12}Boat Thrust}{64}{subsection.2.7.12}
+\contentsline {subsection}{\numberline {2.7.13}Pencil Launch}{64}{subsection.2.7.13}
+\contentsline {subsection}{\numberline {2.7.14}Elastic Boxes}{65}{subsection.2.7.14}
+\contentsline {subsection}{\numberline {2.7.15}Matchstick Rocket}{65}{subsection.2.7.15}
+\contentsline {subsection}{\numberline {2.7.16}Candle Boat}{65}{subsection.2.7.16}
+\contentsline {subsection}{\numberline {2.7.17}Bottle Rocket}{65}{subsection.2.7.17}
+\contentsline {section}{\numberline {2.8}Temperature}{66}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}Principle of a Thermometer}{66}{subsection.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}Fixed Points of a Thermometer}{66}{subsection.2.8.2}
+\contentsline {section}{\numberline {2.9}Sustainable Energy Sources}{67}{section.2.9}
+\contentsline {subsection}{\numberline {2.9.1}Water Wheel}{67}{subsection.2.9.1}
+\contentsline {subsection}{\numberline {2.9.2}Energy from the Sun}{67}{subsection.2.9.2}
+\contentsline {subsection}{\numberline {2.9.3}Windmills}{67}{subsection.2.9.3}
+\contentsline {chapter}{\numberline {3}Physics Activities for Form III}{68}{chapter.3}
+\contentsline {section}{\numberline {3.1}Friction}{68}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Useful Friction}{68}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Pencil Roller}{68}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Factors Affecting Friction}{68}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Limiting Friction}{69}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Friction Produces Heat}{69}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Lubrication}{70}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}Water as a Lubricant}{70}{subsection.3.1.7}
+\contentsline {section}{\numberline {3.2}Light}{71}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Radius of Curvature of a Concave Mirror}{71}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Concave and Convex Analogy}{71}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Images in a Convex Mirror}{71}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Rising Coin}{72}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Bending a Pencil with Water}{72}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Candle in Water}{72}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Refractive Index of Water}{72}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Refractive Index of Glass}{73}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.9}Total Internal Reflection}{73}{subsection.3.2.9}
+\contentsline {subsection}{\numberline {3.2.10}Plastic and Water Lenses}{74}{subsection.3.2.10}
+\contentsline {subsection}{\numberline {3.2.11}Focusing an Image Through A Convex Lens}{74}{subsection.3.2.11}
+\contentsline {subsection}{\numberline {3.2.12}Magnification Using a Convex Lens}{74}{subsection.3.2.12}
+\contentsline {subsection}{\numberline {3.2.13}Soap Bubbles}{75}{subsection.3.2.13}
+\contentsline {subsection}{\numberline {3.2.14}Water Prism}{75}{subsection.3.2.14}
+\contentsline {subsection}{\numberline {3.2.15}Mirrors and Water}{75}{subsection.3.2.15}
+\contentsline {subsection}{\numberline {3.2.16}Water Hose Rainbow}{75}{subsection.3.2.16}
+\contentsline {subsection}{\numberline {3.2.17}Colour Wheel}{76}{subsection.3.2.17}
+\contentsline {subsection}{\numberline {3.2.18}Batik and Tie Dyeing}{76}{subsection.3.2.18}
+\contentsline {section}{\numberline {3.3}Optical Instruments}{77}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Simple Microscope}{77}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Human Eye}{77}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Thermal Expansion}{78}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Explaining Expansion}{78}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Ring and Nail}{78}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Expansion of a Coin}{78}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Expansion of a Wire}{78}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Breaking Glass}{79}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Thermal Switch}{79}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.7}Bimetallic Strip}{79}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {3.4.8}Measuring Expansion}{79}{subsection.3.4.8}
+\contentsline {subsection}{\numberline {3.4.9}Allowing for Expansion}{80}{subsection.3.4.9}
+\contentsline {subsection}{\numberline {3.4.10}Rising Colours}{80}{subsection.3.4.10}
+\contentsline {subsection}{\numberline {3.4.11}Jumping Coin}{80}{subsection.3.4.11}
+\contentsline {subsection}{\numberline {3.4.12}Liquid Thermometers}{80}{subsection.3.4.12}
+\contentsline {subsection}{\numberline {3.4.13}Allowing for Liquid Expansion}{81}{subsection.3.4.13}
+\contentsline {subsection}{\numberline {3.4.14}Bottle Crush}{81}{subsection.3.4.14}
+\contentsline {subsection}{\numberline {3.4.15}Egg Suck}{81}{subsection.3.4.15}
+\contentsline {subsection}{\numberline {3.4.16}Spray Balloon}{81}{subsection.3.4.16}
+\contentsline {subsection}{\numberline {3.4.17}Syringe Suck}{82}{subsection.3.4.17}
+\contentsline {subsection}{\numberline {3.4.18}Balloon Blow}{82}{subsection.3.4.18}
+\contentsline {subsection}{\numberline {3.4.19}Balloon Suck}{82}{subsection.3.4.19}
+\contentsline {section}{\numberline {3.5}Transfer of Thermal Energy}{83}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Football Model of Thermal Energy}{83}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Heat Transfer in a Candle}{83}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Good and Bad Conductors of Heat}{84}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Rate of Conduction}{84}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {3.5.5}Coin Burn}{84}{subsection.3.5.5}
+\contentsline {subsection}{\numberline {3.5.6}Paper Pan}{84}{subsection.3.5.6}
+\contentsline {subsection}{\numberline {3.5.7}Fireproof Material}{84}{subsection.3.5.7}
+\contentsline {subsection}{\numberline {3.5.8}Candle Snuffer}{85}{subsection.3.5.8}
+\contentsline {subsection}{\numberline {3.5.9}Convection Detectors}{85}{subsection.3.5.9}
+\contentsline {subsection}{\numberline {3.5.10}Convection Currents}{85}{subsection.3.5.10}
+\contentsline {subsection}{\numberline {3.5.11}Breeze as a Convection Current}{85}{subsection.3.5.11}
+\contentsline {subsection}{\numberline {3.5.12}Ventilation System}{86}{subsection.3.5.12}
+\contentsline {subsection}{\numberline {3.5.13}Hot Air Balloon}{86}{subsection.3.5.13}
+\contentsline {subsection}{\numberline {3.5.14}Good and Bad Radiators}{86}{subsection.3.5.14}
+\contentsline {subsection}{\numberline {3.5.15}Good and Bad Heat Absorbers}{86}{subsection.3.5.15}
+\contentsline {section}{\numberline {3.6}Measurement of Thermal Energy}{87}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Specific Heat Capacity of Liquids}{87}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Mass and Thermal Energy}{87}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}The Calorimeter}{87}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Determining Specific Heat Capacity of a Liquid}{88}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.5}Application of Specific Heat Capacity}{88}{subsection.3.6.5}
+\contentsline {subsection}{\numberline {3.6.6}Condensation}{88}{subsection.3.6.6}
+\contentsline {subsection}{\numberline {3.6.7}Bottle Condensation}{88}{subsection.3.6.7}
+\contentsline {subsection}{\numberline {3.6.8}Determining Melting Point}{89}{subsection.3.6.8}
+\contentsline {subsection}{\numberline {3.6.9}Impurities and Boiling Point}{89}{subsection.3.6.9}
+\contentsline {subsection}{\numberline {3.6.10}Boiling Water at Room Temperature}{89}{subsection.3.6.10}
+\contentsline {subsection}{\numberline {3.6.11}Pressure Cooker}{89}{subsection.3.6.11}
+\contentsline {subsection}{\numberline {3.6.12}Evaporation and Cooling}{90}{subsection.3.6.12}
+\contentsline {subsection}{\numberline {3.6.13}Cooling Water}{90}{subsection.3.6.13}
+\contentsline {subsection}{\numberline {3.6.14}Latent Heat of Vaporisation}{90}{subsection.3.6.14}
+\contentsline {subsection}{\numberline {3.6.15}Distillation}{90}{subsection.3.6.15}
+\contentsline {section}{\numberline {3.7}Vapour and Humidity}{91}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Surface Area and Evaporation}{91}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Relative Humidity}{91}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}The Hygrometer}{91}{subsection.3.7.3}
+\contentsline {section}{\numberline {3.8}Current Electricity}{92}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Measuring Emf of a Cell}{92}{subsection.3.8.1}
+\contentsline {subsection}{\numberline {3.8.2}Internal Resistance of a Cell}{92}{subsection.3.8.2}
+\contentsline {subsection}{\numberline {3.8.3}Making a Potentiometer/Metre Bridge}{93}{subsection.3.8.3}
+\contentsline {subsection}{\numberline {3.8.4}The Potentiometer}{93}{subsection.3.8.4}
+\contentsline {subsection}{\numberline {3.8.5}Wheatstone Bridge}{93}{subsection.3.8.5}
+\contentsline {subsection}{\numberline {3.8.6}Heating Effect of an Electric Current}{94}{subsection.3.8.6}
+\contentsline {subsection}{\numberline {3.8.7}Electric Matches}{94}{subsection.3.8.7}
+\contentsline {subsection}{\numberline {3.8.8}Making an Electric Heater}{94}{subsection.3.8.8}
+\contentsline {subsection}{\numberline {3.8.9}The Fuse}{94}{subsection.3.8.9}
+\contentsline {subsection}{\numberline {3.8.10}Opening a Dry Cell}{95}{subsection.3.8.10}
+\contentsline {subsection}{\numberline {3.8.11}Creating a Leclanche Cell}{95}{subsection.3.8.11}
+\contentsline {chapter}{\numberline {4}Physics Activities for Form IV}{96}{chapter.4}
+\contentsline {section}{\numberline {4.1}Waves}{96}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}String Waves}{96}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Flick-Sticks}{96}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Water Waves}{96}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Energy from Waves}{96}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Water Bottle Sine Wave}{97}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Student Waves}{97}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Transfer of Energy}{97}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Slinky Spring}{97}{subsection.4.1.8}
+\contentsline {subsection}{\numberline {4.1.9}Transverse Pendulum}{98}{subsection.4.1.9}
+\contentsline {subsection}{\numberline {4.1.10}Longitudinal Pendulum}{98}{subsection.4.1.10}
+\contentsline {subsection}{\numberline {4.1.11}Longitudinal Student Waves}{98}{subsection.4.1.11}
+\contentsline {subsection}{\numberline {4.1.12}Construction of a Ripple Tank}{98}{subsection.4.1.12}
+\contentsline {subsection}{\numberline {4.1.13}Using the Ripple Tank}{99}{subsection.4.1.13}
+\contentsline {subsection}{\numberline {4.1.14}Reflection of Water Waves}{99}{subsection.4.1.14}
+\contentsline {subsection}{\numberline {4.1.15}Reflection of Sound Waves}{99}{subsection.4.1.15}
+\contentsline {subsection}{\numberline {4.1.16}Reflection in a Rope}{100}{subsection.4.1.16}
+\contentsline {subsection}{\numberline {4.1.17}Reflection in a Hose Pipe}{100}{subsection.4.1.17}
+\contentsline {subsection}{\numberline {4.1.18}Sound from a Ruler}{100}{subsection.4.1.18}
+\contentsline {subsection}{\numberline {4.1.19}Straw Kazoo}{100}{subsection.4.1.19}
+\contentsline {subsection}{\numberline {4.1.20}Sound Sandwich}{101}{subsection.4.1.20}
+\contentsline {subsection}{\numberline {4.1.21}Sound Vibrations}{101}{subsection.4.1.21}
+\contentsline {subsection}{\numberline {4.1.22}Drum Vibrations}{101}{subsection.4.1.22}
+\contentsline {subsection}{\numberline {4.1.23}Knocking a Water Tank}{101}{subsection.4.1.23}
+\contentsline {subsection}{\numberline {4.1.24}String Telephone}{102}{subsection.4.1.24}
+\contentsline {subsection}{\numberline {4.1.25}Sound in Air}{102}{subsection.4.1.25}
+\contentsline {subsection}{\numberline {4.1.26}Sound in a String}{102}{subsection.4.1.26}
+\contentsline {subsection}{\numberline {4.1.27}Sound in Wood}{102}{subsection.4.1.27}
+\contentsline {subsection}{\numberline {4.1.28}Sound in Metal}{103}{subsection.4.1.28}
+\contentsline {subsection}{\numberline {4.1.29}Sound in Water}{103}{subsection.4.1.29}
+\contentsline {subsection}{\numberline {4.1.30}Doppler Whirl}{103}{subsection.4.1.30}
+\contentsline {subsection}{\numberline {4.1.31}Bottle Orchestra}{103}{subsection.4.1.31}
+\contentsline {subsection}{\numberline {4.1.32}Bamboo Organ}{104}{subsection.4.1.32}
+\contentsline {subsection}{\numberline {4.1.33}Bamboo Flute}{104}{subsection.4.1.33}
+\contentsline {subsection}{\numberline {4.1.34}Marimba}{104}{subsection.4.1.34}
+\contentsline {subsection}{\numberline {4.1.35}Xylophone}{104}{subsection.4.1.35}
+\contentsline {subsection}{\numberline {4.1.36}Sonometer (One-String Guitar)}{105}{subsection.4.1.36}
+\contentsline {subsection}{\numberline {4.1.37}Resonance Tube}{105}{subsection.4.1.37}
+\contentsline {section}{\numberline {4.2}Electromagnetism}{106}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Induced Magnetic Field from a Coil}{106}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Induced Magnetic Field from a Wire}{106}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Making a Galvanometer}{106}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Spinning Compass}{106}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Force on a Current-Carrying Conductor in a Magnetic Field}{107}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Creating Current in a Wire}{107}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Creating Alternating Current}{107}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Simple Motor}{107}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Wind Turbine}{108}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Water Turbine}{108}{subsection.4.2.10}
+\contentsline {subsection}{\numberline {4.2.11}Inverter: Converting DC to AC}{109}{subsection.4.2.11}
+\contentsline {section}{\numberline {4.3}Electronics}{110}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Forward and Reverse Biased Diodes}{110}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Full-Wave Rectifier}{110}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Half-Wave Rectifier}{111}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Elementary Astronomy}{112}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Student Solar System}{112}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Solar System Mobile}{112}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Model of Sun-Earth-Moon}{112}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Centripetal Force}{113}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Bucket Swing}{113}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Star Gazing}{113}{subsection.4.4.6}
+\contentsline {part}{Appendix}{114}{section*.2}
 \save@tocdepth \setcounter {tocdepth}{0}
-\contentsline {part}{Materials and Equipment}{4}{section*.2}
-\contentsline {chapter}{\numberline {A}Local Materials List}{5}{appendix.A}
-\contentsline {section}{\numberline {A.1}Alligator Clips}{6}{section.A.1}
-\contentsline {section}{\numberline {A.2}Balance}{6}{section.A.2}
-\contentsline {section}{\numberline {A.3}Beakers}{6}{section.A.3}
-\contentsline {section}{\numberline {A.4}Bulbs}{6}{section.A.4}
-\contentsline {section}{\numberline {A.5}Bunsen Burner}{6}{section.A.5}
-\contentsline {section}{\numberline {A.6}Circuit Components}{6}{section.A.6}
-\contentsline {section}{\numberline {A.7}Containers}{6}{section.A.7}
-\contentsline {section}{\numberline {A.8}Deflagrating Spoon}{7}{section.A.8}
-\contentsline {section}{\numberline {A.9}Delivery Tube}{7}{section.A.9}
-\contentsline {section}{\numberline {A.10}Drawing Board}{7}{section.A.10}
-\contentsline {section}{\numberline {A.11}Droppers}{7}{section.A.11}
-\contentsline {section}{\numberline {A.12}Electrodes}{7}{section.A.12}
-\contentsline {subsection}{\numberline {A.12.1}Graphite}{7}{subsection.A.12.1}
-\contentsline {subsection}{\numberline {A.12.2}Zinc}{7}{subsection.A.12.2}
-\contentsline {subsection}{\numberline {A.12.3}Iron}{8}{subsection.A.12.3}
-\contentsline {subsection}{\numberline {A.12.4}Copper}{8}{subsection.A.12.4}
-\contentsline {section}{\numberline {A.13}Eureka Can}{8}{section.A.13}
-\contentsline {section}{\numberline {A.14}Filter Paper}{8}{section.A.14}
-\contentsline {section}{\numberline {A.15}Flasks}{8}{section.A.15}
-\contentsline {section}{\numberline {A.16}Funnel}{8}{section.A.16}
-\contentsline {section}{\numberline {A.17}Glass blocks}{9}{section.A.17}
-\contentsline {section}{\numberline {A.18}Gloves}{9}{section.A.18}
-\contentsline {subsection}{\numberline {A.18.1}Latex gloves}{9}{subsection.A.18.1}
-\contentsline {subsection}{\numberline {A.18.2}Thick gloves}{9}{subsection.A.18.2}
-\contentsline {section}{\numberline {A.19}Goggles}{9}{section.A.19}
-\contentsline {section}{\numberline {A.20}Heat Source}{9}{section.A.20}
-\contentsline {subsection}{\numberline {A.20.1}Heating Solutions}{10}{subsection.A.20.1}
-\contentsline {subsection}{\numberline {A.20.2}Heating Solids}{10}{subsection.A.20.2}
-\contentsline {subsection}{\numberline {A.20.3}Flame Tests}{10}{subsection.A.20.3}
-\contentsline {section}{\numberline {A.21}Iron Filings}{10}{section.A.21}
-\contentsline {section}{\numberline {A.22}Masses}{10}{section.A.22}
-\contentsline {section}{\numberline {A.23}Measuring Cylinder}{10}{section.A.23}
-\contentsline {section}{\numberline {A.24}Metre Rule}{10}{section.A.24}
-\contentsline {section}{\numberline {A.25}Microscope}{10}{section.A.25}
-\contentsline {section}{\numberline {A.26}Mirrors}{10}{section.A.26}
-\contentsline {subsection}{\numberline {A.26.1}Plane Mirrors}{10}{subsection.A.26.1}
-\contentsline {subsection}{\numberline {A.26.2}Curved Mirrors}{11}{subsection.A.26.2}
-\contentsline {section}{\numberline {A.27}Nichrome Wire}{11}{section.A.27}
-\contentsline {section}{\numberline {A.28}Optical Pins}{11}{section.A.28}
-\contentsline {section}{\numberline {A.29}Pipettes}{11}{section.A.29}
-\contentsline {section}{\numberline {A.30}Pulleys}{11}{section.A.30}
-\contentsline {section}{\numberline {A.31}Resistors}{11}{section.A.31}
-\contentsline {section}{\numberline {A.32}Retort Stand}{12}{section.A.32}
-\contentsline {section}{\numberline {A.33}Scale Pans}{12}{section.A.33}
-\contentsline {section}{\numberline {A.34}Slides and Cover Slips}{12}{section.A.34}
-\contentsline {section}{\numberline {A.35}Spring Balance}{12}{section.A.35}
-\contentsline {section}{\numberline {A.36}Springs}{12}{section.A.36}
-\contentsline {section}{\numberline {A.37}Stoppers}{12}{section.A.37}
-\contentsline {section}{\numberline {A.38}Stopwatches}{13}{section.A.38}
-\contentsline {section}{\numberline {A.39}Test Tubes}{13}{section.A.39}
-\contentsline {subsection}{\numberline {A.39.1}Plastic Test Tubes}{13}{subsection.A.39.1}
-\contentsline {subsection}{\numberline {A.39.2}For Thermal Decomposition}{13}{subsection.A.39.2}
-\contentsline {section}{\numberline {A.40}Test Tube Brush}{13}{section.A.40}
-\contentsline {section}{\numberline {A.41}Test Tube Holder / Tongs}{13}{section.A.41}
-\contentsline {section}{\numberline {A.42}Test Tube Racks}{13}{section.A.42}
-\contentsline {section}{\numberline {A.43}Tripod Stands}{14}{section.A.43}
-\contentsline {section}{\numberline {A.44}Volumetric ``Glass''ware}{14}{section.A.44}
-\contentsline {section}{\numberline {A.45}Wash Bottle}{14}{section.A.45}
-\contentsline {section}{\numberline {A.46}Water Bath}{14}{section.A.46}
-\contentsline {section}{\numberline {A.47}Weights}{14}{section.A.47}
-\contentsline {subsection}{\numberline {A.47.1}Crude Weights}{14}{subsection.A.47.1}
-\contentsline {subsection}{\numberline {A.47.2}Adding Weight in Known Intervals}{14}{subsection.A.47.2}
-\contentsline {subsection}{\numberline {A.47.3}Precise Weights}{14}{subsection.A.47.3}
-\contentsline {section}{\numberline {A.48}Wire}{15}{section.A.48}
-\contentsline {subsection}{\numberline {A.48.1}Connecting Wires}{15}{subsection.A.48.1}
-\contentsline {subsection}{\numberline {A.48.2}Specific Gauge Wire}{15}{subsection.A.48.2}
-\contentsline {section}{\numberline {A.49}Wire Gauze}{15}{section.A.49}
-\contentsline {chapter}{\numberline {B}Low Tech Microscopy}{16}{appendix.B}
-\contentsline {section}{\numberline {B.1}Water as a lens}{16}{section.B.1}
-\contentsline {section}{\numberline {B.2}Perfect circles}{16}{section.B.2}
-\contentsline {section}{\numberline {B.3}Slides}{16}{section.B.3}
-\contentsline {section}{\numberline {B.4}Backlighting}{16}{section.B.4}
-\contentsline {section}{\numberline {B.5}Simple Microscopes and Magnifiers}{17}{section.B.5}
-\contentsline {subsection}{\numberline {B.5.1}Clear-Container Magnifiers}{17}{subsection.B.5.1}
-\contentsline {subsection}{\numberline {B.5.2}Simple Microscope}{17}{subsection.B.5.2}
-\contentsline {subsection}{\numberline {B.5.3}Simple Compound Microscope}{17}{subsection.B.5.3}
-\contentsline {subsection}{\numberline {B.5.4}Card Bridge Microscope}{17}{subsection.B.5.4}
-\contentsline {chapter}{\numberline {C}Storage of Materials}{18}{appendix.C}
-\contentsline {section}{\numberline {C.1}The Science Box}{18}{section.C.1}
-\contentsline {section}{\numberline {C.2}Card and Picture Boxes}{18}{section.C.2}
-\contentsline {section}{\numberline {C.3}Matchbox Drawers}{18}{section.C.3}
-\contentsline {section}{\numberline {C.4}Dividing Boxes}{18}{section.C.4}
-\contentsline {section}{\numberline {C.5}Envelopes and Bags}{18}{section.C.5}
-\contentsline {chapter}{\numberline {D}Pastes and Modeling Materials}{19}{appendix.D}
-\contentsline {section}{\numberline {D.1}Papier M\^{a}ch\'{e}}{19}{section.D.1}
-\contentsline {section}{\numberline {D.2}Papier M\^{a}ch\'{e} Layering}{19}{section.D.2}
-\contentsline {section}{\numberline {D.3}Modeling Clay}{19}{section.D.3}
-\contentsline {section}{\numberline {D.4}Paste and Sand Cement}{19}{section.D.4}
-\contentsline {section}{\numberline {D.5}Flour Paste}{20}{section.D.5}
-\contentsline {section}{\numberline {D.6}Casein Glue}{20}{section.D.6}
-\contentsline {part}{Interactive Learning}{20}{section*.4}
-\contentsline {chapter}{\numberline {E}Visual Aids and Displays}{22}{appendix.E}
-\contentsline {section}{\numberline {E.1}Science Corner}{22}{section.E.1}
-\contentsline {section}{\numberline {E.2}Cardboard Box Displays}{23}{section.E.2}
-\contentsline {subsection}{\numberline {E.2.1}Zigzag Multiboards}{23}{subsection.E.2.1}
-\contentsline {subsection}{\numberline {E.2.2}Portability}{23}{subsection.E.2.2}
-\contentsline {section}{\numberline {E.3}Hanging Displays}{23}{section.E.3}
-\contentsline {subsection}{\numberline {E.3.1}Display Beams and Hooks}{23}{subsection.E.3.1}
-\contentsline {subsection}{\numberline {E.3.2}Display Charts}{24}{subsection.E.3.2}
-\contentsline {subsection}{\numberline {E.3.3}String Display Lines}{24}{subsection.E.3.3}
-\contentsline {subsection}{\numberline {E.3.4}Carrier Bag Display}{25}{subsection.E.3.4}
-\contentsline {section}{\numberline {E.4}Transparent Flip-Sheets}{25}{section.E.4}
-\contentsline {section}{\numberline {E.5}Clothing Posters}{25}{section.E.5}
-\contentsline {section}{\numberline {E.6}Magnet Boards}{25}{section.E.6}
-\contentsline {chapter}{\numberline {F}Science Outside the Classroom}{26}{appendix.F}
-\contentsline {section}{\numberline {F.1}Science Clubs}{26}{section.F.1}
-\contentsline {subsection}{\numberline {F.1.1}Organizing a Club}{26}{subsection.F.1.1}
-\contentsline {subsection}{\numberline {F.1.2}Activities Record Book}{27}{subsection.F.1.2}
-\contentsline {subsection}{\numberline {F.1.3}Science Notice Board}{27}{subsection.F.1.3}
-\contentsline {subsection}{\numberline {F.1.4}Science in the News Book}{27}{subsection.F.1.4}
-\contentsline {subsection}{\numberline {F.1.5}Personal Science Kits}{27}{subsection.F.1.5}
-\contentsline {subsection}{\numberline {F.1.6}Collections and Research}{28}{subsection.F.1.6}
-\contentsline {subsection}{\numberline {F.1.7}Additional Practicals}{28}{subsection.F.1.7}
-\contentsline {section}{\numberline {F.2}Science Fairs}{28}{section.F.2}
-\contentsline {section}{\numberline {F.3}Science Competitions}{28}{section.F.3}
-\contentsline {section}{\numberline {F.4}Science Conferences \hfill \\ and Camps}{29}{section.F.4}
-\contentsline {section}{\numberline {F.5}Field Trips}{29}{section.F.5}
-\contentsline {chapter}{\numberline {G}Science in the Community}{30}{appendix.G}
-\contentsline {section}{\numberline {G.1}Science for All}{30}{section.G.1}
-\contentsline {section}{\numberline {G.2}Science Target Groups}{30}{section.G.2}
-\contentsline {section}{\numberline {G.3}Environmental \hfill \\ Awareness}{31}{section.G.3}
-\contentsline {section}{\numberline {G.4}Wildlife Conservation}{31}{section.G.4}
-\contentsline {section}{\numberline {G.5}Science and Health}{32}{section.G.5}
+\contentsline {part}{Materials and Equipment}{114}{section*.3}
+\contentsline {chapter}{\numberline {A}Local Materials List}{115}{appendix.A}
+\contentsline {section}{\numberline {A.1}Alligator Clips}{116}{section.A.1}
+\contentsline {section}{\numberline {A.2}Balance}{116}{section.A.2}
+\contentsline {section}{\numberline {A.3}Beakers}{116}{section.A.3}
+\contentsline {section}{\numberline {A.4}Bulbs}{116}{section.A.4}
+\contentsline {section}{\numberline {A.5}Bunsen Burner}{116}{section.A.5}
+\contentsline {section}{\numberline {A.6}Circuit Components}{117}{section.A.6}
+\contentsline {section}{\numberline {A.7}Containers}{117}{section.A.7}
+\contentsline {section}{\numberline {A.8}Deflagrating Spoon}{117}{section.A.8}
+\contentsline {section}{\numberline {A.9}Delivery Tube}{117}{section.A.9}
+\contentsline {section}{\numberline {A.10}Drawing Board}{117}{section.A.10}
+\contentsline {section}{\numberline {A.11}Droppers}{117}{section.A.11}
+\contentsline {section}{\numberline {A.12}Electrodes}{117}{section.A.12}
+\contentsline {subsection}{\numberline {A.12.1}Graphite}{118}{subsection.A.12.1}
+\contentsline {subsection}{\numberline {A.12.2}Zinc}{118}{subsection.A.12.2}
+\contentsline {subsection}{\numberline {A.12.3}Iron}{118}{subsection.A.12.3}
+\contentsline {subsection}{\numberline {A.12.4}Copper}{118}{subsection.A.12.4}
+\contentsline {section}{\numberline {A.13}Eureka Can}{118}{section.A.13}
+\contentsline {section}{\numberline {A.14}Filter Paper}{118}{section.A.14}
+\contentsline {section}{\numberline {A.15}Flasks}{118}{section.A.15}
+\contentsline {section}{\numberline {A.16}Funnel}{119}{section.A.16}
+\contentsline {section}{\numberline {A.17}Glass blocks}{119}{section.A.17}
+\contentsline {section}{\numberline {A.18}Gloves}{119}{section.A.18}
+\contentsline {subsection}{\numberline {A.18.1}Latex gloves}{119}{subsection.A.18.1}
+\contentsline {subsection}{\numberline {A.18.2}Thick gloves}{119}{subsection.A.18.2}
+\contentsline {section}{\numberline {A.19}Goggles}{119}{section.A.19}
+\contentsline {section}{\numberline {A.20}Heat Source}{119}{section.A.20}
+\contentsline {subsection}{\numberline {A.20.1}Heating Solutions}{120}{subsection.A.20.1}
+\contentsline {subsection}{\numberline {A.20.2}Heating Solids}{120}{subsection.A.20.2}
+\contentsline {subsection}{\numberline {A.20.3}Flame Tests}{120}{subsection.A.20.3}
+\contentsline {section}{\numberline {A.21}Iron Filings}{120}{section.A.21}
+\contentsline {section}{\numberline {A.22}Masses}{120}{section.A.22}
+\contentsline {section}{\numberline {A.23}Measuring Cylinder}{120}{section.A.23}
+\contentsline {section}{\numberline {A.24}Metre Rule}{120}{section.A.24}
+\contentsline {section}{\numberline {A.25}Microscope}{121}{section.A.25}
+\contentsline {section}{\numberline {A.26}Mirrors}{121}{section.A.26}
+\contentsline {subsection}{\numberline {A.26.1}Plane Mirrors}{121}{subsection.A.26.1}
+\contentsline {subsection}{\numberline {A.26.2}Curved Mirrors}{121}{subsection.A.26.2}
+\contentsline {section}{\numberline {A.27}Nichrome Wire}{121}{section.A.27}
+\contentsline {section}{\numberline {A.28}Optical Pins}{121}{section.A.28}
+\contentsline {section}{\numberline {A.29}Pipettes}{121}{section.A.29}
+\contentsline {section}{\numberline {A.30}Pulleys}{121}{section.A.30}
+\contentsline {section}{\numberline {A.31}Resistors}{121}{section.A.31}
+\contentsline {section}{\numberline {A.32}Retort Stand}{122}{section.A.32}
+\contentsline {section}{\numberline {A.33}Scale Pans}{122}{section.A.33}
+\contentsline {section}{\numberline {A.34}Slides and Cover Slips}{122}{section.A.34}
+\contentsline {section}{\numberline {A.35}Spring Balance}{122}{section.A.35}
+\contentsline {section}{\numberline {A.36}Springs}{122}{section.A.36}
+\contentsline {section}{\numberline {A.37}Stoppers}{123}{section.A.37}
+\contentsline {section}{\numberline {A.38}Stopwatches}{123}{section.A.38}
+\contentsline {section}{\numberline {A.39}Test Tubes}{123}{section.A.39}
+\contentsline {subsection}{\numberline {A.39.1}Plastic Test Tubes}{123}{subsection.A.39.1}
+\contentsline {subsection}{\numberline {A.39.2}For Thermal Decomposition}{123}{subsection.A.39.2}
+\contentsline {section}{\numberline {A.40}Test Tube Brush}{123}{section.A.40}
+\contentsline {section}{\numberline {A.41}Test Tube Holder / Tongs}{123}{section.A.41}
+\contentsline {section}{\numberline {A.42}Test Tube Racks}{123}{section.A.42}
+\contentsline {section}{\numberline {A.43}Tripod Stands}{124}{section.A.43}
+\contentsline {section}{\numberline {A.44}Volumetric ``Glass''ware}{124}{section.A.44}
+\contentsline {section}{\numberline {A.45}Wash Bottle}{124}{section.A.45}
+\contentsline {section}{\numberline {A.46}Water Bath}{124}{section.A.46}
+\contentsline {section}{\numberline {A.47}Weights}{124}{section.A.47}
+\contentsline {subsection}{\numberline {A.47.1}Crude Weights}{124}{subsection.A.47.1}
+\contentsline {subsection}{\numberline {A.47.2}Adding Weight in Known Intervals}{124}{subsection.A.47.2}
+\contentsline {subsection}{\numberline {A.47.3}Precise Weights}{124}{subsection.A.47.3}
+\contentsline {section}{\numberline {A.48}Wire}{125}{section.A.48}
+\contentsline {subsection}{\numberline {A.48.1}Connecting Wires}{125}{subsection.A.48.1}
+\contentsline {subsection}{\numberline {A.48.2}Specific Gauge Wire}{125}{subsection.A.48.2}
+\contentsline {section}{\numberline {A.49}Wire Gauze}{125}{section.A.49}
+\contentsline {chapter}{\numberline {B}Low Tech Microscopy}{126}{appendix.B}
+\contentsline {section}{\numberline {B.1}Water as a lens}{126}{section.B.1}
+\contentsline {section}{\numberline {B.2}Perfect circles}{126}{section.B.2}
+\contentsline {section}{\numberline {B.3}Slides}{126}{section.B.3}
+\contentsline {section}{\numberline {B.4}Backlighting}{126}{section.B.4}
+\contentsline {section}{\numberline {B.5}Simple Microscopes and \hfill \\ Magnifiers}{127}{section.B.5}
+\contentsline {subsection}{\numberline {B.5.1}Clear-Container Magnifiers}{127}{subsection.B.5.1}
+\contentsline {subsection}{\numberline {B.5.2}Simple Microscope}{127}{subsection.B.5.2}
+\contentsline {subsection}{\numberline {B.5.3}Simple Compound \hfill \\ Microscope}{127}{subsection.B.5.3}
+\contentsline {subsection}{\numberline {B.5.4}Card Bridge Microscope}{127}{subsection.B.5.4}
+\contentsline {chapter}{\numberline {C}Storage of Materials}{128}{appendix.C}
+\contentsline {section}{\numberline {C.1}The Science Box}{128}{section.C.1}
+\contentsline {section}{\numberline {C.2}Card and Picture Boxes}{128}{section.C.2}
+\contentsline {section}{\numberline {C.3}Matchbox Drawers}{128}{section.C.3}
+\contentsline {section}{\numberline {C.4}Dividing Boxes}{128}{section.C.4}
+\contentsline {section}{\numberline {C.5}Envelopes and Bags}{128}{section.C.5}
+\contentsline {chapter}{\numberline {D}Pastes and Modeling Materials}{129}{appendix.D}
+\contentsline {section}{\numberline {D.1}Papier M\^{a}ch\'{e}}{129}{section.D.1}
+\contentsline {section}{\numberline {D.2}Papier M\^{a}ch\'{e} Layering}{129}{section.D.2}
+\contentsline {section}{\numberline {D.3}Modeling Clay}{129}{section.D.3}
+\contentsline {section}{\numberline {D.4}Paste and Sand Cement}{129}{section.D.4}
+\contentsline {section}{\numberline {D.5}Flour Paste}{130}{section.D.5}
+\contentsline {section}{\numberline {D.6}Casein Glue}{130}{section.D.6}
+\contentsline {part}{Interactive Learning}{130}{section*.5}
+\contentsline {chapter}{\numberline {E}Visual Aids and Displays}{132}{appendix.E}
+\contentsline {section}{\numberline {E.1}Science Corner}{132}{section.E.1}
+\contentsline {section}{\numberline {E.2}Cardboard Box Displays}{133}{section.E.2}
+\contentsline {subsection}{\numberline {E.2.1}Zigzag Multiboards}{133}{subsection.E.2.1}
+\contentsline {subsection}{\numberline {E.2.2}Portability}{133}{subsection.E.2.2}
+\contentsline {section}{\numberline {E.3}Hanging Displays}{133}{section.E.3}
+\contentsline {subsection}{\numberline {E.3.1}Display Beams and Hooks}{133}{subsection.E.3.1}
+\contentsline {subsection}{\numberline {E.3.2}Display Charts}{134}{subsection.E.3.2}
+\contentsline {subsection}{\numberline {E.3.3}String Display Lines}{134}{subsection.E.3.3}
+\contentsline {subsection}{\numberline {E.3.4}Carrier Bag Display}{135}{subsection.E.3.4}
+\contentsline {section}{\numberline {E.4}Transparent Flip-Sheets}{135}{section.E.4}
+\contentsline {section}{\numberline {E.5}Clothing Posters}{135}{section.E.5}
+\contentsline {section}{\numberline {E.6}Magnet Boards}{135}{section.E.6}
+\contentsline {chapter}{\numberline {F}Science Outside the Classroom}{136}{appendix.F}
+\contentsline {section}{\numberline {F.1}Science Clubs}{136}{section.F.1}
+\contentsline {subsection}{\numberline {F.1.1}Organizing a Club}{136}{subsection.F.1.1}
+\contentsline {subsection}{\numberline {F.1.2}Activities Record Book}{137}{subsection.F.1.2}
+\contentsline {subsection}{\numberline {F.1.3}Science Notice Board}{137}{subsection.F.1.3}
+\contentsline {subsection}{\numberline {F.1.4}Science in the News Book}{137}{subsection.F.1.4}
+\contentsline {subsection}{\numberline {F.1.5}Personal Science Kits}{137}{subsection.F.1.5}
+\contentsline {subsection}{\numberline {F.1.6}Collections and Research}{138}{subsection.F.1.6}
+\contentsline {subsection}{\numberline {F.1.7}Additional Practicals}{138}{subsection.F.1.7}
+\contentsline {section}{\numberline {F.2}Science Fairs}{138}{section.F.2}
+\contentsline {section}{\numberline {F.3}Science Competitions}{138}{section.F.3}
+\contentsline {section}{\numberline {F.4}Science Conferences \hfill \\ and Camps}{139}{section.F.4}
+\contentsline {section}{\numberline {F.5}Field Trips}{139}{section.F.5}
+\contentsline {chapter}{\numberline {G}Science in the Community}{140}{appendix.G}
+\contentsline {section}{\numberline {G.1}Science for All}{140}{section.G.1}
+\contentsline {section}{\numberline {G.2}Science Target Groups}{140}{section.G.2}
+\contentsline {section}{\numberline {G.3}Environmental \hfill \\ Awareness}{141}{section.G.3}
+\contentsline {section}{\numberline {G.4}Wildlife Conservation}{141}{section.G.4}
+\contentsline {section}{\numberline {G.5}Science and Health}{142}{section.G.5}
+\contentsline {chapter}{\numberline {H}Activity Template}{143}{appendix.H}
