@@ -1,5 +1,5 @@
-\BOOKMARK [-1][-]{part.1}{I Hands-On Activities}{}% 1
-\BOOKMARK [0][-]{chapter.1}{Physics Activities for Form I}{part.1}% 2
+\BOOKMARK [-1][-]{section*.2}{Hands-On Activities}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Physics Activities for Form I}{section*.2}% 2
 \BOOKMARK [1][-]{section.1.1}{Introduction to Physics}{chapter.1}% 3
 \BOOKMARK [2][-]{subsection.1.1.1}{Measurement and Data}{section.1.1}% 4
 \BOOKMARK [2][-]{subsection.1.1.2}{Mechanics}{section.1.1}% 5
@@ -16,7 +16,6 @@
 \BOOKMARK [2][-]{subsection.1.2.5}{Complete the Circuit}{section.1.2}% 16
 \BOOKMARK [2][-]{subsection.1.2.6}{Density Tower}{section.1.2}% 17
 \BOOKMARK [2][-]{subsection.1.2.7}{Sinkers and Floaters}{section.1.2}% 18
-\BOOKMARK [2][-]{subsection.1.2.8}{Mixing Colours}{section.1.2}% 19
 \BOOKMARK [1][-]{section.1.3}{Measurement and Density/Relative Density}{chapter.1}% 20
 \BOOKMARK [2][-]{subsection.1.3.1}{Data on Weighing}{section.1.3}% 21
 \BOOKMARK [2][-]{subsection.1.3.2}{Data on Distance}{section.1.3}% 22
@@ -30,6 +29,7 @@
 \BOOKMARK [2][-]{subsection.1.3.10}{Errors in Measurement}{section.1.3}% 30
 \BOOKMARK [2][-]{subsection.1.3.11}{Density Tower}{section.1.3}% 31
 \BOOKMARK [2][-]{subsection.1.3.12}{U-Tube Apparatus}{section.1.3}% 32
+\BOOKMARK [2][-]{subsection.1.2.8}{Mixing Colours}{section.1.2}% 19
 \BOOKMARK [1][-]{section.1.4}{Force}{chapter.1}% 33
 \BOOKMARK [2][-]{subsection.1.4.1}{Examples of Forces}{section.1.4}% 34
 \BOOKMARK [2][-]{subsection.1.4.2}{Making a Spring Balance}{section.1.4}% 35
@@ -38,7 +38,6 @@
 \BOOKMARK [2][-]{subsection.1.4.5}{Helicopters}{section.1.4}% 38
 \BOOKMARK [2][-]{subsection.1.4.6}{Forces on Bridges}{section.1.4}% 39
 \BOOKMARK [2][-]{subsection.1.4.7}{Parachutes}{section.1.4}% 40
-\BOOKMARK [2][-]{subsection.1.4.8}{Strengthening Bridges}{section.1.4}% 41
 \BOOKMARK [1][-]{section.1.5}{Archimedes' Principle and the Law of Flotation}{chapter.1}% 42
 \BOOKMARK [2][-]{subsection.1.5.1}{Verifying Archimedes' Principle}{section.1.5}% 43
 \BOOKMARK [2][-]{subsection.1.5.2}{Verifying the Law of Flotation}{section.1.5}% 44
@@ -47,6 +46,7 @@
 \BOOKMARK [2][-]{subsection.1.5.5}{Floating Candle}{section.1.5}% 47
 \BOOKMARK [2][-]{subsection.1.5.6}{Cartesian Diver}{section.1.5}% 48
 \BOOKMARK [2][-]{subsection.1.5.7}{The Hydrometer}{section.1.5}% 49
+\BOOKMARK [2][-]{subsection.1.4.8}{Strengthening Bridges}{section.1.4}% 41
 \BOOKMARK [1][-]{section.1.6}{Structure and Properties of Matter}{chapter.1}% 50
 \BOOKMARK [2][-]{subsection.1.6.1}{Student Particles}{section.1.6}% 51
 \BOOKMARK [2][-]{subsection.1.6.2}{A Model of Motion}{section.1.6}% 52
@@ -74,7 +74,6 @@
 \BOOKMARK [2][-]{subsection.1.6.24}{Vanilla Balloon}{section.1.6}% 74
 \BOOKMARK [2][-]{subsection.1.6.25}{Potato Osmosis}{section.1.6}% 75
 \BOOKMARK [2][-]{subsection.1.6.26}{Semi-Permeable Membranes}{section.1.6}% 76
-\BOOKMARK [2][-]{subsection.1.6.27}{Osmosis with Eggs}{section.1.6}% 77
 \BOOKMARK [1][-]{section.1.7}{Pressure}{chapter.1}% 78
 \BOOKMARK [2][-]{subsection.1.7.1}{What is Pressure?}{section.1.7}% 79
 \BOOKMARK [2][-]{subsection.1.7.2}{Balloon Pop}{section.1.7}% 80
@@ -92,6 +91,7 @@
 \BOOKMARK [2][-]{subsection.1.7.14}{Automatic Flushing Tank}{section.1.7}% 92
 \BOOKMARK [2][-]{subsection.1.7.15}{The Barometer}{section.1.7}% 93
 \BOOKMARK [2][-]{subsection.1.7.16}{Madgeburg Hemisphere}{section.1.7}% 94
+\BOOKMARK [2][-]{subsection.1.6.27}{Osmosis with Eggs}{section.1.6}% 77
 \BOOKMARK [2][-]{subsection.1.7.17}{The Siphon}{section.1.7}% 95
 \BOOKMARK [1][-]{section.1.8}{Work, Energy and Power}{chapter.1}% 96
 \BOOKMARK [2][-]{subsection.1.8.1}{Work Done by Lifting}{section.1.8}% 97
@@ -101,7 +101,6 @@
 \BOOKMARK [2][-]{subsection.1.8.5}{Potential Energy of a Clothespin}{section.1.8}% 101
 \BOOKMARK [2][-]{subsection.1.8.6}{The Steam Engine}{section.1.8}% 102
 \BOOKMARK [2][-]{subsection.1.8.7}{The Simple Pendulum}{section.1.8}% 103
-\BOOKMARK [2][-]{subsection.1.8.8}{Stair Power}{section.1.8}% 104
 \BOOKMARK [1][-]{section.1.9}{Light}{chapter.1}% 105
 \BOOKMARK [2][-]{subsection.1.9.1}{Light Travels in a Straight Line}{section.1.9}% 106
 \BOOKMARK [2][-]{subsection.1.9.2}{Light Through a Comb}{section.1.9}% 107
@@ -112,9 +111,10 @@
 \BOOKMARK [2][-]{subsection.1.9.7}{Laws of Reflection}{section.1.9}% 112
 \BOOKMARK [2][-]{subsection.1.9.8}{Reversed Image}{section.1.9}% 113
 \BOOKMARK [2][-]{subsection.1.9.9}{Images Formed in Multiple Mirrors}{section.1.9}% 114
+\BOOKMARK [2][-]{subsection.1.8.8}{Stair Power}{section.1.8}% 104
 \BOOKMARK [2][-]{subsection.1.9.10}{Periscope}{section.1.9}% 115
 \BOOKMARK [2][-]{subsection.1.9.11}{Kaleidoscope}{section.1.9}% 116
-\BOOKMARK [0][-]{chapter.2}{Physics Activities for Form II}{part.1}% 117
+\BOOKMARK [0][-]{chapter.2}{Physics Activities for Form II}{section*.2}% 117
 \BOOKMARK [1][-]{section.2.1}{Static Electricity}{chapter.2}% 118
 \BOOKMARK [2][-]{subsection.2.1.1}{Paper Jump}{section.2.1}% 119
 \BOOKMARK [2][-]{subsection.2.1.2}{Law of Electrostatics}{section.2.1}% 120
@@ -123,8 +123,6 @@
 \BOOKMARK [2][-]{subsection.2.1.5}{Charged Balloon}{section.2.1}% 123
 \BOOKMARK [2][-]{subsection.2.1.6}{Simple Electroscope}{section.2.1}% 124
 \BOOKMARK [2][-]{subsection.2.1.7}{Construction of a Simple Electroscope}{section.2.1}% 125
-\BOOKMARK [2][-]{subsection.2.1.8}{Simple Detector}{section.2.1}% 126
-\BOOKMARK [2][-]{subsection.2.1.9}{Paper Capacitor}{section.2.1}% 127
 \BOOKMARK [1][-]{section.2.2}{Current Electricity}{chapter.2}% 128
 \BOOKMARK [2][-]{subsection.2.2.1}{Conductors and Insulators}{section.2.2}% 129
 \BOOKMARK [2][-]{subsection.2.2.2}{Student Circuits}{section.2.2}% 130
@@ -134,6 +132,8 @@
 \BOOKMARK [2][-]{subsection.2.2.6}{Switches}{section.2.2}% 134
 \BOOKMARK [2][-]{subsection.2.2.7}{Rheostat}{section.2.2}% 135
 \BOOKMARK [2][-]{subsection.2.2.8}{Finding Circuit Components}{section.2.2}% 136
+\BOOKMARK [2][-]{subsection.2.1.8}{Simple Detector}{section.2.1}% 126
+\BOOKMARK [2][-]{subsection.2.1.9}{Paper Capacitor}{section.2.1}% 127
 \BOOKMARK [1][-]{section.2.3}{Magnetism}{chapter.2}% 137
 \BOOKMARK [2][-]{subsection.2.3.1}{Magnetic and Non-magnetic Materials}{section.2.3}% 138
 \BOOKMARK [2][-]{subsection.2.3.2}{Interaction Between Magnets}{section.2.3}% 139
@@ -148,7 +148,7 @@
 \BOOKMARK [2][-]{subsection.2.4.2}{Door Tug-of-War}{section.2.4}% 148
 \BOOKMARK [2][-]{subsection.2.4.3}{Moment of a Door}{section.2.4}% 149
 \BOOKMARK [2][-]{subsection.2.4.4}{Candle Balance}{section.2.4}% 150
-\BOOKMARK [2][-]{subsection.2.4.5}{Determining an Unknown \040Mass}{section.2.4}% 151
+\BOOKMARK [2][-]{subsection.2.4.5}{Determining an Unknown Mass}{section.2.4}% 151
 \BOOKMARK [2][-]{subsection.2.4.6}{Mass of a Ruler}{section.2.4}% 152
 \BOOKMARK [2][-]{subsection.2.4.7}{Finding the CoG}{section.2.4}% 153
 \BOOKMARK [2][-]{subsection.2.4.8}{CoG of a Ruler}{section.2.4}% 154
@@ -191,15 +191,15 @@
 \BOOKMARK [2][-]{subsection.2.7.14}{Elastic Boxes}{section.2.7}% 191
 \BOOKMARK [2][-]{subsection.2.7.15}{Matchstick Rocket}{section.2.7}% 192
 \BOOKMARK [2][-]{subsection.2.7.16}{Candle Boat}{section.2.7}% 193
-\BOOKMARK [2][-]{subsection.2.7.17}{Bottle Rocket}{section.2.7}% 194
 \BOOKMARK [1][-]{section.2.8}{Temperature}{chapter.2}% 195
 \BOOKMARK [2][-]{subsection.2.8.1}{Principle of a Thermometer}{section.2.8}% 196
 \BOOKMARK [2][-]{subsection.2.8.2}{Fixed Points of a Thermometer}{section.2.8}% 197
 \BOOKMARK [1][-]{section.2.9}{Sustainable Energy Sources}{chapter.2}% 198
 \BOOKMARK [2][-]{subsection.2.9.1}{Water Wheel}{section.2.9}% 199
 \BOOKMARK [2][-]{subsection.2.9.2}{Energy from the Sun}{section.2.9}% 200
+\BOOKMARK [2][-]{subsection.2.7.17}{Bottle Rocket}{section.2.7}% 194
 \BOOKMARK [2][-]{subsection.2.9.3}{Windmills}{section.2.9}% 201
-\BOOKMARK [0][-]{chapter.3}{Physics Activities for Form III}{part.1}% 202
+\BOOKMARK [0][-]{chapter.3}{Physics Activities for Form III}{section*.2}% 202
 \BOOKMARK [1][-]{section.3.1}{Friction}{chapter.3}% 203
 \BOOKMARK [2][-]{subsection.3.1.1}{Useful Friction}{section.3.1}% 204
 \BOOKMARK [2][-]{subsection.3.1.2}{Pencil Roller}{section.3.1}% 205
@@ -207,7 +207,6 @@
 \BOOKMARK [2][-]{subsection.3.1.4}{Limiting Friction}{section.3.1}% 207
 \BOOKMARK [2][-]{subsection.3.1.5}{Friction Produces Heat}{section.3.1}% 208
 \BOOKMARK [2][-]{subsection.3.1.6}{Lubrication}{section.3.1}% 209
-\BOOKMARK [2][-]{subsection.3.1.7}{Water as a Lubricant}{section.3.1}% 210
 \BOOKMARK [1][-]{section.3.2}{Light}{chapter.3}% 211
 \BOOKMARK [2][-]{subsection.3.2.1}{Radius of Curvature of a Concave Mirror}{section.3.2}% 212
 \BOOKMARK [2][-]{subsection.3.2.2}{Concave and Convex Analogy}{section.3.2}% 213
@@ -226,10 +225,10 @@
 \BOOKMARK [2][-]{subsection.3.2.15}{Mirrors and Water}{section.3.2}% 226
 \BOOKMARK [2][-]{subsection.3.2.16}{Water Hose Rainbow}{section.3.2}% 227
 \BOOKMARK [2][-]{subsection.3.2.17}{Colour Wheel}{section.3.2}% 228
+\BOOKMARK [2][-]{subsection.3.1.7}{Water as a Lubricant}{section.3.1}% 210
 \BOOKMARK [2][-]{subsection.3.2.18}{Batik and Tie Dyeing}{section.3.2}% 229
 \BOOKMARK [1][-]{section.3.3}{Optical Instruments}{chapter.3}% 230
 \BOOKMARK [2][-]{subsection.3.3.1}{Simple Microscope}{section.3.3}% 231
-\BOOKMARK [2][-]{subsection.3.3.2}{Human Eye}{section.3.3}% 232
 \BOOKMARK [1][-]{section.3.4}{Thermal Expansion}{chapter.3}% 233
 \BOOKMARK [2][-]{subsection.3.4.1}{Explaining Expansion}{section.3.4}% 234
 \BOOKMARK [2][-]{subsection.3.4.2}{Ring and Nail}{section.3.4}% 235
@@ -248,6 +247,7 @@
 \BOOKMARK [2][-]{subsection.3.4.15}{Egg Suck}{section.3.4}% 248
 \BOOKMARK [2][-]{subsection.3.4.16}{Spray Balloon}{section.3.4}% 249
 \BOOKMARK [2][-]{subsection.3.4.17}{Syringe Suck}{section.3.4}% 250
+\BOOKMARK [2][-]{subsection.3.3.2}{Human Eye}{section.3.3}% 232
 \BOOKMARK [2][-]{subsection.3.4.18}{Balloon Blow}{section.3.4}% 251
 \BOOKMARK [2][-]{subsection.3.4.19}{Balloon Suck}{section.3.4}% 252
 \BOOKMARK [1][-]{section.3.5}{Transfer of Thermal Energy}{chapter.3}% 253
@@ -265,7 +265,6 @@
 \BOOKMARK [2][-]{subsection.3.5.12}{Ventilation System}{section.3.5}% 265
 \BOOKMARK [2][-]{subsection.3.5.13}{Hot Air Balloon}{section.3.5}% 266
 \BOOKMARK [2][-]{subsection.3.5.14}{Good and Bad Radiators}{section.3.5}% 267
-\BOOKMARK [2][-]{subsection.3.5.15}{Good and Bad Heat Absorbers}{section.3.5}% 268
 \BOOKMARK [1][-]{section.3.6}{Measurement of Thermal Energy}{chapter.3}% 269
 \BOOKMARK [2][-]{subsection.3.6.1}{Specific Heat Capacity of Liquids}{section.3.6}% 270
 \BOOKMARK [2][-]{subsection.3.6.2}{Mass and Thermal Energy}{section.3.6}% 271
@@ -281,11 +280,11 @@
 \BOOKMARK [2][-]{subsection.3.6.12}{Evaporation and Cooling}{section.3.6}% 281
 \BOOKMARK [2][-]{subsection.3.6.13}{Cooling Water}{section.3.6}% 282
 \BOOKMARK [2][-]{subsection.3.6.14}{Latent Heat of Vaporisation}{section.3.6}% 283
+\BOOKMARK [2][-]{subsection.3.5.15}{Good and Bad Heat Absorbers}{section.3.5}% 268
 \BOOKMARK [2][-]{subsection.3.6.15}{Distillation}{section.3.6}% 284
 \BOOKMARK [1][-]{section.3.7}{Vapour and Humidity}{chapter.3}% 285
 \BOOKMARK [2][-]{subsection.3.7.1}{Surface Area and Evaporation}{section.3.7}% 286
 \BOOKMARK [2][-]{subsection.3.7.2}{Relative Humidity}{section.3.7}% 287
-\BOOKMARK [2][-]{subsection.3.7.3}{The Hygrometer}{section.3.7}% 288
 \BOOKMARK [1][-]{section.3.8}{Current Electricity}{chapter.3}% 289
 \BOOKMARK [2][-]{subsection.3.8.1}{Measuring Emf of a Cell}{section.3.8}% 290
 \BOOKMARK [2][-]{subsection.3.8.2}{Internal Resistance of a Cell}{section.3.8}% 291
@@ -297,8 +296,9 @@
 \BOOKMARK [2][-]{subsection.3.8.8}{Making an Electric Heater}{section.3.8}% 297
 \BOOKMARK [2][-]{subsection.3.8.9}{The Fuse}{section.3.8}% 298
 \BOOKMARK [2][-]{subsection.3.8.10}{Opening a Dry Cell}{section.3.8}% 299
+\BOOKMARK [2][-]{subsection.3.7.3}{The Hygrometer}{section.3.7}% 288
 \BOOKMARK [2][-]{subsection.3.8.11}{Creating a Leclanche Cell}{section.3.8}% 300
-\BOOKMARK [0][-]{chapter.4}{Physics Activities for Form IV}{part.1}% 301
+\BOOKMARK [0][-]{chapter.4}{Physics Activities for Form IV}{section*.2}% 301
 \BOOKMARK [1][-]{section.4.1}{Waves}{chapter.4}% 302
 \BOOKMARK [2][-]{subsection.4.1.1}{String Waves}{section.4.1}% 303
 \BOOKMARK [2][-]{subsection.4.1.2}{Flick-Sticks}{section.4.1}% 304
@@ -360,9 +360,9 @@
 \BOOKMARK [2][-]{subsection.4.4.4}{Centripetal Force}{section.4.4}% 360
 \BOOKMARK [2][-]{subsection.4.4.5}{Bucket Swing}{section.4.4}% 361
 \BOOKMARK [2][-]{subsection.4.4.6}{Star Gazing}{section.4.4}% 362
-\BOOKMARK [-1][-]{section*.2}{Appendix}{}% 363
-\BOOKMARK [-1][-]{section*.3}{Materials and Equipment}{}% 364
-\BOOKMARK [0][-]{appendix.A}{Local Materials List}{section*.3}% 365
+\BOOKMARK [-1][-]{section*.4}{Appendix}{}% 363
+\BOOKMARK [-1][-]{section*.5}{Materials and Equipment}{}% 364
+\BOOKMARK [0][-]{appendix.A}{Local Materials List}{section*.5}% 365
 \BOOKMARK [1][-]{section.A.1}{Alligator Clips}{appendix.A}% 366
 \BOOKMARK [1][-]{section.A.2}{Balance}{appendix.A}% 367
 \BOOKMARK [1][-]{section.A.3}{Beakers}{appendix.A}% 368
@@ -430,31 +430,31 @@
 \BOOKMARK [2][-]{subsection.A.48.1}{Connecting Wires}{section.A.48}% 430
 \BOOKMARK [2][-]{subsection.A.48.2}{Specific Gauge Wire}{section.A.48}% 431
 \BOOKMARK [1][-]{section.A.49}{Wire Gauze}{appendix.A}% 432
-\BOOKMARK [0][-]{appendix.B}{Low Tech Microscopy}{section*.3}% 433
+\BOOKMARK [0][-]{appendix.B}{Low Tech Microscopy}{section*.5}% 433
 \BOOKMARK [1][-]{section.B.1}{Water as a lens}{appendix.B}% 434
 \BOOKMARK [1][-]{section.B.2}{Perfect circles}{appendix.B}% 435
 \BOOKMARK [1][-]{section.B.3}{Slides}{appendix.B}% 436
 \BOOKMARK [1][-]{section.B.4}{Backlighting}{appendix.B}% 437
-\BOOKMARK [1][-]{section.B.5}{Simple Microscopes and \040Magnifiers}{appendix.B}% 438
+\BOOKMARK [1][-]{section.B.5}{Simple Microscopes and Magnifiers}{appendix.B}% 438
 \BOOKMARK [2][-]{subsection.B.5.1}{Clear-Container Magnifiers}{section.B.5}% 439
 \BOOKMARK [2][-]{subsection.B.5.2}{Simple Microscope}{section.B.5}% 440
-\BOOKMARK [2][-]{subsection.B.5.3}{Simple Compound \040Microscope}{section.B.5}% 441
+\BOOKMARK [2][-]{subsection.B.5.3}{Simple Compound Microscope}{section.B.5}% 441
 \BOOKMARK [2][-]{subsection.B.5.4}{Card Bridge Microscope}{section.B.5}% 442
-\BOOKMARK [0][-]{appendix.C}{Storage of Materials}{section*.3}% 443
+\BOOKMARK [0][-]{appendix.C}{Storage of Materials}{section*.5}% 443
 \BOOKMARK [1][-]{section.C.1}{The Science Box}{appendix.C}% 444
 \BOOKMARK [1][-]{section.C.2}{Card and Picture Boxes}{appendix.C}% 445
 \BOOKMARK [1][-]{section.C.3}{Matchbox Drawers}{appendix.C}% 446
 \BOOKMARK [1][-]{section.C.4}{Dividing Boxes}{appendix.C}% 447
 \BOOKMARK [1][-]{section.C.5}{Envelopes and Bags}{appendix.C}% 448
-\BOOKMARK [0][-]{appendix.D}{Pastes and Modeling Materials}{section*.3}% 449
+\BOOKMARK [0][-]{appendix.D}{Pastes and Modeling Materials}{section*.5}% 449
 \BOOKMARK [1][-]{section.D.1}{Papier M\342ch\351}{appendix.D}% 450
 \BOOKMARK [1][-]{section.D.2}{Papier M\342ch\351 Layering}{appendix.D}% 451
 \BOOKMARK [1][-]{section.D.3}{Modeling Clay}{appendix.D}% 452
 \BOOKMARK [1][-]{section.D.4}{Paste and Sand Cement}{appendix.D}% 453
 \BOOKMARK [1][-]{section.D.5}{Flour Paste}{appendix.D}% 454
 \BOOKMARK [1][-]{section.D.6}{Casein Glue}{appendix.D}% 455
-\BOOKMARK [-1][-]{section*.5}{Interactive Learning}{}% 456
-\BOOKMARK [0][-]{appendix.E}{Visual Aids and Displays}{section*.5}% 457
+\BOOKMARK [-1][-]{section*.7}{Interactive Learning}{}% 456
+\BOOKMARK [0][-]{appendix.E}{Visual Aids and Displays}{section*.7}% 457
 \BOOKMARK [1][-]{section.E.1}{Science Corner}{appendix.E}% 458
 \BOOKMARK [1][-]{section.E.2}{Cardboard Box Displays}{appendix.E}% 459
 \BOOKMARK [2][-]{subsection.E.2.1}{Zigzag Multiboards}{section.E.2}% 460
@@ -467,7 +467,7 @@
 \BOOKMARK [1][-]{section.E.4}{Transparent Flip-Sheets}{appendix.E}% 467
 \BOOKMARK [1][-]{section.E.5}{Clothing Posters}{appendix.E}% 468
 \BOOKMARK [1][-]{section.E.6}{Magnet Boards}{appendix.E}% 469
-\BOOKMARK [0][-]{appendix.F}{Science Outside the Classroom}{section*.5}% 470
+\BOOKMARK [0][-]{appendix.F}{Science Outside the Classroom}{section*.7}% 470
 \BOOKMARK [1][-]{section.F.1}{Science Clubs}{appendix.F}% 471
 \BOOKMARK [2][-]{subsection.F.1.1}{Organizing a Club}{section.F.1}% 472
 \BOOKMARK [2][-]{subsection.F.1.2}{Activities Record Book}{section.F.1}% 473
@@ -480,10 +480,10 @@
 \BOOKMARK [1][-]{section.F.3}{Science Competitions}{appendix.F}% 480
 \BOOKMARK [1][-]{section.F.4}{Science Conferences \040and Camps}{appendix.F}% 481
 \BOOKMARK [1][-]{section.F.5}{Field Trips}{appendix.F}% 482
-\BOOKMARK [0][-]{appendix.G}{Science in the Community}{section*.5}% 483
+\BOOKMARK [0][-]{appendix.G}{Science in the Community}{section*.7}% 483
 \BOOKMARK [1][-]{section.G.1}{Science for All}{appendix.G}% 484
 \BOOKMARK [1][-]{section.G.2}{Science Target Groups}{appendix.G}% 485
 \BOOKMARK [1][-]{section.G.3}{Environmental \040Awareness}{appendix.G}% 486
 \BOOKMARK [1][-]{section.G.4}{Wildlife Conservation}{appendix.G}% 487
 \BOOKMARK [1][-]{section.G.5}{Science and Health}{appendix.G}% 488
-\BOOKMARK [0][-]{appendix.H}{Activity Template}{section*.5}% 489
+\BOOKMARK [0][-]{appendix.H}{Activity Template}{section*.7}% 489
