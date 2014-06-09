@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.5)  5 JUN 2014 23:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.5)  9 JUN 2014 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -513,31 +513,59 @@ LaTeX Info: Redefining \nameref on input line 5.
 
  (./tex/title.tex [1
 
-{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./shika-phys.
-toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./tex/contact
+-info.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
 
 (c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
 
 (c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2
+)
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
-] [3] [4] [5]
-[6] [7])
+ []
+
+) (./tex/about-this-book.tex [2]) (./tex/preface.tex [3
+
+
+])
+(./tex/teaching-philosophy.tex [4
+
+
+]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [5
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+
+(c:/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+ [6]) [7]
+(./shika-phys.toc [8
+
+] [9] [10] [11] [12] [13])
 \tf@toc=\write5
 \openout5 = `shika-phys.toc'.
 
- (./tex/part-hands-on-activities.tex [8] [9
+
+(./tex/part-hands-on-activities.tex [14] [15
 
 
 ])
 Chapter 1.
 (./tex/i-activities_intro-physcs-alt.tex
-<./img/source/bucket-swing-2.png, id=2397, 285.31593pt x 361.35pt>
+<./img/source/bucket-swing-2.png, id=2450, 285.31593pt x 361.35pt>
 File: ./img/source/bucket-swing-2.png Graphic file (type png)
 
 <use ./img/source/bucket-swing-2.png>
@@ -554,7 +582,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-<./img/source/butcher.png, id=2399, 225.09094pt x 363.60844pt>
+<./img/source/butcher.png, id=2452, 225.09094pt x 363.60844pt>
 File: ./img/source/butcher.png Graphic file (type png)
 
 <use ./img/source/butcher.png>
@@ -565,7 +593,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--59
 
  []
 
-<./img/source/mechanics.png, id=2400, 350.05782pt x 204.765pt>
+<./img/source/mechanics.png, id=2453, 350.05782pt x 204.765pt>
 File: ./img/source/mechanics.png Graphic file (type png)
 
 <use ./img/source/mechanics.png>
@@ -576,10 +604,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
-[10
+[16
 
  <./img/source/bucket-swing-2.png> <./img/source/butcher.png>]
-<./img/source/matter.png, id=2407, 350.05782pt x 235.63031pt>
+<./img/source/matter.png, id=2460, 350.05782pt x 235.63031pt>
 File: ./img/source/matter.png Graphic file (type png)
 
 <use ./img/source/matter.png>
@@ -590,7 +618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--93
 
  []
 
-<./img/source/thermal-physics.png, id=2408, 275.52937pt x 255.20343pt>
+<./img/source/thermal-physics.png, id=2461, 275.52937pt x 255.20343pt>
 File: ./img/source/thermal-physics.png Graphic file (type png)
 
 <use ./img/source/thermal-physics.png>
@@ -602,7 +630,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
-<./img/source/wave-motion.jpg, id=2409, 278.54062pt x 292.09125pt>
+<./img/source/wave-motion.jpg, id=2462, 278.54062pt x 292.09125pt>
 File: ./img/source/wave-motion.jpg Graphic file (type jpg)
 
 <use ./img/source/wave-motion.jpg>
@@ -613,9 +641,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--126
 
  []
 
-[11 <./img/source/mechanics.png> <./img/source/matter.png> <./img/source/therma
+[17 <./img/source/mechanics.png> <./img/source/matter.png> <./img/source/therma
 l-physics.png> <./img/source/wave-motion.jpg>]
-<./img/source/light-optics.png, id=2417, 314.67563pt x 357.58594pt>
+<./img/source/light-optics.png, id=2470, 314.67563pt x 357.58594pt>
 File: ./img/source/light-optics.png Graphic file (type png)
 
 <use ./img/source/light-optics.png>
@@ -626,7 +654,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--142
 
  []
 
-<./img/source/elec-mag.png, id=2418, 371.88937pt x 371.88937pt>
+<./img/source/elec-mag.png, id=2471, 371.88937pt x 371.88937pt>
 File: ./img/source/elec-mag.png Graphic file (type png)
 
 <use ./img/source/elec-mag.png>
@@ -640,9 +668,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--155
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12 <./img/source/light-optics.png> <./img/source/elec-mag.png>]
+ [18 <./img/source/light-optics.png> <./img/source/elec-mag.png>]
 (./tex/i-activities_intro-lab-practice-alt.tex
-<./img/source/display-chemicals.jpg, id=2426, 233.37187pt x 249.18094pt>
+<./img/source/display-chemicals.jpg, id=2478, 233.37187pt x 249.18094pt>
 File: ./img/source/display-chemicals.jpg Graphic file (type jpg)
 
 <use ./img/source/display-chemicals.jpg>
@@ -650,14 +678,14 @@ Package pdftex.def Info: ./img/source/display-chemicals.jpg used on input line
 14.
 (pdftex.def)             Requested size: 203.83417pt x 217.65254pt.
 
-<./img/source/safety-game.jpg, id=2427, 233.37187pt x 258.21469pt>
+<./img/source/safety-game.jpg, id=2479, 233.37187pt x 258.21469pt>
 File: ./img/source/safety-game.jpg Graphic file (type jpg)
 
 <use ./img/source/safety-game.jpg>
 Package pdftex.def Info: ./img/source/safety-game.jpg used on input line 35.
 (pdftex.def)             Requested size: 203.83417pt x 225.54329pt.
 
-<./img/source/cleanliness-play.jpg, id=2428, 250.68657pt x 301.125pt>
+<./img/source/cleanliness-play.jpg, id=2480, 250.68657pt x 301.125pt>
 File: ./img/source/cleanliness-play.jpg Graphic file (type jpg)
 
 <use ./img/source/cleanliness-play.jpg>
@@ -665,13 +693,13 @@ Package pdftex.def Info: ./img/source/cleanliness-play.jpg used on input line 6
 0.
 (pdftex.def)             Requested size: 203.83417pt x 244.85643pt.
 
-<./img/source/tidiness-play.jpg, id=2429, 258.9675pt x 270.25969pt>
+<./img/source/tidiness-play.jpg, id=2481, 258.9675pt x 270.25969pt>
 File: ./img/source/tidiness-play.jpg Graphic file (type jpg)
 
 <use ./img/source/tidiness-play.jpg>
 Package pdftex.def Info: ./img/source/tidiness-play.jpg used on input line 81.
 (pdftex.def)             Requested size: 203.83417pt x 212.73164pt.
- [13 <./img/source/display-chemicals.jpg> <./img/source/safety-game.jpg> <./img
+ [19 <./img/source/display-chemicals.jpg> <./img/source/safety-game.jpg> <./img
 /source/cleanliness-play.jpg> <./img/source/tidiness-play.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
@@ -683,7 +711,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
  []
 
 
-<./img/conductors-insulators-sci-meth.png, id=2435, 511.15968pt x 161.10187pt>
+<./img/conductors-insulators-sci-meth.png, id=2487, 511.15968pt x 161.10187pt>
 File: ./img/conductors-insulators-sci-meth.png Graphic file (type png)
 
 <use ./img/conductors-insulators-sci-meth.png>
@@ -700,8 +728,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--143
 
  []
 
-[14 <./img/conductors-insulators-sci-meth.png>]
-<./img/density-tower-sci-meth.png, id=2444, 248.42813pt x 318.43968pt>
+[20 <./img/conductors-insulators-sci-meth.png>]
+<./img/density-tower-sci-meth.png, id=2496, 248.42813pt x 318.43968pt>
 File: ./img/density-tower-sci-meth.png Graphic file (type png)
 
 <use ./img/density-tower-sci-meth.png>
@@ -731,7 +759,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--180
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15 <./img/density-tower-sci-meth.png>]
+ [21 <./img/density-tower-sci-meth.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
@@ -764,7 +792,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
+ [22]
 Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
@@ -784,8 +812,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--266
 
  []
 
-) [17] (./tex/i-activities_measurement-alt.tex
-<./img/source/meas-mass.png, id=2468, 334.24875pt x 548.0475pt>
+) [23] (./tex/i-activities_measurement-alt.tex
+<./img/source/meas-mass.png, id=2520, 334.24875pt x 548.0475pt>
 File: ./img/source/meas-mass.png Graphic file (type png)
 
 <use ./img/source/meas-mass.png>
@@ -796,7 +824,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 17--18
  [] 
  []
 
-<./img/source/meas-distance.png, id=2469, 377.91188pt x 663.98062pt>
+<./img/source/meas-distance.png, id=2521, 377.91188pt x 663.98062pt>
 File: ./img/source/meas-distance.png Graphic file (type png)
 
 <use ./img/source/meas-distance.png>
@@ -807,7 +835,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 28--29
  [] 
  []
 
-<./img/source/meas-time.png, id=2470, 255.95625pt x 398.99063pt>
+<./img/source/meas-time.png, id=2522, 255.95625pt x 398.99063pt>
 File: ./img/source/meas-time.png Graphic file (type png)
 
 <use ./img/source/meas-time.png>
@@ -818,8 +846,8 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 39--40
  [] 
  []
 
-[18 <./img/source/meas-mass.png> <./img/source/meas-distance.png>]
-<./img/source/meas-velocity.png, id=2477, 287.57437pt x 450.18187pt>
+[24 <./img/source/meas-mass.png> <./img/source/meas-distance.png>]
+<./img/source/meas-velocity.png, id=2529, 287.57437pt x 450.18187pt>
 File: ./img/source/meas-velocity.png Graphic file (type png)
 
 <use ./img/source/meas-velocity.png>
@@ -830,7 +858,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 50--51
  [] 
  []
 
-<./img/beam-balance.png, id=2478, 239.39438pt x 210.03468pt>
+<./img/beam-balance.png, id=2530, 239.39438pt x 210.03468pt>
 File: ./img/beam-balance.png Graphic file (type png)
 
 <use ./img/beam-balance.png>
@@ -841,23 +869,23 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 90--92
  [] 
  []
 
-[19 <./img/source/meas-time.png> <./img/source/meas-velocity.png>]
-<./img/source/scale-pans.png, id=2488, 407.27156pt x 167.12437pt>
+[25 <./img/source/meas-time.png> <./img/source/meas-velocity.png>]
+<./img/source/scale-pans.png, id=2540, 407.27156pt x 167.12437pt>
 File: ./img/source/scale-pans.png Graphic file (type png)
 
 <use ./img/source/scale-pans.png>
 Package pdftex.def Info: ./img/source/scale-pans.png used on input line 113.
 (pdftex.def)             Requested size: 181.18439pt x 74.34842pt.
 
-<./img/vso/overflow-can.jpg, id=2489, 184.43906pt x 134.75343pt>
+<./img/vso/overflow-can.jpg, id=2541, 184.43906pt x 134.75343pt>
 File: ./img/vso/overflow-can.jpg Graphic file (type jpg)
 
 <use ./img/vso/overflow-can.jpg>
 Package pdftex.def Info: ./img/vso/overflow-can.jpg used on input line 153.
 (pdftex.def)             Requested size: 135.89174pt x 99.28418pt.
- [20 <./img/beam-balance.png> <./img/source/scale-pans.png> <./img/vso/overflow
+ [26 <./img/beam-balance.png> <./img/source/scale-pans.png> <./img/vso/overflow
 -can.jpg>]
-<./img/density-tower.png, id=2498, 248.42813pt x 318.43968pt>
+<./img/density-tower.png, id=2550, 248.42813pt x 318.43968pt>
 File: ./img/density-tower.png Graphic file (type png)
 
 <use ./img/density-tower.png>
@@ -869,9 +897,9 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [21 <./img/density-tower.png>])
+ [27 <./img/density-tower.png>])
 (./tex/i-activities_force-alt.tex
-<./img/vso/forces-ex.jpg, id=2505, 446.41782pt x 137.7647pt>
+<./img/vso/forces-ex.jpg, id=2557, 446.41782pt x 137.7647pt>
 File: ./img/vso/forces-ex.jpg Graphic file (type jpg)
 
 <use ./img/vso/forces-ex.jpg>
@@ -882,7 +910,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 10--11
  [] 
  []
 
-<./img/source/spring-balance.png, id=2506, 237.88875pt x 348.55219pt>
+<./img/source/spring-balance.png, id=2558, 237.88875pt x 348.55219pt>
 File: ./img/source/spring-balance.png Graphic file (type png)
 
 <use ./img/source/spring-balance.png>
@@ -890,7 +918,7 @@ Package pdftex.def Info: ./img/source/spring-balance.png used on input line 18.
 
 (pdftex.def)             Requested size: 117.76915pt x 172.55779pt.
 
-<./img/source/effects-forces.png, id=2509, 411.03563pt x 232.61906pt>
+<./img/source/effects-forces.png, id=2561, 411.03563pt x 232.61906pt>
 File: ./img/source/effects-forces.png Graphic file (type png)
 
 <use ./img/source/effects-forces.png>
@@ -902,22 +930,22 @@ Underfull \hbox (badness 5592) in paragraph at lines 48--50
 []\OT1/cmr/m/n/10 Rubber bands, springs, mag-nets,
  []
 
-<./img/helicopter-1.png, id=2510, 432.11438pt x 101.62968pt>
+<./img/helicopter-1.png, id=2562, 432.11438pt x 101.62968pt>
 File: ./img/helicopter-1.png Graphic file (type png)
 
 <use ./img/helicopter-1.png>
 Package pdftex.def Info: ./img/helicopter-1.png used on input line 76.
 (pdftex.def)             Requested size: 181.18439pt x 42.61282pt.
- [22 <./img/vso/forces-ex.jpg> <./img/source/spring-balance.png> <./img/source/
+ [28 <./img/vso/forces-ex.jpg> <./img/source/spring-balance.png> <./img/source/
 effects-forces.png>]
-<./img/helicopter-2.png, id=2517, 432.11438pt x 255.95625pt>
+<./img/helicopter-2.png, id=2569, 432.11438pt x 255.95625pt>
 File: ./img/helicopter-2.png Graphic file (type png)
 
 <use ./img/helicopter-2.png>
 Package pdftex.def Info: ./img/helicopter-2.png used on input line 80.
 (pdftex.def)             Requested size: 181.18439pt x 107.32123pt.
 
-<./img/vso/forces-bridges.jpg, id=2518, 283.81032pt x 128.73094pt>
+<./img/vso/forces-bridges.jpg, id=2570, 283.81032pt x 128.73094pt>
 File: ./img/vso/forces-bridges.jpg Graphic file (type jpg)
 
 <use ./img/vso/forces-bridges.jpg>
@@ -928,31 +956,31 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 99--100
  [] 
  []
 
-<./img/vso/parachute.jpg, id=2519, 278.54062pt x 124.21407pt>
+<./img/vso/parachute.jpg, id=2571, 278.54062pt x 124.21407pt>
 File: ./img/vso/parachute.jpg Graphic file (type jpg)
 
 <use ./img/vso/parachute.jpg>
 Package pdftex.def Info: ./img/vso/parachute.jpg used on input line 125.
 (pdftex.def)             Requested size: 181.18439pt x 80.80072pt.
 
-<./img/vso/strengthening-bridges.jpg, id=2520, 201.75375pt x 146.79843pt>
+<./img/vso/strengthening-bridges.jpg, id=2572, 201.75375pt x 146.79843pt>
 File: ./img/vso/strengthening-bridges.jpg Graphic file (type jpg)
 
 <use ./img/vso/strengthening-bridges.jpg>
 Package pdftex.def Info: ./img/vso/strengthening-bridges.jpg used on input line
  145.
 (pdftex.def)             Requested size: 181.18439pt x 131.83289pt.
- [23 <./img/helicopter-1.png> <./img/helicopter-2.png> <./img/vso/forces-bridge
+ [29 <./img/helicopter-1.png> <./img/helicopter-2.png> <./img/vso/forces-bridge
 s.jpg> <./img/vso/parachute.jpg> <./img/vso/strengthening-bridges.jpg>])
 (./tex/i-activities_archimedes-principle-flotation-alt.tex
-<./img/source/upthrust.png, id=2525, 353.06906pt x 377.91188pt>
+<./img/source/upthrust.png, id=2577, 353.06906pt x 377.91188pt>
 File: ./img/source/upthrust.png Graphic file (type png)
 
 <use ./img/source/upthrust.png>
 Package pdftex.def Info: ./img/source/upthrust.png used on input line 14.
 (pdftex.def)             Requested size: 181.18439pt x 193.93193pt.
 
-<./img/source/flotation.png, id=2529, 234.1247pt x 292.84406pt>
+<./img/source/flotation.png, id=2581, 234.1247pt x 292.84406pt>
 File: ./img/source/flotation.png Graphic file (type png)
 
 <use ./img/source/flotation.png>
@@ -963,7 +991,7 @@ Underfull \hbox (badness 7740) in paragraph at lines 47--49
 \OT1/cmr/m/n/10 string, [][]Eu-reka Can[][], [][]Mea-sur-ing Cylin-
  []
 
-[24 <./img/source/upthrust.png> <./img/source/flotation.png>]
+[30 <./img/source/upthrust.png> <./img/source/flotation.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 74--91
 
  []
@@ -971,7 +999,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--91
 
 Package hyperref Warning: Suppressing empty link on input line 101.
 
-<./img/source/egg-float.png, id=2543, 271.0125pt x 168.63pt>
+<./img/source/egg-float.png, id=2594, 271.0125pt x 168.63pt>
 File: ./img/source/egg-float.png Graphic file (type png)
 
 <use ./img/source/egg-float.png>
@@ -982,7 +1010,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 108--109
  [] 
  []
 
-<./img/source/floating-candle.png, id=2544, 272.51813pt x 171.64125pt>
+<./img/source/floating-candle.png, id=2595, 272.51813pt x 171.64125pt>
 File: ./img/source/floating-candle.png Graphic file (type png)
 
 <use ./img/source/floating-candle.png>
@@ -990,14 +1018,14 @@ Package pdftex.def Info: ./img/source/floating-candle.png used on input line 12
 7.
 (pdftex.def)             Requested size: 203.83417pt x 128.38226pt.
 
-<./img/cartesian-diver.png, id=2545, 134.75343pt x 182.93344pt>
+<./img/cartesian-diver.png, id=2596, 134.75343pt x 182.93344pt>
 File: ./img/cartesian-diver.png Graphic file (type png)
 
 <use ./img/cartesian-diver.png>
 Package pdftex.def Info: ./img/cartesian-diver.png used on input line 148.
 (pdftex.def)             Requested size: 135.89174pt x 184.48216pt.
- [25 <./img/source/egg-float.png> <./img/source/floating-candle.png>]
-<./img/source/hydrometer.png, id=2555, 269.50688pt x 444.15938pt>
+ [31 <./img/source/egg-float.png> <./img/source/floating-candle.png>]
+<./img/source/hydrometer.png, id=2606, 269.50688pt x 444.15938pt>
 File: ./img/source/hydrometer.png Graphic file (type png)
 
 <use ./img/source/hydrometer.png>
@@ -1011,16 +1039,16 @@ Underfull \hbox (badness 5667) in paragraph at lines 172--173
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26 <./img/cartesian-diver.png> <./img/source/hydrometer.png>]
+ [32 <./img/cartesian-diver.png> <./img/source/hydrometer.png>]
 (./tex/i-activities_properties-of-matter-alt.tex
-<./img/source/states-matter.png, id=2563, 348.55219pt x 366.61969pt>
+<./img/source/states-matter.png, id=2613, 348.55219pt x 366.61969pt>
 File: ./img/source/states-matter.png Graphic file (type png)
 
 <use ./img/source/states-matter.png>
 Package pdftex.def Info: ./img/source/states-matter.png used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 190.5762pt.
 
-<./img/vso/motion-model.jpg, id=2564, 330.48468pt x 118.19156pt>
+<./img/vso/motion-model.jpg, id=2614, 330.48468pt x 118.19156pt>
 File: ./img/vso/motion-model.jpg Graphic file (type jpg)
 
 <use ./img/vso/motion-model.jpg>
@@ -1031,30 +1059,30 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 32--33
  [] 
  []
 
-<./img/source/change-state.png, id=2565, 300.3722pt x 371.13657pt>
+<./img/source/change-state.png, id=2615, 300.3722pt x 371.13657pt>
 File: ./img/source/change-state.png Graphic file (type png)
 
 <use ./img/source/change-state.png>
 Package pdftex.def Info: ./img/source/change-state.png used on input line 51.
 (pdftex.def)             Requested size: 113.24197pt x 139.91772pt.
 
-<./img/source/brownian.jpg, id=2567, 271.76532pt x 254.45062pt>
+<./img/source/brownian.jpg, id=2617, 271.76532pt x 254.45062pt>
 File: ./img/source/brownian.jpg Graphic file (type jpg)
 
 <use ./img/source/brownian.jpg>
 Package pdftex.def Info: ./img/source/brownian.jpg used on input line 70.
 (pdftex.def)             Requested size: 181.18439pt x 169.64627pt.
 
-<./img/source/salt-particles.png, id=2568, 278.54062pt x 259.7203pt>
+<./img/source/salt-particles.png, id=2618, 278.54062pt x 259.7203pt>
 File: ./img/source/salt-particles.png Graphic file (type png)
 
 <use ./img/source/salt-particles.png>
 Package pdftex.def Info: ./img/source/salt-particles.png used on input line 101
 .
 (pdftex.def)             Requested size: 181.18439pt x 168.94698pt.
- [27 <./img/source/states-matter.png> <./img/vso/motion-model.jpg> <./img/sourc
+ [33 <./img/source/states-matter.png> <./img/vso/motion-model.jpg> <./img/sourc
 e/change-state.png> <./img/source/brownian.jpg>]
-<./img/source/weighing-particles.png, id=2576, 351.56343pt x 182.18062pt>
+<./img/source/weighing-particles.png, id=2626, 351.56343pt x 182.18062pt>
 File: ./img/source/weighing-particles.png Graphic file (type png)
 
 <use ./img/source/weighing-particles.png>
@@ -1075,8 +1103,8 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 145--146
  [] 
  []
 
-[28 <./img/source/salt-particles.png> <./img/source/weighing-particles.png>]
-<./img/source/adhesion-cohesion.jpg, id=2589, 350.05782pt x 232.61906pt>
+[34 <./img/source/salt-particles.png> <./img/source/weighing-particles.png>]
+<./img/source/adhesion-cohesion.jpg, id=2639, 350.05782pt x 232.61906pt>
 File: ./img/source/adhesion-cohesion.jpg Graphic file (type jpg)
 
 <use ./img/source/adhesion-cohesion.jpg>
@@ -1088,7 +1116,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 173--174
  [] 
  []
 
-<./img/adhesion-cohesion.png, id=2590, 278.54062pt x 134.00063pt>
+<./img/adhesion-cohesion.png, id=2640, 278.54062pt x 134.00063pt>
 File: ./img/adhesion-cohesion.png Graphic file (type png)
 
 <use ./img/adhesion-cohesion.png>
@@ -1099,22 +1127,22 @@ Underfull \hbox (badness 6526) in paragraph at lines 222--225
 \OT1/cmr/m/n/10 while the co-he-sive forces be-tween the
  []
 
-<./img/source/water-drops.png, id=2591, 258.9675pt x 389.20406pt>
+<./img/source/water-drops.png, id=2641, 258.9675pt x 389.20406pt>
 File: ./img/source/water-drops.png Graphic file (type png)
 
 <use ./img/source/water-drops.png>
 Package pdftex.def Info: ./img/source/water-drops.png used on input line 230.
 (pdftex.def)             Requested size: 135.89174pt x 204.24017pt.
 
-<./img/source/water-dome.png, id=2592, 123.46124pt x 69.25874pt>
+<./img/source/water-dome.png, id=2642, 123.46124pt x 69.25874pt>
 File: ./img/source/water-dome.png Graphic file (type png)
 
 <use ./img/source/water-dome.png>
 Package pdftex.def Info: ./img/source/water-dome.png used on input line 257.
 (pdftex.def)             Requested size: 90.5922pt x 50.82265pt.
- [29 <./img/source/adhesion-cohesion.jpg> <./img/adhesion-cohesion.png> <./img/
+ [35 <./img/source/adhesion-cohesion.jpg> <./img/adhesion-cohesion.png> <./img/
 source/water-drops.png>]
-<./img/source/pin-float.png, id=2599, 414.79968pt x 170.13562pt>
+<./img/source/pin-float.png, id=2649, 414.79968pt x 170.13562pt>
 File: ./img/source/pin-float.png Graphic file (type png)
 
 <use ./img/source/pin-float.png>
@@ -1130,7 +1158,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 281--283
 []\OT1/cmr/m/n/10 Cup or small dish, straight
  []
 
-<./img/source/glass-overflow.jpg, id=2600, 354.57469pt x 200.24812pt>
+<./img/source/glass-overflow.jpg, id=2650, 354.57469pt x 200.24812pt>
 File: ./img/source/glass-overflow.jpg Graphic file (type jpg)
 
 <use ./img/source/glass-overflow.jpg>
@@ -1138,16 +1166,16 @@ Package pdftex.def Info: ./img/source/glass-overflow.jpg used on input line 297
 .
 (pdftex.def)             Requested size: 203.83417pt x 115.11732pt.
 
-<./img/source/capillary-glass.jpg, id=2601, 278.54062pt x 242.40562pt>
+<./img/source/capillary-glass.jpg, id=2651, 278.54062pt x 242.40562pt>
 File: ./img/source/capillary-glass.jpg Graphic file (type jpg)
 
 <use ./img/source/capillary-glass.jpg>
 Package pdftex.def Info: ./img/source/capillary-glass.jpg used on input line 33
 9.
 (pdftex.def)             Requested size: 181.18439pt x 157.68384pt.
- [30 <./img/source/water-dome.png> <./img/source/pin-float.png> <./img/source/g
+ [36 <./img/source/water-dome.png> <./img/source/pin-float.png> <./img/source/g
 lass-overflow.jpg>]
-<./img/source/capillary-rise-meas.jpg, id=2607, 272.51813pt x 256.70906pt>
+<./img/source/capillary-rise-meas.jpg, id=2657, 272.51813pt x 256.70906pt>
 File: ./img/source/capillary-rise-meas.jpg Graphic file (type jpg)
 
 <use ./img/source/capillary-rise-meas.jpg>
@@ -1155,14 +1183,14 @@ Package pdftex.def Info: ./img/source/capillary-rise-meas.jpg used on input lin
 e 401.
 (pdftex.def)             Requested size: 181.18439pt x 170.67412pt.
 
-<./img/source/irrigation.png, id=2608, 272.51813pt x 213.04594pt>
+<./img/source/irrigation.png, id=2658, 272.51813pt x 213.04594pt>
 File: ./img/source/irrigation.png Graphic file (type png)
 
 <use ./img/source/irrigation.png>
 Package pdftex.def Info: ./img/source/irrigation.png used on input line 420.
 (pdftex.def)             Requested size: 135.89174pt x 106.23337pt.
 
-<./img/vso/diffusion.jpg, id=2609, 293.59688pt x 163.3603pt>
+<./img/vso/diffusion.jpg, id=2659, 293.59688pt x 163.3603pt>
 File: ./img/vso/diffusion.jpg Graphic file (type jpg)
 
 <use ./img/vso/diffusion.jpg>
@@ -1173,9 +1201,9 @@ Underfull \hbox (badness 7631) in paragraph at lines 455--456
 []\OT1/cmr/m/n/10 The colour grad-u-ally spreads
  []
 
-[31 <./img/source/capillary-glass.jpg> <./img/source/capillary-rise-meas.jpg> <
+[37 <./img/source/capillary-glass.jpg> <./img/source/capillary-rise-meas.jpg> <
 ./img/source/irrigation.png>]
-<./img/source/smelling-particles.jpg, id=2616, 317.68687pt x 224.33812pt>
+<./img/source/smelling-particles.jpg, id=2666, 317.68687pt x 224.33812pt>
 File: ./img/source/smelling-particles.jpg Graphic file (type jpg)
 
 <use ./img/source/smelling-particles.jpg>
@@ -1183,7 +1211,7 @@ Package pdftex.def Info: ./img/source/smelling-particles.jpg used on input line
  464.
 (pdftex.def)             Requested size: 181.18439pt x 127.94936pt.
 
-<./img/source/diffusion-life.jpg, id=2617, 360.59718pt x 264.23718pt>
+<./img/source/diffusion-life.jpg, id=2667, 360.59718pt x 264.23718pt>
 File: ./img/source/diffusion-life.jpg Graphic file (type jpg)
 
 <use ./img/source/diffusion-life.jpg>
@@ -1195,7 +1223,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 483--484
  [] 
  []
 
-<./img/source/diffusion-pollution.jpg, id=2618, 282.30469pt x 229.60782pt>
+<./img/source/diffusion-pollution.jpg, id=2668, 282.30469pt x 229.60782pt>
 File: ./img/source/diffusion-pollution.jpg Graphic file (type jpg)
 
 <use ./img/source/diffusion-pollution.jpg>
@@ -1207,7 +1235,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 503--504
  [] 
  []
 
-<./img/vso/osmosis-vanilla.jpg, id=2619, 176.91093pt x 73.77562pt>
+<./img/vso/osmosis-vanilla.jpg, id=2669, 176.91093pt x 73.77562pt>
 File: ./img/vso/osmosis-vanilla.jpg Graphic file (type jpg)
 
 <use ./img/vso/osmosis-vanilla.jpg>
@@ -1218,9 +1246,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 535--537
 []\OT1/cmr/m/n/10 Balloon/plastic bag, vanilla,
  []
 
-[32 <./img/vso/diffusion.jpg> <./img/source/smelling-particles.jpg> <./img/sour
+[38 <./img/vso/diffusion.jpg> <./img/source/smelling-particles.jpg> <./img/sour
 ce/diffusion-life.jpg> <./img/source/diffusion-pollution.jpg>]
-<./img/vso/osmosis-potato-full.jpg, id=2624, 548.80031pt x 253.69781pt>
+<./img/vso/osmosis-potato-full.jpg, id=2675, 548.80031pt x 253.69781pt>
 File: ./img/vso/osmosis-potato-full.jpg Graphic file (type jpg)
 
 <use ./img/vso/osmosis-potato-full.jpg>
@@ -1232,23 +1260,23 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 549--550
  [] 
  []
 
-<./img/vso/membrane.jpg, id=2625, 249.18094pt x 178.41656pt>
+<./img/vso/membrane.jpg, id=2676, 249.18094pt x 178.41656pt>
 File: ./img/vso/membrane.jpg Graphic file (type jpg)
 
 <use ./img/vso/membrane.jpg>
 Package pdftex.def Info: ./img/vso/membrane.jpg used on input line 570.
 (pdftex.def)             Requested size: 181.18439pt x 129.7339pt.
 
-<./img/vso/osmosis-eggs.jpg, id=2626, 243.91125pt x 182.18062pt>
+<./img/vso/osmosis-eggs.jpg, id=2677, 243.91125pt x 182.18062pt>
 File: ./img/vso/osmosis-eggs.jpg Graphic file (type jpg)
 
 <use ./img/vso/osmosis-eggs.jpg>
 Package pdftex.def Info: ./img/vso/osmosis-eggs.jpg used on input line 589.
 (pdftex.def)             Requested size: 181.18439pt x 135.33136pt.
- [33 <./img/vso/osmosis-vanilla.jpg> <./img/vso/osmosis-potato-full.jpg> <./img
+ [39 <./img/vso/osmosis-vanilla.jpg> <./img/vso/osmosis-potato-full.jpg> <./img
 /vso/membrane.jpg> <./img/vso/osmosis-eggs.jpg>]) (./tex/i-activities_pressure-
 alt.tex
-<./img/source/pressure.jpg, id=2631, 463.7325pt x 226.59656pt>
+<./img/source/pressure.jpg, id=2682, 463.7325pt x 226.59656pt>
 File: ./img/source/pressure.jpg Graphic file (type jpg)
 
 <use ./img/source/pressure.jpg>
@@ -1259,25 +1287,25 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 15--16
  [] 
  []
 
-<./img/source/load-head.png, id=2632, 264.99pt x 362.10281pt>
+<./img/source/load-head.png, id=2683, 264.99pt x 362.10281pt>
 File: ./img/source/load-head.png Graphic file (type png)
 
 <use ./img/source/load-head.png>
 Package pdftex.def Info: ./img/source/load-head.png used on input line 59.
 (pdftex.def)             Requested size: 181.18439pt x 247.58585pt.
 
-<./img/pressure-solids.png, id=2633, 292.09125pt x 606.76688pt>
+<./img/pressure-solids.png, id=2684, 292.09125pt x 606.76688pt>
 File: ./img/pressure-solids.png Graphic file (type png)
 
 <use ./img/pressure-solids.png>
 Package pdftex.def Info: ./img/pressure-solids.png used on input line 106.
 (pdftex.def)             Requested size: 181.18439pt x 376.386pt.
- [34 <./img/source/pressure.jpg> <./img/source/load-head.png>]
+ [40 <./img/source/pressure.jpg> <./img/source/load-head.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
 []\OT1/cmr/m/n/10 The thin thread eas-ily cuts
  []
 
-<./img/source/pressure-depth.png, id=2639, 267.24844pt x 193.47281pt>
+<./img/source/pressure-depth.png, id=2690, 267.24844pt x 193.47281pt>
 File: ./img/source/pressure-depth.png Graphic file (type png)
 
 <use ./img/source/pressure-depth.png>
@@ -1289,7 +1317,7 @@ Underfull \hbox (badness 6078) in paragraph at lines 138--139
 []\OT1/cmr/m/n/10 1.5 L bot-tle, sy-ringe nee-dle or
  []
 
-<./img/source/pressure-direction.png, id=2640, 308.65312pt x 211.54031pt>
+<./img/source/pressure-direction.png, id=2691, 308.65312pt x 211.54031pt>
 File: ./img/source/pressure-direction.png Graphic file (type png)
 
 <use ./img/source/pressure-direction.png>
@@ -1301,15 +1329,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--159
 []\OT1/cmr/m/n/10 Water bot-tle/balloon/plastic bag,
  []
 
-<./img/vso/straw-fountain.jpg, id=2641, 154.32657pt x 174.6525pt>
+<./img/vso/straw-fountain.jpg, id=2692, 154.32657pt x 174.6525pt>
 File: ./img/vso/straw-fountain.jpg Graphic file (type jpg)
 
 <use ./img/vso/straw-fountain.jpg>
 Package pdftex.def Info: ./img/vso/straw-fountain.jpg used on input line 171.
 (pdftex.def)             Requested size: 113.24197pt x 128.1615pt.
- [35 <./img/pressure-solids.png> <./img/source/pressure-depth.png> <./img/sourc
+ [41 <./img/pressure-solids.png> <./img/source/pressure-depth.png> <./img/sourc
 e/pressure-direction.png>]
-<./img/source/hydraulic-press.png, id=2649, 235.63031pt x 370.38374pt>
+<./img/source/hydraulic-press.png, id=2700, 235.63031pt x 370.38374pt>
 File: ./img/source/hydraulic-press.png Graphic file (type png)
 
 <use ./img/source/hydraulic-press.png>
@@ -1317,7 +1345,7 @@ Package pdftex.def Info: ./img/source/hydraulic-press.png used on input line 19
 0.
 (pdftex.def)             Requested size: 135.89174pt x 213.60762pt.
 
-<./img/source/manometer.png, id=2651, 377.15906pt x 258.21469pt>
+<./img/source/manometer.png, id=2702, 377.15906pt x 258.21469pt>
 File: ./img/source/manometer.png Graphic file (type png)
 
 <use ./img/source/manometer.png>
@@ -1328,38 +1356,38 @@ Underfull \hbox (badness 7064) in paragraph at lines 216--217
 [][][]\OT1/cmr/m/n/10 Delivery Tube[][], ruler, card-board,
  []
 
-<./img/source/overturned-glass.png, id=2653, 345.54094pt x 230.36063pt>
+<./img/source/overturned-glass.png, id=2704, 345.54094pt x 230.36063pt>
 File: ./img/source/overturned-glass.png Graphic file (type png)
 
 <use ./img/source/overturned-glass.png>
 Package pdftex.def Info: ./img/source/overturned-glass.png used on input line 2
 36.
 (pdftex.def)             Requested size: 181.18439pt x 120.78998pt.
- [36 <./img/vso/straw-fountain.jpg> <./img/source/hydraulic-press.png> <./img/s
+ [42 <./img/vso/straw-fountain.jpg> <./img/source/hydraulic-press.png> <./img/s
 ource/manometer.png>]
-<./img/source/bottle-crush.png, id=2660, 346.29375pt x 231.86626pt>
+<./img/source/bottle-crush.png, id=2711, 346.29375pt x 231.86626pt>
 File: ./img/source/bottle-crush.png Graphic file (type png)
 
 <use ./img/source/bottle-crush.png>
 Package pdftex.def Info: ./img/source/bottle-crush.png used on input line 274.
 (pdftex.def)             Requested size: 203.83417pt x 136.48148pt.
 
-<./img/auto-flushing-tank.png, id=2661, 171.64125pt x 186.6975pt>
+<./img/auto-flushing-tank.png, id=2712, 171.64125pt x 186.6975pt>
 File: ./img/auto-flushing-tank.png Graphic file (type png)
 
 <use ./img/auto-flushing-tank.png>
 Package pdftex.def Info: ./img/auto-flushing-tank.png used on input line 294.
 (pdftex.def)             Requested size: 113.24197pt x 123.17514pt.
 
-<./img/source/barometer.png, id=2662, 258.21469pt x 238.64156pt>
+<./img/source/barometer.png, id=2713, 258.21469pt x 238.64156pt>
 File: ./img/source/barometer.png Graphic file (type png)
 
 <use ./img/source/barometer.png>
 Package pdftex.def Info: ./img/source/barometer.png used on input line 315.
 (pdftex.def)             Requested size: 135.89174pt x 125.59456pt.
- [37 <./img/source/overturned-glass.png> <./img/source/bottle-crush.png> <./img
+ [43 <./img/source/overturned-glass.png> <./img/source/bottle-crush.png> <./img
 /auto-flushing-tank.png>]
-<./img/source/siphon.png, id=2671, 304.13625pt x 327.47343pt>
+<./img/source/siphon.png, id=2722, 304.13625pt x 327.47343pt>
 File: ./img/source/siphon.png Graphic file (type png)
 
 <use ./img/source/siphon.png>
@@ -1368,23 +1396,23 @@ Package pdftex.def Info: ./img/source/siphon.png used on input line 360.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38 <./img/source/barometer.png> <./img/source/siphon.png>]
+ [44 <./img/source/barometer.png> <./img/source/siphon.png>]
 (./tex/i-activities_work-energy-power-alt.tex
-<./img/source/work-lifting.png, id=2682, 207.77625pt x 356.0803pt>
+<./img/source/work-lifting.png, id=2732, 207.77625pt x 356.0803pt>
 File: ./img/source/work-lifting.png Graphic file (type png)
 
 <use ./img/source/work-lifting.png>
 Package pdftex.def Info: ./img/source/work-lifting.png used on input line 19.
 (pdftex.def)             Requested size: 113.24197pt x 194.06807pt.
 
-<./img/source/work-friction.png, id=2684, 359.09157pt x 270.25969pt>
+<./img/source/work-friction.png, id=2734, 359.09157pt x 270.25969pt>
 File: ./img/source/work-friction.png Graphic file (type png)
 
 <use ./img/source/work-friction.png>
 Package pdftex.def Info: ./img/source/work-friction.png used on input line 38.
 (pdftex.def)             Requested size: 181.18439pt x 136.36665pt.
 
-<./img/vso/forms-energy.jpg, id=2686, 524.71031pt x 319.94531pt>
+<./img/vso/forms-energy.jpg, id=2736, 524.71031pt x 319.94531pt>
 File: ./img/vso/forms-energy.jpg Graphic file (type jpg)
 
 <use ./img/vso/forms-energy.jpg>
@@ -1395,23 +1423,23 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 62--63
  [] 
  []
 
-<./img/source/slingshot.png, id=2687, 264.23718pt x 175.40532pt>
+<./img/source/slingshot.png, id=2737, 264.23718pt x 175.40532pt>
 File: ./img/source/slingshot.png Graphic file (type png)
 
 <use ./img/source/slingshot.png>
 Package pdftex.def Info: ./img/source/slingshot.png used on input line 81.
 (pdftex.def)             Requested size: 181.18439pt x 120.27234pt.
 
-<./img/source/energy-clothespin.png, id=2688, 385.44pt x 220.57407pt>
+<./img/source/energy-clothespin.png, id=2738, 385.44pt x 220.57407pt>
 File: ./img/source/energy-clothespin.png Graphic file (type png)
 
 <use ./img/source/energy-clothespin.png>
 Package pdftex.def Info: ./img/source/energy-clothespin.png used on input line 
 100.
 (pdftex.def)             Requested size: 203.83417pt x 116.64453pt.
- [39 <./img/source/work-lifting.png> <./img/source/work-friction.png> <./img/vs
+ [45 <./img/source/work-lifting.png> <./img/source/work-friction.png> <./img/vs
 o/forms-energy.jpg> <./img/source/slingshot.png>] <./img/vso/steam-engine.jpg, 
-id=2696, 344.03531pt x 167.87718pt>
+id=2746, 344.03531pt x 167.87718pt>
 File: ./img/vso/steam-engine.jpg Graphic file (type jpg)
 
 <use ./img/vso/steam-engine.jpg>
@@ -1422,23 +1450,23 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 119--120
  [] 
  []
 
-<./img/source/pendulum.png, id=2698, 193.47281pt x 246.1697pt>
+<./img/source/pendulum.png, id=2748, 193.47281pt x 246.1697pt>
 File: ./img/source/pendulum.png Graphic file (type png)
 
 <use ./img/source/pendulum.png>
 Package pdftex.def Info: ./img/source/pendulum.png used on input line 140.
 (pdftex.def)             Requested size: 90.5922pt x 115.26779pt.
 
-<./img/source/power-2.jpg, id=2699, 352.31625pt x 324.46219pt>
+<./img/source/power-2.jpg, id=2749, 352.31625pt x 324.46219pt>
 File: ./img/source/power-2.jpg Graphic file (type jpg)
 
 <use ./img/source/power-2.jpg>
 Package pdftex.def Info: ./img/source/power-2.jpg used on input line 164.
 (pdftex.def)             Requested size: 172.13pt x 158.52246pt.
- [40 <./img/source/energy-clothespin.png> <./img/vso/steam-engine.jpg> <./img/s
+ [46 <./img/source/energy-clothespin.png> <./img/vso/steam-engine.jpg> <./img/s
 ource/pendulum.png> <./img/source/power-2.jpg>])
 (./tex/i-activities_light-alt.tex
-<./img/source/prop-of-light-2.jpg, id=2707, 350.81062pt x 478.78876pt>
+<./img/source/prop-of-light-2.jpg, id=2757, 350.81062pt x 478.78876pt>
 File: ./img/source/prop-of-light-2.jpg Graphic file (type jpg)
 
 <use ./img/source/prop-of-light-2.jpg>
@@ -1455,14 +1483,14 @@ Underfull \hbox (badness 5578) in paragraph at lines 17--18
 []\OT1/cmr/m/n/10 Candle, card-board/3 toi-let pa-per
  []
 
-<./img/source/light-comb.png, id=2708, 340.27126pt x 363.60844pt>
+<./img/source/light-comb.png, id=2758, 340.27126pt x 363.60844pt>
 File: ./img/source/light-comb.png Graphic file (type png)
 
 <use ./img/source/light-comb.png>
 Package pdftex.def Info: ./img/source/light-comb.png used on input line 34.
 (pdftex.def)             Requested size: 203.83417pt x 217.81165pt.
 
-<./img/vso/ray-boxes.jpg, id=2709, 339.51843pt x 279.29344pt>
+<./img/vso/ray-boxes.jpg, id=2759, 339.51843pt x 279.29344pt>
 File: ./img/vso/ray-boxes.jpg Graphic file (type jpg)
 
 <use ./img/vso/ray-boxes.jpg>
@@ -1473,20 +1501,20 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 53--54
  [] 
  []
 
-<./img/source/pinhole-camera.png, id=2710, 327.47343pt x 384.6872pt>
+<./img/source/pinhole-camera.png, id=2760, 327.47343pt x 384.6872pt>
 File: ./img/source/pinhole-camera.png Graphic file (type png)
 
 <use ./img/source/pinhole-camera.png>
 Package pdftex.def Info: ./img/source/pinhole-camera.png used on input line 72.
 
 (pdftex.def)             Requested size: 181.18439pt x 212.84062pt.
- [41 <./img/source/prop-of-light-2.jpg> <./img/source/light-comb.png> <./img/vs
+ [47 <./img/source/prop-of-light-2.jpg> <./img/source/light-comb.png> <./img/vs
 o/ray-boxes.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 77--78
 []\OT1/cmr/m/n/10 Tin/cardboard box/manila pa-per,
  []
 
-<./img/source/shadows.jpg, id=2716, 326.72063pt x 528.47438pt>
+<./img/source/shadows.jpg, id=2766, 326.72063pt x 528.47438pt>
 File: ./img/source/shadows.jpg Graphic file (type jpg)
 
 <use ./img/source/shadows.jpg>
@@ -1502,7 +1530,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--117
 []\OT1/cmr/m/n/10 Torch, card-board, ob-sta-cle (e.g.
  []
 
-<./img/plane-mirror-prac.png, id=2717, 298.86656pt x 276.28218pt>
+<./img/plane-mirror-prac.png, id=2767, 298.86656pt x 276.28218pt>
 File: ./img/plane-mirror-prac.png Graphic file (type png)
 
 <use ./img/plane-mirror-prac.png>
@@ -1513,8 +1541,8 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 140--141
  [] 
  []
 
-[42 <./img/source/pinhole-camera.png> <./img/source/shadows.jpg>]
-<./img/source/reversed-image-2.jpg, id=2723, 305.64188pt x 156.585pt>
+[48 <./img/source/pinhole-camera.png> <./img/source/shadows.jpg>]
+<./img/source/reversed-image-2.jpg, id=2773, 305.64188pt x 156.585pt>
 File: ./img/source/reversed-image-2.jpg Graphic file (type jpg)
 
 <use ./img/source/reversed-image-2.jpg>
@@ -1522,7 +1550,7 @@ Package pdftex.def Info: ./img/source/reversed-image-2.jpg used on input line 1
 62.
 (pdftex.def)             Requested size: 181.18439pt x 92.82158pt.
 
-<./img/source/multiple-mirrors.png, id=2724, 338.76563pt x 243.91125pt>
+<./img/source/multiple-mirrors.png, id=2774, 338.76563pt x 243.91125pt>
 File: ./img/source/multiple-mirrors.png Graphic file (type png)
 
 <use ./img/source/multiple-mirrors.png>
@@ -1530,7 +1558,7 @@ Package pdftex.def Info: ./img/source/multiple-mirrors.png used on input line 1
 86.
 (pdftex.def)             Requested size: 203.83417pt x 146.76471pt.
 
-<./img/source/periscope.png, id=2725, 362.85562pt x 240.9pt>
+<./img/source/periscope.png, id=2775, 362.85562pt x 240.9pt>
 File: ./img/source/periscope.png Graphic file (type png)
 
 <use ./img/source/periscope.png>
@@ -1541,9 +1569,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 210--211
  [] 
  []
 
-[43 <./img/plane-mirror-prac.png> <./img/source/reversed-image-2.jpg> <./img/so
+[49 <./img/plane-mirror-prac.png> <./img/source/reversed-image-2.jpg> <./img/so
 urce/multiple-mirrors.png>]
-<./img/vso/kaleidoscope.jpg, id=2735, 253.69781pt x 181.42781pt>
+<./img/vso/kaleidoscope.jpg, id=2785, 253.69781pt x 181.42781pt>
 File: ./img/vso/kaleidoscope.jpg Graphic file (type jpg)
 
 <use ./img/vso/kaleidoscope.jpg>
@@ -1552,17 +1580,17 @@ Package pdftex.def Info: ./img/vso/kaleidoscope.jpg used on input line 232.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44 <./img/source/periscope.png> <./img/vso/kaleidoscope.jpg>]
+ [50 <./img/source/periscope.png> <./img/vso/kaleidoscope.jpg>]
 Chapter 2.
 (./tex/ii-activities_static-electricity-alt.tex
-<./img/source/static-elec.png, id=2741, 260.47313pt x 382.42876pt>
+<./img/source/static-elec.png, id=2791, 260.47313pt x 382.42876pt>
 File: ./img/source/static-elec.png Graphic file (type png)
 
 <use ./img/source/static-elec.png>
 Package pdftex.def Info: ./img/source/static-elec.png used on input line 12.
 (pdftex.def)             Requested size: 135.89174pt x 199.51765pt.
 
-<./img/source/law-electrostatics.png, id=2742, 258.21469pt x 350.05782pt>
+<./img/source/law-electrostatics.png, id=2792, 258.21469pt x 350.05782pt>
 File: ./img/source/law-electrostatics.png Graphic file (type png)
 
 <use ./img/source/law-electrostatics.png>
@@ -1570,24 +1598,24 @@ Package pdftex.def Info: ./img/source/law-electrostatics.png used on input line
  34.
 (pdftex.def)             Requested size: 181.18439pt x 245.63702pt.
 
-<./img/source/elec-induction.png, id=2743, 293.59688pt x 307.90031pt>
+<./img/source/elec-induction.png, id=2793, 293.59688pt x 307.90031pt>
 File: ./img/source/elec-induction.png Graphic file (type png)
 
 <use ./img/source/elec-induction.png>
 Package pdftex.def Info: ./img/source/elec-induction.png used on input line 56.
 
 (pdftex.def)             Requested size: 181.18439pt x 190.00826pt.
- [45
+ [51
 
  <./img/source/static-elec.png> <./img/source/law-electrostatics.png>]
-<./img/source/comb-water-2.jpg, id=2750, 179.92218pt x 139.27031pt>
+<./img/source/comb-water-2.jpg, id=2800, 179.92218pt x 139.27031pt>
 File: ./img/source/comb-water-2.jpg Graphic file (type jpg)
 
 <use ./img/source/comb-water-2.jpg>
 Package pdftex.def Info: ./img/source/comb-water-2.jpg used on input line 75.
 (pdftex.def)             Requested size: 181.18439pt x 140.25812pt.
 
-<./img/source/charged-balloon.jpg, id=2751, 173.14688pt x 201.00093pt>
+<./img/source/charged-balloon.jpg, id=2801, 173.14688pt x 201.00093pt>
 File: ./img/source/charged-balloon.jpg Graphic file (type jpg)
 
 <use ./img/source/charged-balloon.jpg>
@@ -1595,16 +1623,16 @@ Package pdftex.def Info: ./img/source/charged-balloon.jpg used on input line 94
 .
 (pdftex.def)             Requested size: 113.24197pt x 131.4618pt.
 
-<./img/source/simple-electroscope.jpg, id=2752, 275.52937pt x 268.75406pt>
+<./img/source/simple-electroscope.jpg, id=2802, 275.52937pt x 268.75406pt>
 File: ./img/source/simple-electroscope.jpg Graphic file (type jpg)
 
 <use ./img/source/simple-electroscope.jpg>
 Package pdftex.def Info: ./img/source/simple-electroscope.jpg used on input lin
 e 122.
 (pdftex.def)             Requested size: 181.18439pt x 176.73439pt.
- [46 <./img/source/elec-induction.png> <./img/source/comb-water-2.jpg> <./img/s
+ [52 <./img/source/elec-induction.png> <./img/source/comb-water-2.jpg> <./img/s
 ource/charged-balloon.jpg> <./img/source/simple-electroscope.jpg>]
-<./img/al-leaf-electroscope.png, id=2758, 255.20343pt x 258.21469pt>
+<./img/al-leaf-electroscope.png, id=2809, 255.20343pt x 258.21469pt>
 File: ./img/al-leaf-electroscope.png Graphic file (type png)
 
 <use ./img/al-leaf-electroscope.png>
@@ -1612,7 +1640,7 @@ Package pdftex.def Info: ./img/al-leaf-electroscope.png used on input line 144.
 
 (pdftex.def)             Requested size: 113.24197pt x 114.58011pt.
 
-<./img/vso/simple-detector.jpg, id=2759, 280.79906pt x 102.3825pt>
+<./img/vso/simple-detector.jpg, id=2810, 280.79906pt x 102.3825pt>
 File: ./img/vso/simple-detector.jpg Graphic file (type jpg)
 
 <use ./img/vso/simple-detector.jpg>
@@ -1621,9 +1649,9 @@ Package pdftex.def Info: ./img/vso/simple-detector.jpg used on input line 185.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47 <./img/al-leaf-electroscope.png> <./img/vso/simple-detector.jpg>]
+ [53 <./img/al-leaf-electroscope.png> <./img/vso/simple-detector.jpg>]
 (./tex/ii-activities_current-electricity-alt.tex
-<./img/conductors-insulators.png, id=2765, 356.83313pt x 184.43906pt>
+<./img/conductors-insulators.png, id=2816, 356.83313pt x 184.43906pt>
 File: ./img/conductors-insulators.png Graphic file (type png)
 
 <use ./img/conductors-insulators.png>
@@ -1631,21 +1659,21 @@ Package pdftex.def Info: ./img/conductors-insulators.png used on input line 13.
 
 (pdftex.def)             Requested size: 181.18439pt x 93.64896pt.
 
-<./img/ohms-law.png, id=2766, 152.82094pt x 77.53969pt>
+<./img/ohms-law.png, id=2817, 152.82094pt x 77.53969pt>
 File: ./img/ohms-law.png Graphic file (type png)
 
 <use ./img/ohms-law.png>
 Package pdftex.def Info: ./img/ohms-law.png used on input line 78.
 (pdftex.def)             Requested size: 181.18439pt x 91.93495pt.
 
-<./img/vso/circuit-board.jpg, id=2767, 300.3722pt x 124.96687pt>
+<./img/vso/circuit-board.jpg, id=2818, 300.3722pt x 124.96687pt>
 File: ./img/vso/circuit-board.jpg Graphic file (type jpg)
 
 <use ./img/vso/circuit-board.jpg>
 Package pdftex.def Info: ./img/vso/circuit-board.jpg used on input line 102.
 (pdftex.def)             Requested size: 203.83417pt x 84.80473pt.
- [48 <./img/conductors-insulators.png> <./img/ohms-law.png>] <./img/vso/switche
-s.jpg, id=2774, 319.1925pt x 307.90031pt>
+ [54 <./img/conductors-insulators.png> <./img/ohms-law.png>] <./img/vso/switche
+s.jpg, id=2825, 319.1925pt x 307.90031pt>
 File: ./img/vso/switches.jpg Graphic file (type jpg)
 
 <use ./img/vso/switches.jpg>
@@ -1656,7 +1684,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 121--122
  [] 
  []
 
-<./img/vso/rheostat.jpg, id=2775, 310.15875pt x 204.01219pt>
+<./img/vso/rheostat.jpg, id=2826, 310.15875pt x 204.01219pt>
 File: ./img/vso/rheostat.jpg Graphic file (type jpg)
 
 <use ./img/vso/rheostat.jpg>
@@ -1672,7 +1700,7 @@ Overfull \hbox (8.92603pt too wide) in paragraph at lines 167--168
 []\OT1/cmr/m/n/10 Ask lo-cal com-mu-nity mem-bers/fundis/repair
  []
 
-<./img/vso/analogy-switch.jpg, id=2776, 320.69812pt x 155.07938pt>
+<./img/vso/analogy-switch.jpg, id=2827, 320.69812pt x 155.07938pt>
 File: ./img/vso/analogy-switch.jpg Graphic file (type jpg)
 
 <use ./img/vso/analogy-switch.jpg>
@@ -1683,7 +1711,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 187--188
  [] 
  []
 
-<./img/vso/analogy-switch-2.jpg, id=2777, 402.00188pt x 155.07938pt>
+<./img/vso/analogy-switch-2.jpg, id=2828, 402.00188pt x 155.07938pt>
 File: ./img/vso/analogy-switch-2.jpg Graphic file (type jpg)
 
 <use ./img/vso/analogy-switch-2.jpg>
@@ -1695,8 +1723,8 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 193--194
  [] 
  []
 
-[49 <./img/vso/circuit-board.jpg> <./img/vso/switches.jpg> <./img/vso/rheostat.
-jpg>] <./img/vso/analogy-series.jpg, id=2783, 313.9228pt x 130.23656pt>
+[55 <./img/vso/circuit-board.jpg> <./img/vso/switches.jpg> <./img/vso/rheostat.
+jpg>] <./img/vso/analogy-series.jpg, id=2834, 313.9228pt x 130.23656pt>
 File: ./img/vso/analogy-series.jpg Graphic file (type jpg)
 
 <use ./img/vso/analogy-series.jpg>
@@ -1707,7 +1735,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 204--205
  [] 
  []
 
-<./img/vso/analogy-parallel.jpg, id=2784, 264.23718pt x 191.21437pt>
+<./img/vso/analogy-parallel.jpg, id=2835, 264.23718pt x 191.21437pt>
 File: ./img/vso/analogy-parallel.jpg Graphic file (type jpg)
 
 <use ./img/vso/analogy-parallel.jpg>
@@ -1719,7 +1747,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 216--217
  [] 
  []
 
-<./img/vso/analogy-elec.jpg, id=2785, 217.5628pt x 125.71968pt>
+<./img/vso/analogy-elec.jpg, id=2836, 217.5628pt x 125.71968pt>
 File: ./img/vso/analogy-elec.jpg Graphic file (type jpg)
 
 <use ./img/vso/analogy-elec.jpg>
@@ -1733,18 +1761,18 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 225--226
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50 <./img/vso/analogy-switch.jpg> <./img/vso/analogy-switch-2.jpg> <./img/vso
+ [56 <./img/vso/analogy-switch.jpg> <./img/vso/analogy-switch-2.jpg> <./img/vso
 /analogy-series.jpg> <./img/vso/analogy-parallel.jpg> <./img/vso/analogy-elec.j
 pg>]
 (./tex/ii-activities_magnetism-alt.tex
-<./img/source/mag-non-mag.png, id=2790, 318.43968pt x 188.20313pt>
+<./img/source/mag-non-mag.png, id=2841, 318.43968pt x 188.20313pt>
 File: ./img/source/mag-non-mag.png Graphic file (type png)
 
 <use ./img/source/mag-non-mag.png>
 Package pdftex.def Info: ./img/source/mag-non-mag.png used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 107.0816pt.
 
-<./img/source/mag-interaction.png, id=2791, 362.10281pt x 241.65282pt>
+<./img/source/mag-interaction.png, id=2842, 362.10281pt x 241.65282pt>
 File: ./img/source/mag-interaction.png Graphic file (type png)
 
 <use ./img/source/mag-interaction.png>
@@ -1752,67 +1780,67 @@ Package pdftex.def Info: ./img/source/mag-interaction.png used on input line 36
 .
 (pdftex.def)             Requested size: 181.18439pt x 120.9146pt.
 
-<./img/source/mag-stroke.png, id=2792, 365.11406pt x 374.90062pt>
+<./img/source/mag-stroke.png, id=2843, 365.11406pt x 374.90062pt>
 File: ./img/source/mag-stroke.png Graphic file (type png)
 
 <use ./img/source/mag-stroke.png>
 Package pdftex.def Info: ./img/source/mag-stroke.png used on input line 60.
 (pdftex.def)             Requested size: 158.54152pt x 162.7887pt.
 
-<./img/vso/electromagnet.jpg, id=2793, 243.15843pt x 196.48407pt>
+<./img/vso/electromagnet.jpg, id=2844, 243.15843pt x 196.48407pt>
 File: ./img/vso/electromagnet.jpg Graphic file (type jpg)
 
 <use ./img/vso/electromagnet.jpg>
 Package pdftex.def Info: ./img/vso/electromagnet.jpg used on input line 79.
 (pdftex.def)             Requested size: 158.54152pt x 128.10887pt.
 
-<./img/source/demagnetisation.jpg, id=2794, 349.305pt x 226.59656pt>
+<./img/source/demagnetisation.jpg, id=2845, 349.305pt x 226.59656pt>
 File: ./img/source/demagnetisation.jpg Graphic file (type jpg)
 
 <use ./img/source/demagnetisation.jpg>
 Package pdftex.def Info: ./img/source/demagnetisation.jpg used on input line 10
 3.
 (pdftex.def)             Requested size: 203.83417pt x 132.22824pt.
- [51 <./img/source/mag-non-mag.png> <./img/source/mag-interaction.png> <./img/s
+ [57 <./img/source/mag-non-mag.png> <./img/source/mag-interaction.png> <./img/s
 ource/mag-stroke.png> <./img/vso/electromagnet.jpg>] <./img/magnetic-fields.png
-, id=2803, 259.7203pt x 203.25937pt>
+, id=2854, 259.7203pt x 203.25937pt>
 File: ./img/magnetic-fields.png Graphic file (type png)
 
 <use ./img/magnetic-fields.png>
 Package pdftex.def Info: ./img/magnetic-fields.png used on input line 129.
 (pdftex.def)             Requested size: 203.83417pt x 159.52173pt.
 
-<./img/source/compass.png, id=2804, 350.81062pt x 211.54031pt>
+<./img/source/compass.png, id=2855, 350.81062pt x 211.54031pt>
 File: ./img/source/compass.png Graphic file (type png)
 
 <use ./img/source/compass.png>
 Package pdftex.def Info: ./img/source/compass.png used on input line 150.
 (pdftex.def)             Requested size: 158.54152pt x 95.60219pt.
 
-<./img/magnetic-dip-gauge.png, id=2805, 201.75375pt x 159.59625pt>
+<./img/magnetic-dip-gauge.png, id=2856, 201.75375pt x 159.59625pt>
 File: ./img/magnetic-dip-gauge.png Graphic file (type png)
 
 <use ./img/magnetic-dip-gauge.png>
 Package pdftex.def Info: ./img/magnetic-dip-gauge.png used on input line 169.
 (pdftex.def)             Requested size: 158.54152pt x 125.41481pt.
- [52 <./img/source/demagnetisation.jpg> <./img/magnetic-fields.png> <./img/sour
+ [58 <./img/source/demagnetisation.jpg> <./img/magnetic-fields.png> <./img/sour
 ce/compass.png> <./img/magnetic-dip-gauge.png>]) (./tex/ii-activities_forces-in
 -equilibrium-alt.tex
-<./img/vso/lever-balance.jpg, id=2814, 304.88907pt x 127.22531pt>
+<./img/vso/lever-balance.jpg, id=2864, 304.88907pt x 127.22531pt>
 File: ./img/vso/lever-balance.jpg Graphic file (type jpg)
 
 <use ./img/vso/lever-balance.jpg>
 Package pdftex.def Info: ./img/vso/lever-balance.jpg used on input line 12.
 (pdftex.def)             Requested size: 203.83417pt x 85.05997pt.
 
-<./img/vso/doors-levers.jpg, id=2815, 259.7203pt x 197.23688pt>
+<./img/vso/doors-levers.jpg, id=2865, 259.7203pt x 197.23688pt>
 File: ./img/vso/doors-levers.jpg Graphic file (type jpg)
 
 <use ./img/vso/doors-levers.jpg>
 Package pdftex.def Info: ./img/vso/doors-levers.jpg used on input line 65.
 (pdftex.def)             Requested size: 181.18439pt x 137.59535pt.
 
-<./img/source/candle-balance.jpg, id=2816, 368.87813pt x 220.57407pt>
+<./img/source/candle-balance.jpg, id=2866, 368.87813pt x 220.57407pt>
 File: ./img/source/candle-balance.jpg Graphic file (type jpg)
 
 <use ./img/source/candle-balance.jpg>
@@ -1820,7 +1848,7 @@ Package pdftex.def Info: ./img/source/candle-balance.jpg used on input line 84.
 
 (pdftex.def)             Requested size: 203.83417pt x 121.8849pt.
 
-<./img/unknown-mass.png, id=2817, 239.39438pt x 87.32625pt>
+<./img/unknown-mass.png, id=2867, 239.39438pt x 87.32625pt>
 File: ./img/unknown-mass.png Graphic file (type png)
 
 <use ./img/unknown-mass.png>
@@ -1831,34 +1859,34 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 113--114
  [] 
  []
 
-[53 <./img/vso/lever-balance.jpg> <./img/vso/doors-levers.jpg> <./img/source/ca
+[59 <./img/vso/lever-balance.jpg> <./img/vso/doors-levers.jpg> <./img/source/ca
 ndle-balance.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 124--127
 []\OT1/cmr/m/n/10 From the prin-ci-ple of mo-ments,
  []
 
-<./img/mass-of-ruler.png, id=2823, 268.00125pt x 117.43875pt>
+<./img/mass-of-ruler.png, id=2873, 268.00125pt x 117.43875pt>
 File: ./img/mass-of-ruler.png Graphic file (type png)
 
 <use ./img/mass-of-ruler.png>
 Package pdftex.def Info: ./img/mass-of-ruler.png used on input line 133.
 (pdftex.def)             Requested size: 203.83417pt x 89.32066pt.
 
-<./img/source/cog.png, id=2825, 357.58594pt x 223.58531pt>
+<./img/source/cog.png, id=2875, 357.58594pt x 223.58531pt>
 File: ./img/source/cog.png Graphic file (type png)
 
 <use ./img/source/cog.png>
 Package pdftex.def Info: ./img/source/cog.png used on input line 157.
 (pdftex.def)             Requested size: 181.18439pt x 113.29007pt.
 
-<./img/source/cog-ruler.png, id=2826, 364.36125pt x 214.55156pt>
+<./img/source/cog-ruler.png, id=2876, 364.36125pt x 214.55156pt>
 File: ./img/source/cog-ruler.png Graphic file (type png)
 
 <use ./img/source/cog-ruler.png>
 Package pdftex.def Info: ./img/source/cog-ruler.png used on input line 176.
 (pdftex.def)             Requested size: 181.18439pt x 106.68622pt.
 
-<./img/equilibrium.png, id=2827, 403.5075pt x 254.45062pt>
+<./img/equilibrium.png, id=2877, 403.5075pt x 254.45062pt>
 File: ./img/equilibrium.png Graphic file (type png)
 
 <use ./img/equilibrium.png>
@@ -1869,16 +1897,16 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 197--198
  [] 
  []
 
-[54 <./img/unknown-mass.png> <./img/mass-of-ruler.png> <./img/source/cog.png> <
+[60 <./img/unknown-mass.png> <./img/mass-of-ruler.png> <./img/source/cog.png> <
 ./img/source/cog-ruler.png>]
-<./img/source/forks.png, id=2836, 353.82187pt x 195.73125pt>
+<./img/source/forks.png, id=2886, 353.82187pt x 195.73125pt>
 File: ./img/source/forks.png Graphic file (type png)
 
 <use ./img/source/forks.png>
 Package pdftex.def Info: ./img/source/forks.png used on input line 205.
 (pdftex.def)             Requested size: 203.83417pt x 112.75961pt.
 
-<./img/source/nails-1.png, id=2837, 352.31625pt x 657.95813pt>
+<./img/source/nails-1.png, id=2887, 352.31625pt x 657.95813pt>
 File: ./img/source/nails-1.png Graphic file (type png)
 
 <use ./img/source/nails-1.png>
@@ -1887,10 +1915,10 @@ Package pdftex.def Info: ./img/source/nails-1.png used on input line 226.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55 <./img/equilibrium.png> <./img/source/forks.png> <./img/source/nails-1.png
+ [61 <./img/equilibrium.png> <./img/source/forks.png> <./img/source/nails-1.png
 >]
 (./tex/ii-activities_simple-machines-alt.tex
-<./img/source/ruler-lever.png, id=2846, 296.60812pt x 543.53062pt>
+<./img/source/ruler-lever.png, id=2896, 296.60812pt x 543.53062pt>
 File: ./img/source/ruler-lever.png Graphic file (type png)
 
 <use ./img/source/ruler-lever.png>
@@ -1901,7 +1929,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 16--17
  [] 
  []
 
-<./img/vso/using-levers.jpg, id=2847, 304.13625pt x 359.84438pt>
+<./img/vso/using-levers.jpg, id=2897, 304.13625pt x 359.84438pt>
 File: ./img/vso/using-levers.jpg Graphic file (type jpg)
 
 <use ./img/vso/using-levers.jpg>
@@ -1917,21 +1945,21 @@ File: ./img/source/mechanics.png Graphic file (type png)
 Package pdftex.def Info: ./img/source/mechanics.png used on input line 58.
 (pdftex.def)             Requested size: 181.18439pt x 105.98473pt.
 
-<./img/vso/pulleys.jpg, id=2848, 236.38312pt x 311.66437pt>
+<./img/vso/pulleys.jpg, id=2898, 236.38312pt x 311.66437pt>
 File: ./img/vso/pulleys.jpg Graphic file (type jpg)
 
 <use ./img/vso/pulleys.jpg>
 Package pdftex.def Info: ./img/vso/pulleys.jpg used on input line 86.
 (pdftex.def)             Requested size: 203.83417pt x 268.75374pt.
- [56 <./img/source/ruler-lever.png> <./img/vso/using-levers.jpg>] <./img/vso/us
-es-pulleys.jpg, id=2854, 251.43938pt x 197.23688pt>
+ [62 <./img/source/ruler-lever.png> <./img/vso/using-levers.jpg>] <./img/vso/us
+es-pulleys.jpg, id=2904, 251.43938pt x 197.23688pt>
 File: ./img/vso/uses-pulleys.jpg Graphic file (type jpg)
 
 <use ./img/vso/uses-pulleys.jpg>
 Package pdftex.def Info: ./img/vso/uses-pulleys.jpg used on input line 105.
 (pdftex.def)             Requested size: 181.18439pt x 142.12479pt.
 
-<./img/source/single-pulley.png, id=2855, 376.40625pt x 679.03688pt>
+<./img/source/single-pulley.png, id=2905, 376.40625pt x 679.03688pt>
 File: ./img/source/single-pulley.png Graphic file (type png)
 
 <use ./img/source/single-pulley.png>
@@ -1939,16 +1967,16 @@ Package pdftex.def Info: ./img/source/single-pulley.png used on input line 126.
 
 (pdftex.def)             Requested size: 203.83417pt x 367.72093pt.
 
-<./img/source/pulley-system.png, id=2857, 210.7875pt x 368.87813pt>
+<./img/source/pulley-system.png, id=2907, 210.7875pt x 368.87813pt>
 File: ./img/source/pulley-system.png Graphic file (type png)
 
 <use ./img/source/pulley-system.png>
 Package pdftex.def Info: ./img/source/pulley-system.png used on input line 148.
 
 (pdftex.def)             Requested size: 158.54152pt x 277.45154pt.
- [57 <./img/vso/pulleys.jpg> <./img/vso/uses-pulleys.jpg> <./img/source/single-
+ [63 <./img/vso/pulleys.jpg> <./img/vso/uses-pulleys.jpg> <./img/source/single-
 pulley.png>]
-<./img/source/pulley-strength.png, id=2864, 223.58531pt x 310.15875pt>
+<./img/source/pulley-strength.png, id=2914, 223.58531pt x 310.15875pt>
 File: ./img/source/pulley-strength.png Graphic file (type png)
 
 <use ./img/source/pulley-strength.png>
@@ -1956,39 +1984,39 @@ Package pdftex.def Info: ./img/source/pulley-strength.png used on input line 17
 0.
 (pdftex.def)             Requested size: 203.83417pt x 282.76549pt.
 
-<./img/source/inclined-plane-2.jpg, id=2865, 244.66406pt x 240.9pt>
+<./img/source/inclined-plane-2.jpg, id=2915, 244.66406pt x 240.9pt>
 File: ./img/source/inclined-plane-2.jpg Graphic file (type jpg)
 
 <use ./img/source/inclined-plane-2.jpg>
 Package pdftex.def Info: ./img/source/inclined-plane-2.jpg used on input line 1
 97.
 (pdftex.def)             Requested size: 181.18439pt x 178.3992pt.
- [58 <./img/source/pulley-system.png> <./img/source/pulley-strength.png>]
-<./img/source/hydraulic-press-2.png, id=2873, 234.8775pt x 575.14874pt>
+ [64 <./img/source/pulley-system.png> <./img/source/pulley-strength.png>]
+<./img/source/hydraulic-press-2.png, id=2923, 234.8775pt x 575.14874pt>
 File: ./img/source/hydraulic-press-2.png Graphic file (type png)
 
 <use ./img/source/hydraulic-press-2.png>
 Package pdftex.def Info: ./img/source/hydraulic-press-2.png used on input line 
 249.
 (pdftex.def)             Requested size: 135.89174pt x 332.76155pt.
- [59 <./img/source/inclined-plane-2.jpg> <./img/source/hydraulic-press-2.png>])
+ [65 <./img/source/inclined-plane-2.jpg> <./img/source/hydraulic-press-2.png>])
 
 (./tex/ii-activities_motion-stright-line-alt.tex
-<./img/source/uniform.jpg, id=2880, 282.30469pt x 196.48407pt>
+<./img/source/uniform.jpg, id=2930, 282.30469pt x 196.48407pt>
 File: ./img/source/uniform.jpg Graphic file (type jpg)
 
 <use ./img/source/uniform.jpg>
 Package pdftex.def Info: ./img/source/uniform.jpg used on input line 37.
 (pdftex.def)             Requested size: 181.18439pt x 126.10614pt.
 
-<./img/source/accelerated.jpg, id=2881, 276.28218pt x 189.70876pt>
+<./img/source/accelerated.jpg, id=2931, 276.28218pt x 189.70876pt>
 File: ./img/source/accelerated.jpg Graphic file (type jpg)
 
 <use ./img/source/accelerated.jpg>
 Package pdftex.def Info: ./img/source/accelerated.jpg used on input line 62.
 (pdftex.def)             Requested size: 181.18439pt x 124.40921pt.
 
-<./img/vso/timing-cup.jpg, id=2882, 103.13531pt x 179.16937pt>
+<./img/vso/timing-cup.jpg, id=2932, 103.13531pt x 179.16937pt>
 File: ./img/vso/timing-cup.jpg Graphic file (type jpg)
 
 <use ./img/vso/timing-cup.jpg>
@@ -1999,15 +2027,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--105
 []\OT1/cmr/m/n/10 Plastic cup/tin, di-lute ink/food
  []
 
-<./img/vso/ticker-timer.jpg, id=2883, 289.08pt x 272.51813pt>
+<./img/vso/ticker-timer.jpg, id=2933, 289.08pt x 272.51813pt>
 File: ./img/vso/ticker-timer.jpg Graphic file (type jpg)
 
 <use ./img/vso/ticker-timer.jpg>
 Package pdftex.def Info: ./img/vso/ticker-timer.jpg used on input line 119.
 (pdftex.def)             Requested size: 203.83417pt x 192.1544pt.
- [60 <./img/source/uniform.jpg> <./img/source/accelerated.jpg> <./img/vso/timin
+ [66 <./img/source/uniform.jpg> <./img/source/accelerated.jpg> <./img/vso/timin
 g-cup.jpg>]
-<./img/source/pendulum-gravity.png, id=2888, 256.70906pt x 200.24812pt>
+<./img/source/pendulum-gravity.png, id=2939, 256.70906pt x 200.24812pt>
 File: ./img/source/pendulum-gravity.png Graphic file (type png)
 
 <use ./img/source/pendulum-gravity.png>
@@ -2017,41 +2045,41 @@ Package pdftex.def Info: ./img/source/pendulum-gravity.png used on input line 1
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61 <./img/vso/ticker-timer.jpg> <./img/source/pendulum-gravity.png>]
+ [67 <./img/vso/ticker-timer.jpg> <./img/source/pendulum-gravity.png>]
 (./tex/ii-activities_newtons-laws-alt.tex
-<./img/source/bucket-swing.png, id=2896, 285.31593pt x 305.64188pt>
+<./img/source/bucket-swing.png, id=2947, 285.31593pt x 305.64188pt>
 File: ./img/source/bucket-swing.png Graphic file (type png)
 
 <use ./img/source/bucket-swing.png>
 Package pdftex.def Info: ./img/source/bucket-swing.png used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 194.08975pt.
 
-<./img/inertia.png, id=2897, 213.79875pt x 216.81pt>
+<./img/inertia.png, id=2948, 213.79875pt x 216.81pt>
 File: ./img/inertia.png Graphic file (type png)
  <use ./img/inertia.png>
 Package pdftex.def Info: ./img/inertia.png used on input line 31.
 (pdftex.def)             Requested size: 158.54152pt x 160.77432pt.
 
-<./img/vso/bucket-pendulums.jpg, id=2898, 187.45032pt x 140.77594pt>
+<./img/vso/bucket-pendulums.jpg, id=2949, 187.45032pt x 140.77594pt>
 File: ./img/vso/bucket-pendulums.jpg Graphic file (type jpg)
 
 <use ./img/vso/bucket-pendulums.jpg>
 Package pdftex.def Info: ./img/vso/bucket-pendulums.jpg used on input line 50.
 (pdftex.def)             Requested size: 181.18439pt x 136.07774pt.
 
-<./img/source/passenger.png, id=2899, 335.00156pt x 161.85469pt>
+<./img/source/passenger.png, id=2950, 335.00156pt x 161.85469pt>
 File: ./img/source/passenger.png Graphic file (type png)
 
 <use ./img/source/passenger.png>
 Package pdftex.def Info: ./img/source/passenger.png used on input line 69.
 (pdftex.def)             Requested size: 203.83417pt x 98.48177pt.
- [62 <./img/source/bucket-swing.png> <./img/inertia.png> <./img/vso/bucket-pend
+ [68 <./img/source/bucket-swing.png> <./img/inertia.png> <./img/vso/bucket-pend
 ulums.jpg>]
 Underfull \hbox (badness 6741) in paragraph at lines 79--80
 []\OT1/cmr/m/n/10 The pas-sen-ger falls back-ward
  []
 
-<./img/vso/bumping-bottles.jpg, id=2908, 328.22626pt x 112.92188pt>
+<./img/vso/bumping-bottles.jpg, id=2959, 328.22626pt x 112.92188pt>
 File: ./img/vso/bumping-bottles.jpg Graphic file (type jpg)
 
 <use ./img/vso/bumping-bottles.jpg>
@@ -2062,15 +2090,15 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 133--134
  [] 
  []
 
-[63 <./img/source/passenger.png> <./img/vso/bumping-bottles.jpg>]
-<./img/vso/dropping-fruit.jpg, id=2914, 238.64156pt x 143.78719pt>
+[69 <./img/source/passenger.png> <./img/vso/bumping-bottles.jpg>]
+<./img/vso/dropping-fruit.jpg, id=2965, 238.64156pt x 143.78719pt>
 File: ./img/vso/dropping-fruit.jpg Graphic file (type jpg)
 
 <use ./img/vso/dropping-fruit.jpg>
 Package pdftex.def Info: ./img/vso/dropping-fruit.jpg used on input line 171.
 (pdftex.def)             Requested size: 158.54152pt x 95.52512pt.
 
-<./img/vso/balloon-rocket.jpg, id=2915, 396.7322pt x 114.4275pt>
+<./img/vso/balloon-rocket.jpg, id=2966, 396.7322pt x 114.4275pt>
 File: ./img/vso/balloon-rocket.jpg Graphic file (type jpg)
 
 <use ./img/vso/balloon-rocket.jpg>
@@ -2081,7 +2109,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 214--215
  [] 
  []
 
-<./img/vso/canoe-push.jpg, id=2916, 335.00156pt x 78.2925pt>
+<./img/vso/canoe-push.jpg, id=2967, 335.00156pt x 78.2925pt>
 File: ./img/vso/canoe-push.jpg Graphic file (type jpg)
 
 <use ./img/vso/canoe-push.jpg>
@@ -2092,14 +2120,14 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 233--234
  [] 
  []
 
-<./img/vso/boat-thrust.jpg, id=2917, 323.70938pt x 121.95563pt>
+<./img/vso/boat-thrust.jpg, id=2968, 323.70938pt x 121.95563pt>
 File: ./img/vso/boat-thrust.jpg Graphic file (type jpg)
 
 <use ./img/vso/boat-thrust.jpg>
 Package pdftex.def Info: ./img/vso/boat-thrust.jpg used on input line 252.
 (pdftex.def)             Requested size: 203.83417pt x 76.79335pt.
 
-<./img/source/pencil-launch.png, id=2918, 350.05782pt x 357.58594pt>
+<./img/source/pencil-launch.png, id=2969, 350.05782pt x 357.58594pt>
 File: ./img/source/pencil-launch.png Graphic file (type png)
 
 <use ./img/source/pencil-launch.png>
@@ -2107,37 +2135,37 @@ Package pdftex.def Info: ./img/source/pencil-launch.png used on input line 271.
 
 (pdftex.def)             Requested size: 149.48022pt x 152.69496pt.
 
-<./img/n3-matchbox.jpg, id=2919, 401.24907pt x 115.18031pt>
+<./img/n3-matchbox.jpg, id=2970, 401.24907pt x 115.18031pt>
 File: ./img/n3-matchbox.jpg Graphic file (type jpg)
 
 <use ./img/n3-matchbox.jpg>
 Package pdftex.def Info: ./img/n3-matchbox.jpg used on input line 292.
 (pdftex.def)             Requested size: 203.83417pt x 58.5127pt.
- [64 <./img/vso/dropping-fruit.jpg> <./img/vso/balloon-rocket.jpg> <./img/vso/c
+ [70 <./img/vso/dropping-fruit.jpg> <./img/vso/balloon-rocket.jpg> <./img/vso/c
 anoe-push.jpg> <./img/vso/boat-thrust.jpg> <./img/source/pencil-launch.png>]
-<./img/matchstick-rocket-1.png, id=2925, 322.20375pt x 262.73157pt>
+<./img/matchstick-rocket-1.png, id=2976, 322.20375pt x 262.73157pt>
 File: ./img/matchstick-rocket-1.png Graphic file (type png)
 
 <use ./img/matchstick-rocket-1.png>
 Package pdftex.def Info: ./img/matchstick-rocket-1.png used on input line 311.
 (pdftex.def)             Requested size: 203.83417pt x 166.2153pt.
 
-<./img/candle-boat.jpg, id=2926, 325.215pt x 322.95656pt>
+<./img/candle-boat.jpg, id=2977, 325.215pt x 322.95656pt>
 File: ./img/candle-boat.jpg Graphic file (type jpg)
 
 <use ./img/candle-boat.jpg>
 Package pdftex.def Info: ./img/candle-boat.jpg used on input line 333.
 (pdftex.def)             Requested size: 181.18439pt x 179.92798pt.
- [65 <./img/n3-matchbox.jpg> <./img/matchstick-rocket-1.png> <./img/candle-boat
+ [71 <./img/n3-matchbox.jpg> <./img/matchstick-rocket-1.png> <./img/candle-boat
 .jpg>]) (./tex/ii-activities_temperature-alt.tex
-<./img/source/thermometer.png, id=2933, 277.035pt x 264.23718pt>
+<./img/source/thermometer.png, id=2983, 277.035pt x 264.23718pt>
 File: ./img/source/thermometer.png Graphic file (type png)
 
 <use ./img/source/thermometer.png>
 Package pdftex.def Info: ./img/source/thermometer.png used on input line 9.
 (pdftex.def)             Requested size: 181.18439pt x 172.81252pt.
 
-<./img/source/fixed-points.png, id=2934, 355.3275pt x 573.64313pt>
+<./img/source/fixed-points.png, id=2984, 355.3275pt x 573.64313pt>
 File: ./img/source/fixed-points.png Graphic file (type png)
 
 <use ./img/source/fixed-points.png>
@@ -2148,9 +2176,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--38
 []\OT1/cmr/m/n/10 Cardboard/manila pa-per, tape,
  []
 
-[66 <./img/source/thermometer.png> <./img/source/fixed-points.png>])
+[72 <./img/source/thermometer.png> <./img/source/fixed-points.png>])
 (./tex/ii-activities_sustainable-energy-sources-alt.tex
-<./img/water-wheel.jpg, id=2941, 271.0125pt x 519.44063pt>
+<./img/water-wheel.jpg, id=2991, 271.0125pt x 519.44063pt>
 File: ./img/water-wheel.jpg Graphic file (type jpg)
 
 <use ./img/water-wheel.jpg>
@@ -2161,14 +2189,14 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 12--13
  [] 
  []
 
-<./img/vso/solar-heat.jpg, id=2944, 250.68657pt x 139.27031pt>
+<./img/vso/solar-heat.jpg, id=2994, 250.68657pt x 139.27031pt>
 File: ./img/vso/solar-heat.jpg Graphic file (type jpg)
 
 <use ./img/vso/solar-heat.jpg>
 Package pdftex.def Info: ./img/vso/solar-heat.jpg used on input line 38.
 (pdftex.def)             Requested size: 181.18439pt x 100.66342pt.
 
-<./img/windmill.png, id=2945, 317.68687pt x 186.6975pt>
+<./img/windmill.png, id=2995, 317.68687pt x 186.6975pt>
 File: ./img/windmill.png Graphic file (type png)
 
 <use ./img/windmill.png>
@@ -2179,10 +2207,10 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 62--63
  [] 
  []
 
-[67 <./img/water-wheel.jpg> <./img/vso/solar-heat.jpg> <./img/windmill.png>])
+[73 <./img/water-wheel.jpg> <./img/vso/solar-heat.jpg> <./img/windmill.png>])
 Chapter 3.
 (./tex/iii-activities_friction-alt.tex
-<./img/vso/useful-friction.jpg, id=2954, 400.49625pt x 385.44pt>
+<./img/vso/useful-friction.jpg, id=3004, 400.49625pt x 385.44pt>
 File: ./img/vso/useful-friction.jpg Graphic file (type jpg)
 
 <use ./img/vso/useful-friction.jpg>
@@ -2193,7 +2221,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 12--13
  [] 
  []
 
-<./img/vso/pencil-roller.jpg, id=2955, 240.14719pt x 137.01187pt>
+<./img/vso/pencil-roller.jpg, id=3005, 240.14719pt x 137.01187pt>
 File: ./img/vso/pencil-roller.jpg Graphic file (type jpg)
 
 <use ./img/vso/pencil-roller.jpg>
@@ -2204,7 +2232,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--25
 []\OT1/cmr/m/n/10 Pencils, [][]Spring Bal-ance[][], match-
  []
 
-<./img/source/friction-factors.png, id=2957, 249.93375pt x 406.51875pt>
+<./img/source/friction-factors.png, id=3007, 249.93375pt x 406.51875pt>
 File: ./img/source/friction-factors.png Graphic file (type png)
 
 <use ./img/source/friction-factors.png>
@@ -2216,7 +2244,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 42--43
  [] 
  []
 
-<./img/limiting-friction.png, id=2958, 261.22594pt x 156.585pt>
+<./img/limiting-friction.png, id=3008, 261.22594pt x 156.585pt>
 File: ./img/limiting-friction.png Graphic file (type png)
 
 <use ./img/limiting-friction.png>
@@ -2227,25 +2255,25 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 68--69
  [] 
  []
 
-[68
+[74
 
  <./img/vso/useful-friction.jpg> <./img/vso/pencil-roller.jpg> <./img/source/fr
 iction-factors.png>]
-<./img/source/friction-heat.png, id=2965, 189.70876pt x 429.85594pt>
+<./img/source/friction-heat.png, id=3015, 189.70876pt x 429.85594pt>
 File: ./img/source/friction-heat.png Graphic file (type png)
 
 <use ./img/source/friction-heat.png>
 Package pdftex.def Info: ./img/source/friction-heat.png used on input line 95.
 (pdftex.def)             Requested size: 181.18439pt x 410.55156pt.
 
-<./img/source/lubrication.png, id=2966, 371.13657pt x 312.41719pt>
+<./img/source/lubrication.png, id=3016, 371.13657pt x 312.41719pt>
 File: ./img/source/lubrication.png Graphic file (type png)
 
 <use ./img/source/lubrication.png>
 Package pdftex.def Info: ./img/source/lubrication.png used on input line 117.
 (pdftex.def)             Requested size: 181.18439pt x 152.51846pt.
- [69 <./img/limiting-friction.png> <./img/source/friction-heat.png>]
-<./img/vso/water-lubricant.jpg, id=2973, 231.11343pt x 182.18062pt>
+ [75 <./img/limiting-friction.png> <./img/source/friction-heat.png>]
+<./img/vso/water-lubricant.jpg, id=3023, 231.11343pt x 182.18062pt>
 File: ./img/vso/water-lubricant.jpg Graphic file (type jpg)
 
 <use ./img/vso/water-lubricant.jpg>
@@ -2254,9 +2282,9 @@ Package pdftex.def Info: ./img/vso/water-lubricant.jpg used on input line 136.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70 <./img/source/lubrication.png> <./img/vso/water-lubricant.jpg>]
+ [76 <./img/source/lubrication.png> <./img/vso/water-lubricant.jpg>]
 (./tex/iii-activities_light-alt.tex
-<./img/source/radius-concave.png, id=2979, 311.66437pt x 397.485pt>
+<./img/source/radius-concave.png, id=3029, 311.66437pt x 397.485pt>
 File: ./img/source/radius-concave.png Graphic file (type png)
 
 <use ./img/source/radius-concave.png>
@@ -2268,21 +2296,21 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 12--13
  [] 
  []
 
-<./img/source/umbrella.png, id=2980, 264.23718pt x 213.79875pt>
+<./img/source/umbrella.png, id=3030, 264.23718pt x 213.79875pt>
 File: ./img/source/umbrella.png Graphic file (type png)
 
 <use ./img/source/umbrella.png>
 Package pdftex.def Info: ./img/source/umbrella.png used on input line 34.
 (pdftex.def)             Requested size: 135.89174pt x 109.95262pt.
 
-<./img/source/images-convex.png, id=2981, 338.76563pt x 179.16937pt>
+<./img/source/images-convex.png, id=3031, 338.76563pt x 179.16937pt>
 File: ./img/source/images-convex.png Graphic file (type png)
 
 <use ./img/source/images-convex.png>
 Package pdftex.def Info: ./img/source/images-convex.png used on input line 72.
 (pdftex.def)             Requested size: 190.24568pt x 100.62122pt.
 
-<./img/source/rising-coin.png, id=2982, 483.30562pt x 268.75406pt>
+<./img/source/rising-coin.png, id=3032, 483.30562pt x 268.75406pt>
 File: ./img/source/rising-coin.png Graphic file (type png)
 
 <use ./img/source/rising-coin.png>
@@ -2293,9 +2321,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 115--116
  [] 
  []
 
-[71 <./img/source/radius-concave.png> <./img/source/umbrella.png> <./img/source
+[77 <./img/source/radius-concave.png> <./img/source/umbrella.png> <./img/source
 /images-convex.png>]
-<./img/source/bending-pencil.png, id=2990, 440.39531pt x 294.34969pt>
+<./img/source/bending-pencil.png, id=3040, 440.39531pt x 294.34969pt>
 File: ./img/source/bending-pencil.png Graphic file (type png)
 
 <use ./img/source/bending-pencil.png>
@@ -2303,7 +2331,7 @@ Package pdftex.def Info: ./img/source/bending-pencil.png used on input line 134
 .
 (pdftex.def)             Requested size: 203.83417pt x 136.23788pt.
 
-<./img/source/candle-in-water.png, id=2991, 360.59718pt x 272.51813pt>
+<./img/source/candle-in-water.png, id=3041, 360.59718pt x 272.51813pt>
 File: ./img/source/candle-in-water.png Graphic file (type png)
 
 <use ./img/source/candle-in-water.png>
@@ -2311,7 +2339,7 @@ Package pdftex.def Info: ./img/source/candle-in-water.png used on input line 15
 3.
 (pdftex.def)             Requested size: 190.24568pt x 143.7769pt.
 
-<./img/refractive-index-water.png, id=2992, 280.04625pt x 178.41656pt>
+<./img/refractive-index-water.png, id=3042, 280.04625pt x 178.41656pt>
 File: ./img/refractive-index-water.png Graphic file (type png)
 
 <use ./img/refractive-index-water.png>
@@ -2319,7 +2347,7 @@ Package pdftex.def Info: ./img/refractive-index-water.png used on input line 17
 3.
 (pdftex.def)             Requested size: 203.83417pt x 129.8673pt.
 
-<./img/refractive-index-1.png, id=2995, 234.8775pt x 343.2825pt>
+<./img/refractive-index-1.png, id=3045, 234.8775pt x 343.2825pt>
 File: ./img/refractive-index-1.png Graphic file (type png)
 
 <use ./img/refractive-index-1.png>
@@ -2330,9 +2358,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 193--194
  [] 
  []
 
-[72 <./img/source/rising-coin.png> <./img/source/bending-pencil.png> <./img/sou
+[78 <./img/source/rising-coin.png> <./img/source/bending-pencil.png> <./img/sou
 rce/candle-in-water.png> <./img/refractive-index-water.png>]
-<./img/source/total-int-refl.png, id=3004, 231.86626pt x 537.50812pt>
+<./img/source/total-int-refl.png, id=3054, 231.86626pt x 537.50812pt>
 File: ./img/source/total-int-refl.png Graphic file (type png)
 
 <use ./img/source/total-int-refl.png>
@@ -2340,29 +2368,29 @@ Package pdftex.def Info: ./img/source/total-int-refl.png used on input line 234
 .
 (pdftex.def)             Requested size: 158.54152pt x 367.5347pt.
 
-<./img/vso/lenses.jpg, id=3005, 268.75406pt x 216.05719pt>
+<./img/vso/lenses.jpg, id=3055, 268.75406pt x 216.05719pt>
 File: ./img/vso/lenses.jpg Graphic file (type jpg)
 
 <use ./img/vso/lenses.jpg>
 Package pdftex.def Info: ./img/vso/lenses.jpg used on input line 258.
 (pdftex.def)             Requested size: 203.83417pt x 163.86559pt.
- [73 <./img/refractive-index-1.png> <./img/source/total-int-refl.png>]
-<./img/source/magnification-convex.png, id=3013, 278.54062pt x 606.76688pt>
+ [79 <./img/refractive-index-1.png> <./img/source/total-int-refl.png>]
+<./img/source/magnification-convex.png, id=3063, 278.54062pt x 606.76688pt>
 File: ./img/source/magnification-convex.png Graphic file (type png)
 
 <use ./img/source/magnification-convex.png>
 Package pdftex.def Info: ./img/source/magnification-convex.png used on input li
 ne 296.
 (pdftex.def)             Requested size: 203.83417pt x 444.0379pt.
- [74 <./img/vso/lenses.jpg> <./img/source/magnification-convex.png>]
-<./img/vso/water-prism.jpg, id=3019, 224.33812pt x 204.01219pt>
+ [80 <./img/vso/lenses.jpg> <./img/source/magnification-convex.png>]
+<./img/vso/water-prism.jpg, id=3070, 224.33812pt x 204.01219pt>
 File: ./img/vso/water-prism.jpg Graphic file (type jpg)
 
 <use ./img/vso/water-prism.jpg>
 Package pdftex.def Info: ./img/vso/water-prism.jpg used on input line 366.
 (pdftex.def)             Requested size: 203.83417pt x 185.37122pt.
 
-<./img/vso/dispersion-mirror.jpg, id=3020, 347.04657pt x 107.65219pt>
+<./img/vso/dispersion-mirror.jpg, id=3071, 347.04657pt x 107.65219pt>
 File: ./img/vso/dispersion-mirror.jpg Graphic file (type jpg)
 
 <use ./img/vso/dispersion-mirror.jpg>
@@ -2374,7 +2402,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 387--388
  [] 
  []
 
-<./img/source/water-hose-rainbow.png, id=3021, 255.95625pt x 477.28313pt>
+<./img/source/water-hose-rainbow.png, id=3072, 255.95625pt x 477.28313pt>
 File: ./img/source/water-hose-rainbow.png Graphic file (type png)
 
 <use ./img/source/water-hose-rainbow.png>
@@ -2382,15 +2410,15 @@ Package pdftex.def Info: ./img/source/water-hose-rainbow.png used on input line
  406.
 (pdftex.def)             Requested size: 158.54152pt x 295.63573pt.
 
-<./img/source/colour-wheel.png, id=3022, 330.48468pt x 432.11438pt>
+<./img/source/colour-wheel.png, id=3073, 330.48468pt x 432.11438pt>
 File: ./img/source/colour-wheel.png Graphic file (type png)
 
 <use ./img/source/colour-wheel.png>
 Package pdftex.def Info: ./img/source/colour-wheel.png used on input line 432.
 (pdftex.def)             Requested size: 203.83417pt x 266.5235pt.
- [75 <./img/vso/water-prism.jpg> <./img/vso/dispersion-mirror.jpg> <./img/sourc
+ [81 <./img/vso/water-prism.jpg> <./img/vso/dispersion-mirror.jpg> <./img/sourc
 e/water-hose-rainbow.png>]
-<./img/vso/tie-dyeing.jpg, id=3027, 209.28188pt x 341.02406pt>
+<./img/vso/tie-dyeing.jpg, id=3078, 209.28188pt x 341.02406pt>
 File: ./img/vso/tie-dyeing.jpg Graphic file (type jpg)
 
 <use ./img/vso/tie-dyeing.jpg>
@@ -2399,9 +2427,9 @@ Package pdftex.def Info: ./img/vso/tie-dyeing.jpg used on input line 454.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [76 <./img/source/colour-wheel.png> <./img/vso/tie-dyeing.jpg>]
+ [82 <./img/source/colour-wheel.png> <./img/vso/tie-dyeing.jpg>]
 (./tex/iii-activities_optical-instruments-alt.tex
-<./img/source/simple-microscope.png, id=3033, 353.82187pt x 451.6875pt>
+<./img/source/simple-microscope.png, id=3084, 353.82187pt x 451.6875pt>
 File: ./img/source/simple-microscope.png Graphic file (type png)
 
 <use ./img/source/simple-microscope.png>
@@ -2413,15 +2441,15 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 9--10
  [] 
  []
 
-<./img/source/human-eye.png, id=3036, 329.73187pt x 520.94624pt>
+<./img/source/human-eye.png, id=3087, 329.73187pt x 520.94624pt>
 File: ./img/source/human-eye.png Graphic file (type png)
 
 <use ./img/source/human-eye.png>
 Package pdftex.def Info: ./img/source/human-eye.png used on input line 50.
 (pdftex.def)             Requested size: 181.18439pt x 286.259pt.
-) [77 <./img/source/simple-microscope.png> <./img/source/human-eye.png>] (./tex
+) [83 <./img/source/simple-microscope.png> <./img/source/human-eye.png>] (./tex
 /iii-activities_thermal-expansion-alt.tex
-<./img/source/explaining-expansion-2.png, id=3044, 254.45062pt x 181.42781pt>
+<./img/source/explaining-expansion-2.png, id=3095, 254.45062pt x 181.42781pt>
 File: ./img/source/explaining-expansion-2.png Graphic file (type png)
 
 <use ./img/source/explaining-expansion-2.png>
@@ -2429,14 +2457,14 @@ Package pdftex.def Info: ./img/source/explaining-expansion-2.png used on input
 line 9.
 (pdftex.def)             Requested size: 181.18439pt x 129.19391pt.
 
-<./img/vso/ring-nail.jpg, id=3045, 254.45062pt x 157.33781pt>
+<./img/vso/ring-nail.jpg, id=3096, 254.45062pt x 157.33781pt>
 File: ./img/vso/ring-nail.jpg Graphic file (type jpg)
 
 <use ./img/vso/ring-nail.jpg>
 Package pdftex.def Info: ./img/vso/ring-nail.jpg used on input line 32.
 (pdftex.def)             Requested size: 181.18439pt x 112.03952pt.
 
-<./img/vso/expansion-coin.jpg, id=3046, 134.00063pt x 85.06781pt>
+<./img/vso/expansion-coin.jpg, id=3097, 134.00063pt x 85.06781pt>
 File: ./img/vso/expansion-coin.jpg Graphic file (type jpg)
 
 <use ./img/vso/expansion-coin.jpg>
@@ -2447,7 +2475,7 @@ Overfull \hbox (13.40646pt too wide) in paragraph at lines 56--58
 []\OT1/cmr/m/n/10 Coin, 2 nails, mount-ing board/cardboard,
  []
 
-<./img/source/expansion-wire.png, id=3047, 354.57469pt x 239.39438pt>
+<./img/source/expansion-wire.png, id=3098, 354.57469pt x 239.39438pt>
 File: ./img/source/expansion-wire.png Graphic file (type png)
 
 <use ./img/source/expansion-wire.png>
@@ -2455,22 +2483,22 @@ Package pdftex.def Info: ./img/source/expansion-wire.png used on input line 70.
 
 (pdftex.def)             Requested size: 181.18439pt x 122.3306pt.
 
-<./img/thermal-switch.png, id=3049, 180.675pt x 160.34906pt>
+<./img/thermal-switch.png, id=3100, 180.675pt x 160.34906pt>
 File: ./img/thermal-switch.png Graphic file (type png)
 
 <use ./img/thermal-switch.png>
 Package pdftex.def Info: ./img/thermal-switch.png used on input line 110.
 (pdftex.def)             Requested size: 181.18439pt x 160.8013pt.
- [78 <./img/source/explaining-expansion-2.png> <./img/vso/ring-nail.jpg> <./img
+ [84 <./img/source/explaining-expansion-2.png> <./img/vso/ring-nail.jpg> <./img
 /vso/expansion-coin.jpg> <./img/source/expansion-wire.png>] <./img/bimetallic-s
-trip.png, id=3056, 213.79875pt x 171.64125pt>
+trip.png, id=3107, 213.79875pt x 171.64125pt>
 File: ./img/bimetallic-strip.png Graphic file (type png)
 
 <use ./img/bimetallic-strip.png>
 Package pdftex.def Info: ./img/bimetallic-strip.png used on input line 129.
 (pdftex.def)             Requested size: 181.18439pt x 145.45834pt.
 
-<./img/vso/measuring-expansion.jpg, id=3057, 331.99031pt x 298.11375pt>
+<./img/vso/measuring-expansion.jpg, id=3108, 331.99031pt x 298.11375pt>
 File: ./img/vso/measuring-expansion.jpg Graphic file (type jpg)
 
 <use ./img/vso/measuring-expansion.jpg>
@@ -2482,16 +2510,16 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 148--149
  [] 
  []
 
-<./img/vso/allowing-expansion.jpg, id=3058, 252.945pt x 188.20313pt>
+<./img/vso/allowing-expansion.jpg, id=3109, 252.945pt x 188.20313pt>
 File: ./img/vso/allowing-expansion.jpg Graphic file (type jpg)
 
 <use ./img/vso/allowing-expansion.jpg>
 Package pdftex.def Info: ./img/vso/allowing-expansion.jpg used on input line 16
 7.
 (pdftex.def)             Requested size: 181.18439pt x 134.81117pt.
- [79 <./img/thermal-switch.png> <./img/bimetallic-strip.png> <./img/vso/measuri
+ [85 <./img/thermal-switch.png> <./img/bimetallic-strip.png> <./img/vso/measuri
 ng-expansion.jpg>]
-<./img/source/rising-colours.png, id=3067, 264.23718pt x 260.47313pt>
+<./img/source/rising-colours.png, id=3117, 264.23718pt x 260.47313pt>
 File: ./img/source/rising-colours.png Graphic file (type png)
 
 <use ./img/source/rising-colours.png>
@@ -2499,14 +2527,14 @@ Package pdftex.def Info: ./img/source/rising-colours.png used on input line 191
 .
 (pdftex.def)             Requested size: 181.18439pt x 178.60187pt.
 
-<./img/source/jumping-coin.png, id=3069, 222.8325pt x 239.39438pt>
+<./img/source/jumping-coin.png, id=3119, 222.8325pt x 239.39438pt>
 File: ./img/source/jumping-coin.png Graphic file (type png)
 
 <use ./img/source/jumping-coin.png>
 Package pdftex.def Info: ./img/source/jumping-coin.png used on input line 210.
 (pdftex.def)             Requested size: 158.54152pt x 170.32552pt.
 
-<./img/vso/liquid-thermometers.jpg, id=3071, 182.93344pt x 192.72pt>
+<./img/vso/liquid-thermometers.jpg, id=3121, 182.93344pt x 192.72pt>
 File: ./img/vso/liquid-thermometers.jpg Graphic file (type jpg)
 
 <use ./img/vso/liquid-thermometers.jpg>
@@ -2514,14 +2542,14 @@ Package pdftex.def Info: ./img/vso/liquid-thermometers.jpg used on input line 2
 29.
 (pdftex.def)             Requested size: 181.18439pt x 190.88747pt.
 
-<./img/source/allowing-expansion-liquid.png, id=3072, 106.14656pt x 292.09125pt
+<./img/source/allowing-expansion-liquid.png, id=3122, 106.14656pt x 292.09125pt
 >
 File: ./img/source/allowing-expansion-liquid.png Graphic file (type png)
  <use ./img/source/allowing-expansion-liquid.png>
 Package pdftex.def Info: ./img/source/allowing-expansion-liquid.png used on inp
 ut line 248.
 (pdftex.def)             Requested size: 45.29955pt x 124.6519pt.
- [80 <./img/vso/allowing-expansion.jpg> <./img/source/rising-colours.png> <./im
+ [86 <./img/vso/allowing-expansion.jpg> <./img/source/rising-colours.png> <./im
 g/source/jumping-coin.png> <./img/vso/liquid-thermometers.jpg>]
 File: ./img/source/bottle-crush.png Graphic file (type png)
  <use ./img/source/bottle-crush.png>
@@ -2531,27 +2559,27 @@ Package pdftex.def Info: ./img/source/bottle-crush.png used on input line 276.
 
 Package hyperref Warning: Suppressing empty link on input line 288.
 
-<./img/source/egg-suck.png, id=3079, 285.31593pt x 258.9675pt>
+<./img/source/egg-suck.png, id=3129, 285.31593pt x 258.9675pt>
 File: ./img/source/egg-suck.png Graphic file (type png)
 
 <use ./img/source/egg-suck.png>
 Package pdftex.def Info: ./img/source/egg-suck.png used on input line 295.
 (pdftex.def)             Requested size: 181.18439pt x 164.45042pt.
 
-<./img/source/boyle-syringe.jpg, id=3080, 216.81pt x 188.95593pt>
+<./img/source/boyle-syringe.jpg, id=3130, 216.81pt x 188.95593pt>
 File: ./img/source/boyle-syringe.jpg Graphic file (type jpg)
 
 <use ./img/source/boyle-syringe.jpg>
 Package pdftex.def Info: ./img/source/boyle-syringe.jpg used on input line 336.
 
 (pdftex.def)             Requested size: 203.83417pt x 177.65607pt.
- [81 <./img/source/allowing-expansion-liquid.png> <./img/source/egg-suck.png>])
+ [87 <./img/source/allowing-expansion-liquid.png> <./img/source/egg-suck.png>])
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82 <./img/source/boyle-syringe.jpg>]
+ [88 <./img/source/boyle-syringe.jpg>]
 (./tex/iii-activities_transfer-thermal-energy-alt.tex
-<./img/source/football-thermal.png, id=3091, 343.2825pt x 588.69937pt>
+<./img/source/football-thermal.png, id=3141, 343.2825pt x 588.69937pt>
 File: ./img/source/football-thermal.png Graphic file (type png)
 
 <use ./img/source/football-thermal.png>
@@ -2563,7 +2591,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 13--14
  [] 
  []
 
-<./img/source/heat-trans-candle.png, id=3092, 361.35pt x 644.4075pt>
+<./img/source/heat-trans-candle.png, id=3142, 361.35pt x 644.4075pt>
 File: ./img/source/heat-trans-candle.png Graphic file (type png)
 
 <use ./img/source/heat-trans-candle.png>
@@ -2575,50 +2603,50 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 28--29
  [] 
  []
 
-<./img/heat-conduction.png, id=3093, 242.40562pt x 191.9672pt>
+<./img/heat-conduction.png, id=3143, 242.40562pt x 191.9672pt>
 File: ./img/heat-conduction.png Graphic file (type png)
 
 <use ./img/heat-conduction.png>
 Package pdftex.def Info: ./img/heat-conduction.png used on input line 61.
 (pdftex.def)             Requested size: 181.18439pt x 143.49171pt.
- [83 <./img/source/football-thermal.png> <./img/source/heat-trans-candle.png>]
-<./img/vso/conduction-rate.jpg, id=3100, 261.97874pt x 67.75313pt>
+ [89 <./img/source/football-thermal.png> <./img/source/heat-trans-candle.png>]
+<./img/vso/conduction-rate.jpg, id=3150, 261.97874pt x 67.75313pt>
 File: ./img/vso/conduction-rate.jpg Graphic file (type jpg)
 
 <use ./img/vso/conduction-rate.jpg>
 Package pdftex.def Info: ./img/vso/conduction-rate.jpg used on input line 80.
 (pdftex.def)             Requested size: 203.83417pt x 52.71695pt.
 
-<./img/vso/coin-burn.jpg, id=3101, 153.57375pt x 115.18031pt>
+<./img/vso/coin-burn.jpg, id=3151, 153.57375pt x 115.18031pt>
 File: ./img/vso/coin-burn.jpg Graphic file (type jpg)
 
 <use ./img/vso/coin-burn.jpg>
 Package pdftex.def Info: ./img/vso/coin-burn.jpg used on input line 99.
 (pdftex.def)             Requested size: 158.54152pt x 118.91295pt.
 
-<./img/vso/paper-pan.jpg, id=3102, 194.97844pt x 106.89937pt>
+<./img/vso/paper-pan.jpg, id=3152, 194.97844pt x 106.89937pt>
 File: ./img/vso/paper-pan.jpg Graphic file (type jpg)
 
 <use ./img/vso/paper-pan.jpg>
 Package pdftex.def Info: ./img/vso/paper-pan.jpg used on input line 118.
 (pdftex.def)             Requested size: 181.18439pt x 99.34033pt.
 
-<./img/vso/fireproof.jpg, id=3103, 182.18062pt x 126.4725pt>
+<./img/vso/fireproof.jpg, id=3153, 182.18062pt x 126.4725pt>
 File: ./img/vso/fireproof.jpg Graphic file (type jpg)
 
 <use ./img/vso/fireproof.jpg>
 Package pdftex.def Info: ./img/vso/fireproof.jpg used on input line 137.
 (pdftex.def)             Requested size: 181.18439pt x 125.78516pt.
 
-<./img/vso/candle-snuffer.jpg, id=3104, 91.09032pt x 144.54pt>
+<./img/vso/candle-snuffer.jpg, id=3154, 91.09032pt x 144.54pt>
 File: ./img/vso/candle-snuffer.jpg Graphic file (type jpg)
 
 <use ./img/vso/candle-snuffer.jpg>
 Package pdftex.def Info: ./img/vso/candle-snuffer.jpg used on input line 156.
 (pdftex.def)             Requested size: 90.5922pt x 143.75446pt.
- [84 <./img/heat-conduction.png> <./img/vso/conduction-rate.jpg> <./img/vso/coi
+ [90 <./img/heat-conduction.png> <./img/vso/conduction-rate.jpg> <./img/vso/coi
 n-burn.jpg> <./img/vso/paper-pan.jpg> <./img/vso/fireproof.jpg>]
-<./img/vso/convection-detectors.jpg, id=3110, 207.77625pt x 285.31593pt>
+<./img/vso/convection-detectors.jpg, id=3160, 207.77625pt x 285.31593pt>
 File: ./img/vso/convection-detectors.jpg Graphic file (type jpg)
 
 <use ./img/vso/convection-detectors.jpg>
@@ -2635,7 +2663,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--194
 []\OT1/cmr/m/n/10 Make the con-vec-tion de-tec-tors
  []
 
-<./img/vso/convection-currents.jpg, id=3111, 100.87688pt x 94.10156pt>
+<./img/vso/convection-currents.jpg, id=3161, 100.87688pt x 94.10156pt>
 File: ./img/vso/convection-currents.jpg Graphic file (type jpg)
 
 <use ./img/vso/convection-currents.jpg>
@@ -2643,30 +2671,30 @@ Package pdftex.def Info: ./img/vso/convection-currents.jpg used on input line 2
 01.
 (pdftex.def)             Requested size: 113.24197pt x 105.6371pt.
 
-<./img/source/breeze-2.jpg, id=3112, 415.36232pt x 416.12305pt>
+<./img/source/breeze-2.jpg, id=3162, 415.36232pt x 416.12305pt>
 File: ./img/source/breeze-2.jpg Graphic file (type jpg)
 
 <use ./img/source/breeze-2.jpg>
 Package pdftex.def Info: ./img/source/breeze-2.jpg used on input line 220.
 (pdftex.def)             Requested size: 181.18439pt x 181.51367pt.
 
-<./img/vso/ventilation-system.jpg, id=3113, 287.57437pt x 178.41656pt>
+<./img/vso/ventilation-system.jpg, id=3163, 287.57437pt x 178.41656pt>
 File: ./img/vso/ventilation-system.jpg Graphic file (type jpg)
 
 <use ./img/vso/ventilation-system.jpg>
 Package pdftex.def Info: ./img/vso/ventilation-system.jpg used on input line 24
 3.
 (pdftex.def)             Requested size: 203.83417pt x 126.467pt.
- [85 <./img/vso/candle-snuffer.jpg> <./img/vso/convection-detectors.jpg> <./img
+ [91 <./img/vso/candle-snuffer.jpg> <./img/vso/convection-detectors.jpg> <./img
 /vso/convection-currents.jpg> <./img/source/breeze-2.jpg>]
-<./img/vso/hot-air-balloon.jpg, id=3119, 283.81032pt x 174.6525pt>
+<./img/vso/hot-air-balloon.jpg, id=3169, 283.81032pt x 174.6525pt>
 File: ./img/vso/hot-air-balloon.jpg Graphic file (type jpg)
 
 <use ./img/vso/hot-air-balloon.jpg>
 Package pdftex.def Info: ./img/vso/hot-air-balloon.jpg used on input line 262.
 (pdftex.def)             Requested size: 203.83417pt x 125.44055pt.
 
-<./img/source/good-bad-radiators.png, id=3120, 350.81062pt x 228.10219pt>
+<./img/source/good-bad-radiators.png, id=3170, 350.81062pt x 228.10219pt>
 File: ./img/source/good-bad-radiators.png Graphic file (type png)
 
 <use ./img/source/good-bad-radiators.png>
@@ -2674,24 +2702,24 @@ Package pdftex.def Info: ./img/source/good-bad-radiators.png used on input line
  286.
 (pdftex.def)             Requested size: 181.18439pt x 117.8098pt.
 
-<./img/source/good-bad-absorbers.png, id=3121, 303.38344pt x 174.6525pt>
+<./img/source/good-bad-absorbers.png, id=3171, 303.38344pt x 174.6525pt>
 File: ./img/source/good-bad-absorbers.png Graphic file (type png)
 
 <use ./img/source/good-bad-absorbers.png>
 Package pdftex.def Info: ./img/source/good-bad-absorbers.png used on input line
  305.
 (pdftex.def)             Requested size: 181.18439pt x 104.30727pt.
- [86 <./img/vso/ventilation-system.jpg> <./img/vso/hot-air-balloon.jpg> <./img/
+ [92 <./img/vso/ventilation-system.jpg> <./img/vso/hot-air-balloon.jpg> <./img/
 source/good-bad-radiators.png> <./img/source/good-bad-absorbers.png>])
 (./tex/iii-activities_meas-thermal-energy-alt.tex
-<./img/source/shc-liquids.png, id=3128, 267.24844pt x 148.30406pt>
+<./img/source/shc-liquids.png, id=3178, 267.24844pt x 148.30406pt>
 File: ./img/source/shc-liquids.png Graphic file (type png)
 
 <use ./img/source/shc-liquids.png>
 Package pdftex.def Info: ./img/source/shc-liquids.png used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 100.54897pt.
 
-<./img/source/thermal-energy.png, id=3130, 326.72063pt x 191.9672pt>
+<./img/source/thermal-energy.png, id=3180, 326.72063pt x 191.9672pt>
 File: ./img/source/thermal-energy.png Graphic file (type png)
 
 <use ./img/source/thermal-energy.png>
@@ -2699,7 +2727,7 @@ Package pdftex.def Info: ./img/source/thermal-energy.png used on input line 31.
 
 (pdftex.def)             Requested size: 181.18439pt x 106.45517pt.
 
-<./img/calorimeter.png, id=3132, 283.0575pt x 388.45125pt>
+<./img/calorimeter.png, id=3182, 283.0575pt x 388.45125pt>
 File: ./img/calorimeter.png Graphic file (type png)
 
 <use ./img/calorimeter.png>
@@ -2710,19 +2738,19 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 50--51
  [] 
  []
 
-[87 <./img/source/shc-liquids.png> <./img/source/thermal-energy.png> <./img/cal
+[93 <./img/source/shc-liquids.png> <./img/source/thermal-energy.png> <./img/cal
 orimeter.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- <./img/source/shc-app.png, id=3142, 358.33875pt x 309.40594pt>
+ <./img/source/shc-app.png, id=3192, 358.33875pt x 309.40594pt>
 File: ./img/source/shc-app.png Graphic file (type png)
 
 <use ./img/source/shc-app.png>
 Package pdftex.def Info: ./img/source/shc-app.png used on input line 91.
 (pdftex.def)             Requested size: 181.18439pt x 156.44469pt.
 
-<./img/source/change-of-state.png, id=3143, 353.06906pt x 124.21407pt>
+<./img/source/change-of-state.png, id=3193, 353.06906pt x 124.21407pt>
 File: ./img/source/change-of-state.png Graphic file (type png)
 
 <use ./img/source/change-of-state.png>
@@ -2734,7 +2762,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 114--115
  [] 
  []
 
-<./img/vso/condensation.jpg, id=3144, 339.51843pt x 208.52907pt>
+<./img/vso/condensation.jpg, id=3194, 339.51843pt x 208.52907pt>
 File: ./img/vso/condensation.jpg Graphic file (type jpg)
 
 <use ./img/vso/condensation.jpg>
@@ -2750,22 +2778,22 @@ File: ./img/source/change-state.png Graphic file (type png)
 Package pdftex.def Info: ./img/source/change-state.png used on input line 130.
 (pdftex.def)             Requested size: 113.24197pt x 139.91772pt.
 
-<./img/vso/melting-point.jpg, id=3146, 222.8325pt x 226.59656pt>
+<./img/vso/melting-point.jpg, id=3196, 222.8325pt x 226.59656pt>
 File: ./img/vso/melting-point.jpg Graphic file (type jpg)
 
 <use ./img/vso/melting-point.jpg>
 Package pdftex.def Info: ./img/vso/melting-point.jpg used on input line 156.
 (pdftex.def)             Requested size: 181.18439pt x 184.24754pt.
- [88 <./img/source/shc-app.png> <./img/source/change-of-state.png> <./img/vso/c
+ [94 <./img/source/shc-app.png> <./img/source/change-of-state.png> <./img/vso/c
 ondensation.jpg>]
-<./img/boiling-room-temp.png, id=3158, 227.34938pt x 109.91063pt>
+<./img/boiling-room-temp.png, id=3209, 227.34938pt x 109.91063pt>
 File: ./img/boiling-room-temp.png Graphic file (type png)
 
 <use ./img/boiling-room-temp.png>
 Package pdftex.def Info: ./img/boiling-room-temp.png used on input line 220.
 (pdftex.def)             Requested size: 181.18439pt x 87.59319pt.
 
-<./img/source/pressure-cooker.png, id=3159, 272.51813pt x 177.66376pt>
+<./img/source/pressure-cooker.png, id=3210, 272.51813pt x 177.66376pt>
 File: ./img/source/pressure-cooker.png Graphic file (type png)
 
 <use ./img/source/pressure-cooker.png>
@@ -2773,15 +2801,15 @@ Package pdftex.def Info: ./img/source/pressure-cooker.png used on input line 23
 9.
 (pdftex.def)             Requested size: 181.18439pt x 118.1205pt.
 
-<./img/source/evap-cooling.png, id=3160, 188.95593pt x 260.47313pt>
+<./img/source/evap-cooling.png, id=3211, 188.95593pt x 260.47313pt>
 File: ./img/source/evap-cooling.png Graphic file (type png)
 
 <use ./img/source/evap-cooling.png>
 Package pdftex.def Info: ./img/source/evap-cooling.png used on input line 265.
 (pdftex.def)             Requested size: 135.89174pt x 187.32588pt.
- [89 <./img/vso/melting-point.jpg> <./img/boiling-room-temp.png> <./img/source/
+ [95 <./img/vso/melting-point.jpg> <./img/boiling-room-temp.png> <./img/source/
 pressure-cooker.png>]
-<./img/source/cooling-water.png, id=3168, 251.43938pt x 252.945pt>
+<./img/source/cooling-water.png, id=3219, 251.43938pt x 252.945pt>
 File: ./img/source/cooling-water.png Graphic file (type png)
 
 <use ./img/source/cooling-water.png>
@@ -2793,7 +2821,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--314
 []\OT1/cmr/m/n/10 The tem-per-a-ture in-creases
  []
 
-<./img/vso/distillation.jpg, id=3170, 343.2825pt x 181.42781pt>
+<./img/vso/distillation.jpg, id=3221, 343.2825pt x 181.42781pt>
 File: ./img/vso/distillation.jpg Graphic file (type jpg)
 
 <use ./img/vso/distillation.jpg>
@@ -2804,32 +2832,32 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 322--323
  [] 
  []
 
-[90 <./img/source/evap-cooling.png> <./img/source/cooling-water.png> <./img/vso
+[96 <./img/source/evap-cooling.png> <./img/source/cooling-water.png> <./img/vso
 /distillation.jpg>]) (./tex/iii-activities_vapour-humidity-alt.tex
-<./img/vso/sa-evaporation.jpg, id=3178, 295.85532pt x 341.77687pt>
+<./img/vso/sa-evaporation.jpg, id=3229, 295.85532pt x 341.77687pt>
 File: ./img/vso/sa-evaporation.jpg Graphic file (type jpg)
 
 <use ./img/vso/sa-evaporation.jpg>
 Package pdftex.def Info: ./img/vso/sa-evaporation.jpg used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 209.31277pt.
 
-<./img/rel-humidity.jpg, id=3179, 193.47281pt x 307.90031pt>
+<./img/rel-humidity.jpg, id=3230, 193.47281pt x 307.90031pt>
 File: ./img/rel-humidity.jpg Graphic file (type jpg)
 
 <use ./img/rel-humidity.jpg>
 Package pdftex.def Info: ./img/rel-humidity.jpg used on input line 36.
 (pdftex.def)             Requested size: 113.24197pt x 180.21725pt.
 
-<./img/hygrometer.png, id=3182, 146.79843pt x 184.43906pt>
+<./img/hygrometer.png, id=3233, 146.79843pt x 184.43906pt>
 File: ./img/hygrometer.png Graphic file (type png)
 
 <use ./img/hygrometer.png>
 Package pdftex.def Info: ./img/hygrometer.png used on input line 57.
 (pdftex.def)             Requested size: 181.18439pt x 227.64105pt.
- [91 <./img/vso/sa-evaporation.jpg> <./img/rel-humidity.jpg> <./img/hygrometer.
+ [97 <./img/vso/sa-evaporation.jpg> <./img/rel-humidity.jpg> <./img/hygrometer.
 png>])
 (./tex/iii-activities_current-electricity-alt.tex
-<./img/source/measuring-emf.png, id=3191, 367.3725pt x 639.89063pt>
+<./img/source/measuring-emf.png, id=3241, 367.3725pt x 639.89063pt>
 File: ./img/source/measuring-emf.png Graphic file (type png)
 
 <use ./img/source/measuring-emf.png>
@@ -2840,7 +2868,7 @@ File: ./img/ohms-law.png Graphic file (type png)
 Package pdftex.def Info: ./img/ohms-law.png used on input line 41.
 (pdftex.def)             Requested size: 181.18439pt x 91.93495pt.
 
-<./img/metre-bridge-2.png, id=3192, 429.10312pt x 184.43906pt>
+<./img/metre-bridge-2.png, id=3242, 429.10312pt x 184.43906pt>
 File: ./img/metre-bridge-2.png Graphic file (type png)
 
 <use ./img/metre-bridge-2.png>
@@ -2851,15 +2879,15 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 64--65
  [] 
  []
 
-[92 <./img/source/measuring-emf.png>]
-<./img/potentiometer.jpg, id=3198, 402.00188pt x 162.6075pt>
+[98 <./img/source/measuring-emf.png>]
+<./img/potentiometer.jpg, id=3248, 402.00188pt x 162.6075pt>
 File: ./img/potentiometer.jpg Graphic file (type jpg)
 
 <use ./img/potentiometer.jpg>
 Package pdftex.def Info: ./img/potentiometer.jpg used on input line 84.
 (pdftex.def)             Requested size: 203.83417pt x 82.44984pt.
 
-<./img/metre-bridge-assembly.png, id=3199, 336.50719pt x 280.04625pt>
+<./img/metre-bridge-assembly.png, id=3249, 336.50719pt x 280.04625pt>
 File: ./img/metre-bridge-assembly.png Graphic file (type png)
 
 <use ./img/metre-bridge-assembly.png>
@@ -2871,29 +2899,29 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 104--105
  [] 
  []
 
-<./img/source/heat-current.png, id=3200, 298.11375pt x 247.67531pt>
+<./img/source/heat-current.png, id=3250, 298.11375pt x 247.67531pt>
 File: ./img/source/heat-current.png Graphic file (type png)
 
 <use ./img/source/heat-current.png>
 Package pdftex.def Info: ./img/source/heat-current.png used on input line 131.
 (pdftex.def)             Requested size: 181.18439pt x 150.52994pt.
- [93 <./img/metre-bridge-2.png> <./img/potentiometer.jpg> <./img/metre-bridge-a
+ [99 <./img/metre-bridge-2.png> <./img/potentiometer.jpg> <./img/metre-bridge-a
 ssembly.png>]
-<./img/electric-heater.png, id=3207, 144.54pt x 185.19188pt>
+<./img/electric-heater.png, id=3257, 144.54pt x 185.19188pt>
 File: ./img/electric-heater.png Graphic file (type png)
 
 <use ./img/electric-heater.png>
 Package pdftex.def Info: ./img/electric-heater.png used on input line 171.
 (pdftex.def)             Requested size: 90.5922pt x 116.0696pt.
 
-<./img/source/fuse.png, id=3208, 334.24875pt x 210.7875pt>
+<./img/source/fuse.png, id=3258, 334.24875pt x 210.7875pt>
 File: ./img/source/fuse.png Graphic file (type png)
 
 <use ./img/source/fuse.png>
 Package pdftex.def Info: ./img/source/fuse.png used on input line 190.
 (pdftex.def)             Requested size: 135.89174pt x 85.69975pt.
 
-<./img/source/dry-cell-a.png, id=3209, 348.55219pt x 292.09125pt>
+<./img/source/dry-cell-a.png, id=3259, 348.55219pt x 292.09125pt>
 File: ./img/source/dry-cell-a.png Graphic file (type png)
 
 <use ./img/source/dry-cell-a.png>
@@ -2904,8 +2932,8 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 214--215
  [] 
  []
 
-[94 <./img/source/heat-current.png> <./img/electric-heater.png> <./img/source/f
-use.png>] <./img/lechlanche-cell.png, id=3217, 417.05812pt x 432.11438pt>
+[100 <./img/source/heat-current.png> <./img/electric-heater.png> <./img/source/
+fuse.png>] <./img/lechlanche-cell.png, id=3267, 417.05812pt x 432.11438pt>
 File: ./img/lechlanche-cell.png Graphic file (type png)
 
 <use ./img/lechlanche-cell.png>
@@ -2914,17 +2942,17 @@ Package pdftex.def Info: ./img/lechlanche-cell.png used on input line 236.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [95 <./img/source/dry-cell-a.png> <./img/lechlanche-cell.png>]
+ [101 <./img/source/dry-cell-a.png> <./img/lechlanche-cell.png>]
 Chapter 4.
 (./tex/iv-activities_waves-alt.tex
-<./img/source/string-waves.png, id=3224, 225.09094pt x 203.25937pt>
+<./img/source/string-waves.png, id=3274, 225.09094pt x 203.25937pt>
 File: ./img/source/string-waves.png Graphic file (type png)
 
 <use ./img/source/string-waves.png>
 Package pdftex.def Info: ./img/source/string-waves.png used on input line 12.
 (pdftex.def)             Requested size: 181.18439pt x 163.61879pt.
 
-<./img/vso/flick-sticks.jpg, id=3225, 415.5525pt x 94.10156pt>
+<./img/vso/flick-sticks.jpg, id=3275, 415.5525pt x 94.10156pt>
 File: ./img/vso/flick-sticks.jpg Graphic file (type jpg)
 
 <use ./img/vso/flick-sticks.jpg>
@@ -2935,54 +2963,54 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 31--32
  [] 
  []
 
-<./img/source/water-waves.png, id=3226, 192.72pt x 277.035pt>
+<./img/source/water-waves.png, id=3276, 192.72pt x 277.035pt>
 File: ./img/source/water-waves.png Graphic file (type png)
 
 <use ./img/source/water-waves.png>
 Package pdftex.def Info: ./img/source/water-waves.png used on input line 50.
 (pdftex.def)             Requested size: 113.24197pt x 162.78555pt.
 
-<./img/vso/energy-waves.jpg, id=3227, 440.39531pt x 182.93344pt>
+<./img/vso/energy-waves.jpg, id=3277, 440.39531pt x 182.93344pt>
 File: ./img/vso/energy-waves.jpg Graphic file (type jpg)
 
 <use ./img/vso/energy-waves.jpg>
 Package pdftex.def Info: ./img/vso/energy-waves.jpg used on input line 69.
 (pdftex.def)             Requested size: 203.83417pt x 84.66959pt.
 
-<./img/source/sine-wave.png, id=3228, 490.08093pt x 438.8897pt>
+<./img/source/sine-wave.png, id=3278, 490.08093pt x 438.8897pt>
 File: ./img/source/sine-wave.png Graphic file (type png)
 
 <use ./img/source/sine-wave.png>
 Package pdftex.def Info: ./img/source/sine-wave.png used on input line 95.
 (pdftex.def)             Requested size: 181.18439pt x 162.2527pt.
- [96
+ [102
 
  <./img/source/string-waves.png> <./img/vso/flick-sticks.jpg> <./img/source/wat
 er-waves.png> <./img/vso/energy-waves.jpg>] <./img/vso/student-waves.jpg, id=32
-35, 290.58563pt x 122.70844pt>
+85, 290.58563pt x 122.70844pt>
 File: ./img/vso/student-waves.jpg Graphic file (type jpg)
 
 <use ./img/vso/student-waves.jpg>
 Package pdftex.def Info: ./img/vso/student-waves.jpg used on input line 114.
 (pdftex.def)             Requested size: 181.18439pt x 76.51096pt.
 
-<./img/source/trans-energy.png, id=3236, 267.24844pt x 208.52907pt>
+<./img/source/trans-energy.png, id=3286, 267.24844pt x 208.52907pt>
 File: ./img/source/trans-energy.png Graphic file (type png)
 
 <use ./img/source/trans-energy.png>
 Package pdftex.def Info: ./img/source/trans-energy.png used on input line 133.
 (pdftex.def)             Requested size: 158.54152pt x 123.71199pt.
 
-<./img/source/transverse-pendulum.png, id=3237, 265.74281pt x 286.82156pt>
+<./img/source/transverse-pendulum.png, id=3287, 265.74281pt x 286.82156pt>
 File: ./img/source/transverse-pendulum.png Graphic file (type png)
 
 <use ./img/source/transverse-pendulum.png>
 Package pdftex.def Info: ./img/source/transverse-pendulum.png used on input lin
 e 176.
 (pdftex.def)             Requested size: 181.18439pt x 195.56125pt.
- [97 <./img/source/sine-wave.png> <./img/vso/student-waves.jpg> <./img/source/t
-rans-energy.png>]
-<./img/source/longitudinal-pendulum.png, id=3245, 175.40532pt x 394.47375pt>
+ [103 <./img/source/sine-wave.png> <./img/vso/student-waves.jpg> <./img/source/
+trans-energy.png>]
+<./img/source/longitudinal-pendulum.png, id=3295, 175.40532pt x 394.47375pt>
 File: ./img/source/longitudinal-pendulum.png Graphic file (type png)
 
 <use ./img/source/longitudinal-pendulum.png>
@@ -2990,7 +3018,7 @@ Package pdftex.def Info: ./img/source/longitudinal-pendulum.png used on input l
 ine 195.
 (pdftex.def)             Requested size: 67.94241pt x 152.80281pt.
 
-<./img/source/longitudinal-waves.png, id=3246, 268.75406pt x 160.34906pt>
+<./img/source/longitudinal-waves.png, id=3296, 268.75406pt x 160.34906pt>
 File: ./img/source/longitudinal-waves.png Graphic file (type png)
 
 <use ./img/source/longitudinal-waves.png>
@@ -3007,7 +3035,7 @@ Underfull \hbox (badness 6380) in paragraph at lines 235--235
  |[]\OT1/cmr/bx/n/12 Construction of a Rip-ple
  []
 
-<./img/vso/ripple-tank.jpg, id=3247, 253.69781pt x 220.57407pt>
+<./img/vso/ripple-tank.jpg, id=3297, 253.69781pt x 220.57407pt>
 File: ./img/vso/ripple-tank.jpg Graphic file (type jpg)
 
 <use ./img/vso/ripple-tank.jpg>
@@ -3018,9 +3046,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 239--240
  [] 
  []
 
-[98 <./img/source/transverse-pendulum.png> <./img/source/longitudinal-pendulum.
-png> <./img/source/longitudinal-waves.png> <./img/vso/ripple-tank.jpg>]
-<./img/source/reflection-water-waves.png, id=3256, 289.83281pt x 353.06906pt>
+[104 <./img/source/transverse-pendulum.png> <./img/source/longitudinal-pendulum
+.png> <./img/source/longitudinal-waves.png> <./img/vso/ripple-tank.jpg>]
+<./img/source/reflection-water-waves.png, id=3306, 289.83281pt x 353.06906pt>
 File: ./img/source/reflection-water-waves.png Graphic file (type png)
 
 <use ./img/source/reflection-water-waves.png>
@@ -3028,7 +3056,7 @@ Package pdftex.def Info: ./img/source/reflection-water-waves.png used on input
 line 285.
 (pdftex.def)             Requested size: 181.18439pt x 220.7161pt.
 
-<./img/source/reflection-sound-waves.png, id=3257, 168.63pt x 393.72093pt>
+<./img/source/reflection-sound-waves.png, id=3307, 168.63pt x 393.72093pt>
 File: ./img/source/reflection-sound-waves.png Graphic file (type png)
 
 <use ./img/source/reflection-sound-waves.png>
@@ -3036,16 +3064,16 @@ Package pdftex.def Info: ./img/source/reflection-sound-waves.png used on input
 line 304.
 (pdftex.def)             Requested size: 181.18439pt x 423.0435pt.
 
-<./img/source/reflection-rope-waves-2.png, id=3258, 276.28218pt x 137.01187pt>
+<./img/source/reflection-rope-waves-2.png, id=3308, 276.28218pt x 137.01187pt>
 File: ./img/source/reflection-rope-waves-2.png Graphic file (type png)
 
 <use ./img/source/reflection-rope-waves-2.png>
 Package pdftex.def Info: ./img/source/reflection-rope-waves-2.png used on input
  line 326.
 (pdftex.def)             Requested size: 203.83417pt x 101.08405pt.
- [99 <./img/source/reflection-water-waves.png> <./img/source/reflection-sound-w
-aves.png>]
-<./img/source/reflection-hose-waves.png, id=3266, 252.945pt x 234.8775pt>
+ [105 <./img/source/reflection-water-waves.png> <./img/source/reflection-sound-
+waves.png>]
+<./img/source/reflection-hose-waves.png, id=3316, 252.945pt x 234.8775pt>
 File: ./img/source/reflection-hose-waves.png Graphic file (type png)
 
 <use ./img/source/reflection-hose-waves.png>
@@ -3053,22 +3081,22 @@ Package pdftex.def Info: ./img/source/reflection-hose-waves.png used on input l
 ine 345.
 (pdftex.def)             Requested size: 181.18439pt x 168.24435pt.
 
-<./img/source/sound-ruler.png, id=3267, 268.00125pt x 188.20313pt>
+<./img/source/sound-ruler.png, id=3317, 268.00125pt x 188.20313pt>
 File: ./img/source/sound-ruler.png Graphic file (type png)
 
 <use ./img/source/sound-ruler.png>
 Package pdftex.def Info: ./img/source/sound-ruler.png used on input line 369.
 (pdftex.def)             Requested size: 181.18439pt x 127.2355pt.
 
-<./img/sound-sandwich.jpg, id=3268, 399.74344pt x 244.66406pt>
+<./img/sound-sandwich.jpg, id=3318, 399.74344pt x 244.66406pt>
 File: ./img/sound-sandwich.jpg Graphic file (type jpg)
 
 <use ./img/sound-sandwich.jpg>
 Package pdftex.def Info: ./img/sound-sandwich.jpg used on input line 409.
 (pdftex.def)             Requested size: 181.18439pt x 110.89299pt.
- [100 <./img/source/reflection-rope-waves-2.png> <./img/source/reflection-hose-
+ [106 <./img/source/reflection-rope-waves-2.png> <./img/source/reflection-hose-
 waves.png> <./img/source/sound-ruler.png>]
-<./img/source/sound-vibrations.png, id=3276, 196.48407pt x 150.5625pt>
+<./img/source/sound-vibrations.png, id=3327, 196.48407pt x 150.5625pt>
 File: ./img/source/sound-vibrations.png Graphic file (type png)
 
 <use ./img/source/sound-vibrations.png>
@@ -3076,14 +3104,14 @@ Package pdftex.def Info: ./img/source/sound-vibrations.png used on input line 4
 28.
 (pdftex.def)             Requested size: 181.18439pt x 138.84769pt.
 
-<./img/vso/drum-vibrations.jpg, id=3277, 274.02374pt x 176.15813pt>
+<./img/vso/drum-vibrations.jpg, id=3328, 274.02374pt x 176.15813pt>
 File: ./img/vso/drum-vibrations.jpg Graphic file (type jpg)
 
 <use ./img/vso/drum-vibrations.jpg>
 Package pdftex.def Info: ./img/vso/drum-vibrations.jpg used on input line 449.
 (pdftex.def)             Requested size: 203.83417pt x 131.0377pt.
 
-<./img/source/knocking-water-tank.png, id=3278, 199.49532pt x 270.25969pt>
+<./img/source/knocking-water-tank.png, id=3329, 199.49532pt x 270.25969pt>
 File: ./img/source/knocking-water-tank.png Graphic file (type png)
 
 <use ./img/source/knocking-water-tank.png>
@@ -3095,16 +3123,16 @@ File: ./img/source/wave-motion.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./img/source/wave-motion.jpg used on input line 493.
 (pdftex.def)             Requested size: 181.18439pt x 190.00412pt.
 
-[101 <./img/sound-sandwich.jpg> <./img/source/sound-vibrations.png> <./img/vso/
+[107 <./img/sound-sandwich.jpg> <./img/source/sound-vibrations.png> <./img/vso/
 drum-vibrations.jpg> <./img/source/knocking-water-tank.png>]
-<./img/source/sound-in-air.png, id=3285, 233.37187pt x 297.36093pt>
+<./img/source/sound-in-air.png, id=3336, 233.37187pt x 297.36093pt>
 File: ./img/source/sound-in-air.png Graphic file (type png)
 
 <use ./img/source/sound-in-air.png>
 Package pdftex.def Info: ./img/source/sound-in-air.png used on input line 512.
 (pdftex.def)             Requested size: 158.54152pt x 202.02126pt.
 
-<./img/source/sound-in-string.png, id=3286, 225.09094pt x 259.7203pt>
+<./img/source/sound-in-string.png, id=3337, 225.09094pt x 259.7203pt>
 File: ./img/source/sound-in-string.png Graphic file (type png)
 
 <use ./img/source/sound-in-string.png>
@@ -3112,7 +3140,7 @@ Package pdftex.def Info: ./img/source/sound-in-string.png used on input line 53
 1.
 (pdftex.def)             Requested size: 181.18439pt x 209.06845pt.
 
-<./img/source/sound-in-wood.png, id=3287, 316.93407pt x 224.33812pt>
+<./img/source/sound-in-wood.png, id=3338, 316.93407pt x 224.33812pt>
 File: ./img/source/sound-in-wood.png Graphic file (type png)
 
 <use ./img/source/sound-in-wood.png>
@@ -3120,7 +3148,7 @@ Package pdftex.def Info: ./img/source/sound-in-wood.png used on input line 550.
 
 (pdftex.def)             Requested size: 203.83417pt x 144.28448pt.
 
-<./img/source/sound-in-metal.png, id=3288, 341.02406pt x 211.54031pt>
+<./img/source/sound-in-metal.png, id=3339, 341.02406pt x 211.54031pt>
 File: ./img/source/sound-in-metal.png Graphic file (type png)
 
 <use ./img/source/sound-in-metal.png>
@@ -3132,9 +3160,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 569--570
  [] 
  []
 
-[102 <./img/source/sound-in-air.png> <./img/source/sound-in-string.png> <./img/
+[108 <./img/source/sound-in-air.png> <./img/source/sound-in-string.png> <./img/
 source/sound-in-wood.png>]
-<./img/source/sound-in-water.png, id=3296, 269.50688pt x 198.7425pt>
+<./img/source/sound-in-water.png, id=3347, 269.50688pt x 198.7425pt>
 File: ./img/source/sound-in-water.png Graphic file (type png)
 
 <use ./img/source/sound-in-water.png>
@@ -3142,7 +3170,7 @@ Package pdftex.def Info: ./img/source/sound-in-water.png used on input line 588
 .
 (pdftex.def)             Requested size: 203.83417pt x 150.315pt.
 
-<./img/source/bottle-orchestra.png, id=3297, 258.9675pt x 259.7203pt>
+<./img/source/bottle-orchestra.png, id=3348, 258.9675pt x 259.7203pt>
 File: ./img/source/bottle-orchestra.png Graphic file (type png)
 
 <use ./img/source/bottle-orchestra.png>
@@ -3150,44 +3178,44 @@ Package pdftex.def Info: ./img/source/bottle-orchestra.png used on input line 6
 33.
 (pdftex.def)             Requested size: 203.83417pt x 204.4357pt.
 
-<./img/vso/bamboo-organ.jpg, id=3298, 347.04657pt x 222.07968pt>
+<./img/vso/bamboo-organ.jpg, id=3349, 347.04657pt x 222.07968pt>
 File: ./img/vso/bamboo-organ.jpg Graphic file (type jpg)
 
 <use ./img/vso/bamboo-organ.jpg>
 Package pdftex.def Info: ./img/vso/bamboo-organ.jpg used on input line 654.
 (pdftex.def)             Requested size: 203.83417pt x 130.43964pt.
- [103 <./img/source/sound-in-metal.png> <./img/source/sound-in-water.png> <./im
+ [109 <./img/source/sound-in-metal.png> <./img/source/sound-in-water.png> <./im
 g/source/bottle-orchestra.png>]
-<./img/vso/bamboo-flute.jpg, id=3307, 226.59656pt x 119.69719pt>
+<./img/vso/bamboo-flute.jpg, id=3358, 226.59656pt x 119.69719pt>
 File: ./img/vso/bamboo-flute.jpg Graphic file (type jpg)
 
 <use ./img/vso/bamboo-flute.jpg>
 Package pdftex.def Info: ./img/vso/bamboo-flute.jpg used on input line 673.
 (pdftex.def)             Requested size: 203.83417pt x 107.6735pt.
 
-<./img/source/marimba.png, id=3308, 268.75406pt x 137.01187pt>
+<./img/source/marimba.png, id=3359, 268.75406pt x 137.01187pt>
 File: ./img/source/marimba.png Graphic file (type png)
 
 <use ./img/source/marimba.png>
 Package pdftex.def Info: ./img/source/marimba.png used on input line 694.
 (pdftex.def)             Requested size: 181.18439pt x 92.36821pt.
 
-<./img/source/xylophone.png, id=3309, 295.1025pt x 353.82187pt>
+<./img/source/xylophone.png, id=3360, 295.1025pt x 353.82187pt>
 File: ./img/source/xylophone.png Graphic file (type png)
 
 <use ./img/source/xylophone.png>
 Package pdftex.def Info: ./img/source/xylophone.png used on input line 713.
 (pdftex.def)             Requested size: 181.18439pt x 217.24013pt.
 
-<./img/source/sonometer.png, id=3310, 334.24875pt x 576.65437pt>
+<./img/source/sonometer.png, id=3361, 334.24875pt x 576.65437pt>
 File: ./img/source/sonometer.png Graphic file (type png)
 
 <use ./img/source/sonometer.png>
 Package pdftex.def Info: ./img/source/sonometer.png used on input line 737.
 (pdftex.def)             Requested size: 181.18439pt x 312.59418pt.
- [104 <./img/vso/bamboo-organ.jpg> <./img/vso/bamboo-flute.jpg> <./img/source/m
+ [110 <./img/vso/bamboo-organ.jpg> <./img/vso/bamboo-flute.jpg> <./img/source/m
 arimba.png> <./img/source/xylophone.png>]
-<./img/resonance-tube.png, id=3317, 231.11343pt x 171.64125pt>
+<./img/resonance-tube.png, id=3368, 231.11343pt x 171.64125pt>
 File: ./img/resonance-tube.png Graphic file (type png)
 
 <use ./img/resonance-tube.png>
@@ -3201,9 +3229,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 759--760
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105 <./img/source/sonometer.png> <./img/resonance-tube.png>]
+ [111 <./img/source/sonometer.png> <./img/resonance-tube.png>]
 (./tex/iv-activities_electromagnetism-alt.tex
-<./img/induced-mag-field-coil.png, id=3324, 296.60812pt x 124.96687pt>
+<./img/induced-mag-field-coil.png, id=3375, 296.60812pt x 124.96687pt>
 File: ./img/induced-mag-field-coil.png Graphic file (type png)
 
 <use ./img/induced-mag-field-coil.png>
@@ -3211,7 +3239,7 @@ Package pdftex.def Info: ./img/induced-mag-field-coil.png used on input line 9.
 
 (pdftex.def)             Requested size: 203.83417pt x 85.8821pt.
 
-<./img/induced-mag-field-wire.png, id=3325, 257.46187pt x 153.57375pt>
+<./img/induced-mag-field-wire.png, id=3376, 257.46187pt x 153.57375pt>
 File: ./img/induced-mag-field-wire.png Graphic file (type png)
 
 <use ./img/induced-mag-field-wire.png>
@@ -3219,14 +3247,14 @@ Package pdftex.def Info: ./img/induced-mag-field-wire.png used on input line 28
 .
 (pdftex.def)             Requested size: 203.83417pt x 121.58907pt.
 
-<./img/galvanometer.jpg, id=3326, 333.49594pt x 273.27094pt>
+<./img/galvanometer.jpg, id=3377, 333.49594pt x 273.27094pt>
 File: ./img/galvanometer.jpg Graphic file (type jpg)
 
 <use ./img/galvanometer.jpg>
 Package pdftex.def Info: ./img/galvanometer.jpg used on input line 47.
 (pdftex.def)             Requested size: 181.18439pt x 148.46893pt.
 
-<./img/spinning-compass.jpg, id=3327, 401.24907pt x 215.30438pt>
+<./img/spinning-compass.jpg, id=3378, 401.24907pt x 215.30438pt>
 File: ./img/spinning-compass.jpg Graphic file (type jpg)
 
 <use ./img/spinning-compass.jpg>
@@ -3237,7 +3265,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--92
 []\OT1/cmr/m/n/10 Power source, wire, com-
  []
 
-<./img/source/force-wire.png, id=3328, 430.60875pt x 182.18062pt>
+<./img/source/force-wire.png, id=3379, 430.60875pt x 182.18062pt>
 File: ./img/source/force-wire.png Graphic file (type png)
 
 <use ./img/source/force-wire.png>
@@ -3248,9 +3276,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 104--105
  [] 
  []
 
-[106 <./img/induced-mag-field-coil.png> <./img/induced-mag-field-wire.png> <./i
+[112 <./img/induced-mag-field-coil.png> <./img/induced-mag-field-wire.png> <./i
 mg/galvanometer.jpg> <./img/spinning-compass.jpg>]
-<./img/simple-motor-final.jpg, id=3334, 323.70938pt x 353.82187pt>
+<./img/simple-motor-final.jpg, id=3384, 323.70938pt x 353.82187pt>
 File: ./img/simple-motor-final.jpg Graphic file (type jpg)
 
 <use ./img/simple-motor-final.jpg>
@@ -3261,7 +3289,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 173--174
  [] 
  []
 
-<./img/wind-turbine.png, id=3335, 366.61969pt x 437.38406pt>
+<./img/wind-turbine.png, id=3385, 366.61969pt x 437.38406pt>
 File: ./img/wind-turbine.png Graphic file (type png)
 
 <use ./img/wind-turbine.png>
@@ -3272,8 +3300,8 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 195--196
  [] 
  []
 
-[107 <./img/source/force-wire.png> <./img/simple-motor-final.jpg>]
-<./img/water-turbine.png, id=3341, 280.79906pt x 173.14688pt>
+[113 <./img/source/force-wire.png> <./img/simple-motor-final.jpg>]
+<./img/water-turbine.png, id=3391, 280.79906pt x 173.14688pt>
 File: ./img/water-turbine.png Graphic file (type png)
 
 <use ./img/water-turbine.png>
@@ -3284,7 +3312,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 219--220
  [] 
  []
 
-<./img/inverter-2.jpg, id=3343, 598.48593pt x 281.55188pt>
+<./img/inverter-2.jpg, id=3393, 598.48593pt x 281.55188pt>
 File: ./img/inverter-2.jpg Graphic file (type jpg)
 
 <use ./img/inverter-2.jpg>
@@ -3293,11 +3321,11 @@ Package pdftex.def Info: ./img/inverter-2.jpg used on input line 242.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108 <./img/wind-turbine.png> <./img/water-turbine.png>])
+ [114 <./img/wind-turbine.png> <./img/water-turbine.png>])
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [109 <./img/inverter-2.jpg>] (./tex/iv-activities_electronics-alt.tex
-<./img/diodes.jpg, id=3355, 409.53pt x 325.96782pt>
+ [115 <./img/inverter-2.jpg>] (./tex/iv-activities_electronics-alt.tex
+<./img/diodes.jpg, id=3405, 409.53pt x 325.96782pt>
 File: ./img/diodes.jpg Graphic file (type jpg)
  <use ./img/diodes.jpg>
 Package pdftex.def Info: ./img/diodes.jpg used on input line 13.
@@ -3307,7 +3335,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 13--14
  [] 
  []
 
-<./img/full-wave-rectifier-2.png, id=3356, 146.79843pt x 139.27031pt>
+<./img/full-wave-rectifier-2.png, id=3406, 146.79843pt x 139.27031pt>
 File: ./img/full-wave-rectifier-2.png Graphic file (type png)
 
 <use ./img/full-wave-rectifier-2.png>
@@ -3319,8 +3347,8 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 36--37
  [] 
  []
 
-[110 <./img/diodes.jpg> <./img/full-wave-rectifier-2.png>]
-<./img/half-wave-rectifier-2.png, id=3364, 202.50656pt x 217.5628pt>
+[116 <./img/diodes.jpg> <./img/full-wave-rectifier-2.png>]
+<./img/half-wave-rectifier-2.png, id=3414, 202.50656pt x 217.5628pt>
 File: ./img/half-wave-rectifier-2.png Graphic file (type png)
 
 <use ./img/half-wave-rectifier-2.png>
@@ -3332,9 +3360,9 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 60--61
  [] 
  []
 
-[111 <./img/half-wave-rectifier-2.png>])
+[117 <./img/half-wave-rectifier-2.png>])
 (./tex/iv-activities_elementary-astronomy-alt.tex
-<./img/source/student-solar-system.png, id=3372, 375.65344pt x 306.39468pt>
+<./img/source/student-solar-system.png, id=3422, 375.65344pt x 306.39468pt>
 File: ./img/source/student-solar-system.png Graphic file (type png)
 
 <use ./img/source/student-solar-system.png>
@@ -3342,7 +3370,7 @@ Package pdftex.def Info: ./img/source/student-solar-system.png used on input li
 ne 12.
 (pdftex.def)             Requested size: 181.18439pt x 147.78308pt.
 
-<./img/source/sun-earth-moon.png, id=3374, 353.82187pt x 310.91156pt>
+<./img/source/sun-earth-moon.png, id=3424, 353.82187pt x 310.91156pt>
 File: ./img/source/sun-earth-moon.png Graphic file (type png)
 
 <use ./img/source/sun-earth-moon.png>
@@ -3350,14 +3378,14 @@ Package pdftex.def Info: ./img/source/sun-earth-moon.png used on input line 68.
 
 (pdftex.def)             Requested size: 181.18439pt x 159.21272pt.
 
-<./img/source/centripetal-force.png, id=3375, 289.08pt x 567.62062pt>
+<./img/source/centripetal-force.png, id=3425, 289.08pt x 567.62062pt>
 File: ./img/source/centripetal-force.png Graphic file (type png)
 
 <use ./img/source/centripetal-force.png>
 Package pdftex.def Info: ./img/source/centripetal-force.png used on input line 
 92.
 (pdftex.def)             Requested size: 181.18439pt x 355.75804pt.
- [112 <./img/source/student-solar-system.png> <./img/source/sun-earth-moon.png>
+ [118 <./img/source/student-solar-system.png> <./img/source/sun-earth-moon.png>
 ]
 File: ./img/source/bucket-swing.png Graphic file (type png)
  <use ./img/source/bucket-swing.png>
@@ -3366,20 +3394,14 @@ Package pdftex.def Info: ./img/source/bucket-swing.png used on input line 113.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [113 <./img/source/centripetal-force.png>] (./tex/part-materials-equipment.tex
- [114
+ [119 <./img/source/centripetal-force.png>] (./tex/part-materials-equipment.tex
+ [120
 
 
 
 ])
 (./tex/local-materials-list.tex
 Appendix A.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
-(c:/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--20
 
@@ -3388,10 +3410,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--20
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [115
+ [121
 
 ]
-<./img/vso/using-local-materials.jpg, id=3496, 542.025pt x 122.70844pt>
+<./img/vso/using-local-materials.jpg, id=3546, 542.025pt x 122.70844pt>
 File: ./img/vso/using-local-materials.jpg Graphic file (type jpg)
 
 <use ./img/vso/using-local-materials.jpg>
@@ -3399,7 +3421,7 @@ Package pdftex.def Info: ./img/vso/using-local-materials.jpg used on input line
  95.
 (pdftex.def)             Requested size: 341.43306pt x 77.29922pt.
 
-<./img/vso/multi-purpose-bottle.jpg, id=3497, 405.76593pt x 136.25906pt>
+<./img/vso/multi-purpose-bottle.jpg, id=3547, 405.76593pt x 136.25906pt>
 File: ./img/vso/multi-purpose-bottle.jpg Graphic file (type jpg)
 
 <use ./img/vso/multi-purpose-bottle.jpg>
@@ -3407,14 +3429,14 @@ Package pdftex.def Info: ./img/vso/multi-purpose-bottle.jpg used on input line
 96.
 (pdftex.def)             Requested size: 341.43306pt x 114.6585pt.
 
-<./img/beam-balance-2.png, id=3499, 244.66406pt x 214.55156pt>
+<./img/beam-balance-2.png, id=3549, 244.66406pt x 214.55156pt>
 File: ./img/beam-balance-2.png Graphic file (type png)
 
 <use ./img/beam-balance-2.png>
 Package pdftex.def Info: ./img/beam-balance-2.png used on input line 115.
 (pdftex.def)             Requested size: 181.18439pt x 158.88678pt.
 
-<./img/vso/beakers.jpg, id=3500, 331.99031pt x 94.10156pt>
+<./img/vso/beakers.jpg, id=3550, 331.99031pt x 94.10156pt>
 File: ./img/vso/beakers.jpg Graphic file (type jpg)
 
 <use ./img/vso/beakers.jpg>
@@ -3425,16 +3447,16 @@ Overfull \hbox (6.13809pt too wide) in paragraph at lines 128--129
  [] 
  []
 
-[116 <./img/vso/using-local-materials.jpg> <./img/vso/multi-purpose-bottle.jpg>
+[122 <./img/vso/using-local-materials.jpg> <./img/vso/multi-purpose-bottle.jpg>
  <./img/beam-balance-2.png> <./img/vso/beakers.jpg>]
-<./img/source/volumetric.jpg, id=3508, 338.01282pt x 195.73125pt>
+<./img/source/volumetric.jpg, id=3559, 338.01282pt x 195.73125pt>
 File: ./img/source/volumetric.jpg Graphic file (type jpg)
 
 <use ./img/source/volumetric.jpg>
 Package pdftex.def Info: ./img/source/volumetric.jpg used on input line 194.
 (pdftex.def)             Requested size: 181.18439pt x 104.91975pt.
 
-<./img/source/deflagrating-spoon.jpg, id=3509, 230.36063pt x 280.04625pt>
+<./img/source/deflagrating-spoon.jpg, id=3560, 230.36063pt x 280.04625pt>
 File: ./img/source/deflagrating-spoon.jpg Graphic file (type jpg)
 
 <use ./img/source/deflagrating-spoon.jpg>
@@ -3442,43 +3464,43 @@ Package pdftex.def Info: ./img/source/deflagrating-spoon.jpg used on input line
  214.
 (pdftex.def)             Requested size: 135.89174pt x 165.2002pt.
 
-<./img/vso/tubes.jpg, id=3510, 262.73157pt x 298.11375pt>
+<./img/vso/tubes.jpg, id=3561, 262.73157pt x 298.11375pt>
 File: ./img/vso/tubes.jpg Graphic file (type jpg)
 
 <use ./img/vso/tubes.jpg>
 Package pdftex.def Info: ./img/vso/tubes.jpg used on input line 225.
 (pdftex.def)             Requested size: 203.83417pt x 231.29504pt.
 
-<./img/vso/electrodes.jpg, id=3511, 313.17pt x 157.33781pt>
+<./img/vso/electrodes.jpg, id=3562, 313.17pt x 157.33781pt>
 File: ./img/vso/electrodes.jpg Graphic file (type jpg)
 
 <use ./img/vso/electrodes.jpg>
 Package pdftex.def Info: ./img/vso/electrodes.jpg used on input line 246.
 (pdftex.def)             Requested size: 203.83417pt x 102.41pt.
- [117 <./img/source/volumetric.jpg> <./img/source/deflagrating-spoon.jpg> <./im
+ [123 <./img/source/volumetric.jpg> <./img/source/deflagrating-spoon.jpg> <./im
 g/vso/tubes.jpg> <./img/vso/electrodes.jpg>]
-<./img/source/dry-cell.jpg, id=3516, 252.945pt x 271.0125pt>
+<./img/source/dry-cell.jpg, id=3567, 252.945pt x 271.0125pt>
 File: ./img/source/dry-cell.jpg Graphic file (type jpg)
 
 <use ./img/source/dry-cell.jpg>
 Package pdftex.def Info: ./img/source/dry-cell.jpg used on input line 260.
 (pdftex.def)             Requested size: 181.18439pt x 194.1281pt.
 
-<./img/vso/eureka-can.jpg, id=3517, 210.03468pt x 156.585pt>
+<./img/vso/eureka-can.jpg, id=3568, 210.03468pt x 156.585pt>
 File: ./img/vso/eureka-can.jpg Graphic file (type jpg)
 
 <use ./img/vso/eureka-can.jpg>
 Package pdftex.def Info: ./img/vso/eureka-can.jpg used on input line 318.
 (pdftex.def)             Requested size: 142.26378pt x 106.06064pt.
 
-<./img/source/filter-paper.jpg, id=3518, 219.82124pt x 239.39438pt>
+<./img/source/filter-paper.jpg, id=3569, 219.82124pt x 239.39438pt>
 File: ./img/source/filter-paper.jpg Graphic file (type jpg)
 
 <use ./img/source/filter-paper.jpg>
 Package pdftex.def Info: ./img/source/filter-paper.jpg used on input line 327.
 (pdftex.def)             Requested size: 181.18439pt x 197.32379pt.
 
-<./img/vso/funnels.jpg, id=3519, 274.02374pt x 216.05719pt>
+<./img/vso/funnels.jpg, id=3570, 274.02374pt x 216.05719pt>
 File: ./img/vso/funnels.jpg Graphic file (type jpg)
 
 <use ./img/vso/funnels.jpg>
@@ -3489,22 +3511,22 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 347--348
  [] 
  []
 
-[118 <./img/source/dry-cell.jpg> <./img/vso/eureka-can.jpg> <./img/source/filte
-r-paper.jpg>] <./img/source/goggles.jpg, id=3524, 254.45062pt x 453.94594pt>
+[124 <./img/source/dry-cell.jpg> <./img/vso/eureka-can.jpg> <./img/source/filte
+r-paper.jpg>] <./img/source/goggles.jpg, id=3575, 254.45062pt x 453.94594pt>
 File: ./img/source/goggles.jpg Graphic file (type jpg)
 
 <use ./img/source/goggles.jpg>
 Package pdftex.def Info: ./img/source/goggles.jpg used on input line 380.
 (pdftex.def)             Requested size: 181.18439pt x 323.25282pt.
 
-<./img/source/heat-sources.jpg, id=3525, 411.78844pt x 236.38312pt>
+<./img/source/heat-sources.jpg, id=3576, 411.78844pt x 236.38312pt>
 File: ./img/source/heat-sources.jpg Graphic file (type jpg)
 
 <use ./img/source/heat-sources.jpg>
 Package pdftex.def Info: ./img/source/heat-sources.jpg used on input line 392.
 (pdftex.def)             Requested size: 221.95676pt x 127.41052pt.
 
-<./img/source/heat-sources-2.jpg, id=3526, 287.57437pt x 350.81062pt>
+<./img/source/heat-sources-2.jpg, id=3577, 287.57437pt x 350.81062pt>
 File: ./img/source/heat-sources-2.jpg Graphic file (type jpg)
 
 <use ./img/source/heat-sources-2.jpg>
@@ -3521,20 +3543,20 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 392--394
  [] 
  []
 
-[119 <./img/vso/funnels.jpg> <./img/source/goggles.jpg>]
+[125 <./img/vso/funnels.jpg> <./img/source/goggles.jpg>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-<./img/vso/meas-cyl.jpg, id=3534, 114.4275pt x 122.70844pt>
+<./img/vso/meas-cyl.jpg, id=3584, 114.4275pt x 122.70844pt>
 File: ./img/vso/meas-cyl.jpg Graphic file (type jpg)
 
 <use ./img/vso/meas-cyl.jpg>
 Package pdftex.def Info: ./img/vso/meas-cyl.jpg used on input line 452.
 (pdftex.def)             Requested size: 90.5922pt x 97.15204pt.
- [120 <./img/source/heat-sources.jpg> <./img/source/heat-sources-2.jpg> <./img/
+ [126 <./img/source/heat-sources.jpg> <./img/source/heat-sources-2.jpg> <./img/
 vso/meas-cyl.jpg>]
-<./img/source/spoon.jpg, id=3541, 191.9672pt x 92.59593pt>
+<./img/source/spoon.jpg, id=3591, 191.9672pt x 92.59593pt>
 File: ./img/source/spoon.jpg Graphic file (type jpg)
 
 <use ./img/source/spoon.jpg>
@@ -3554,7 +3576,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 547--548
 
  []
 
-[121 <./img/source/spoon.jpg>]
+[127 <./img/source/spoon.jpg>]
 File: ./img/source/scale-pans.png Graphic file (type png)
  <use ./img/source/scale-pans.png>
 Package pdftex.def Info: ./img/source/scale-pans.png used on input line 569.
@@ -3564,7 +3586,7 @@ Overfull \hbox (6.13809pt too wide) in paragraph at lines 569--570
  [] 
  []
 
-<./img/source/slide-cover-slip.jpg, id=3549, 258.21469pt x 188.20313pt>
+<./img/source/slide-cover-slip.jpg, id=3599, 258.21469pt x 188.20313pt>
 File: ./img/source/slide-cover-slip.jpg Graphic file (type jpg)
 
 <use ./img/source/slide-cover-slip.jpg>
@@ -3577,21 +3599,21 @@ Package pdftex.def Info: ./img/source/spring-balance.png used on input line 618
 .
 (pdftex.def)             Requested size: 181.18439pt x 265.48212pt.
 
-<./img/source/stoppers.jpg, id=3550, 169.38281pt x 148.30406pt>
+<./img/source/stoppers.jpg, id=3600, 169.38281pt x 148.30406pt>
 File: ./img/source/stoppers.jpg Graphic file (type jpg)
 
 <use ./img/source/stoppers.jpg>
 Package pdftex.def Info: ./img/source/stoppers.jpg used on input line 637.
 (pdftex.def)             Requested size: 135.89174pt x 118.98509pt.
- [122 <./img/source/slide-cover-slip.jpg>]
-<./img/source/syringe.jpg, id=3555, 60.225pt x 190.46156pt>
+ [128 <./img/source/slide-cover-slip.jpg>]
+<./img/source/syringe.jpg, id=3605, 60.225pt x 190.46156pt>
 File: ./img/source/syringe.jpg Graphic file (type jpg)
 
 <use ./img/source/syringe.jpg>
 Package pdftex.def Info: ./img/source/syringe.jpg used on input line 655.
 (pdftex.def)             Requested size: 45.29955pt x 143.2643pt.
 
-<./img/vso/test-tube-brush.jpg, id=3558, 238.64156pt x 97.86563pt>
+<./img/vso/test-tube-brush.jpg, id=3608, 238.64156pt x 97.86563pt>
 File: ./img/vso/test-tube-brush.jpg Graphic file (type jpg)
 
 <use ./img/vso/test-tube-brush.jpg>
@@ -3602,7 +3624,7 @@ Underfull \hbox (badness 7397) in paragraph at lines 671--671
  |[]\OT1/cmr/bx/n/14.4 Test Tube Holder /
  []
 
-<./img/vso/test-tube-holder.jpg, id=3559, 194.22563pt x 117.43875pt>
+<./img/vso/test-tube-holder.jpg, id=3609, 194.22563pt x 117.43875pt>
 File: ./img/vso/test-tube-holder.jpg Graphic file (type jpg)
 
 <use ./img/vso/test-tube-holder.jpg>
@@ -3610,69 +3632,69 @@ Package pdftex.def Info: ./img/vso/test-tube-holder.jpg used on input line 678.
 
 (pdftex.def)             Requested size: 203.83417pt x 123.25159pt.
 
-<./img/vso/test-tube-rack.jpg, id=3560, 314.67563pt x 204.765pt>
+<./img/vso/test-tube-rack.jpg, id=3610, 314.67563pt x 204.765pt>
 File: ./img/vso/test-tube-rack.jpg Graphic file (type jpg)
 
 <use ./img/vso/test-tube-rack.jpg>
 Package pdftex.def Info: ./img/vso/test-tube-rack.jpg used on input line 688.
 (pdftex.def)             Requested size: 203.83417pt x 132.63948pt.
- [123 <./img/source/stoppers.jpg> <./img/source/syringe.jpg> <./img/vso/test-tu
+ [129 <./img/source/stoppers.jpg> <./img/source/syringe.jpg> <./img/vso/test-tu
 be-brush.jpg> <./img/vso/test-tube-holder.jpg> <./img/vso/test-tube-rack.jpg>]
-<./img/vso/tripod-stand.jpg, id=3565, 213.79875pt x 238.64156pt>
+<./img/vso/tripod-stand.jpg, id=3615, 213.79875pt x 238.64156pt>
 File: ./img/vso/tripod-stand.jpg Graphic file (type jpg)
 
 <use ./img/vso/tripod-stand.jpg>
 Package pdftex.def Info: ./img/vso/tripod-stand.jpg used on input line 698.
 (pdftex.def)             Requested size: 142.26378pt x 158.79295pt.
 
-<./img/source/trough.jpg, id=3569, 237.88875pt x 263.48438pt>
+<./img/source/trough.jpg, id=3619, 237.88875pt x 263.48438pt>
 File: ./img/source/trough.jpg Graphic file (type jpg)
 
 <use ./img/source/trough.jpg>
 Package pdftex.def Info: ./img/source/trough.jpg used on input line 719.
 (pdftex.def)             Requested size: 181.18439pt x 200.68842pt.
 
-<./img/source/wire.jpg, id=3570, 274.02374pt x 62.48344pt>
+<./img/source/wire.jpg, id=3620, 274.02374pt x 62.48344pt>
 File: ./img/source/wire.jpg Graphic file (type jpg)
 
 <use ./img/source/wire.jpg>
 Package pdftex.def Info: ./img/source/wire.jpg used on input line 761.
 (pdftex.def)             Requested size: 181.18439pt x 41.3145pt.
- [124 <./img/vso/tripod-stand.jpg> <./img/source/trough.jpg>] <./img/source/wir
-e-gauze.jpg, id=3576, 277.78781pt x 137.01187pt>
+ [130 <./img/vso/tripod-stand.jpg> <./img/source/trough.jpg>] <./img/source/wir
+e-gauze.jpg, id=3627, 277.78781pt x 137.01187pt>
 File: ./img/source/wire-gauze.jpg Graphic file (type jpg)
 
 <use ./img/source/wire-gauze.jpg>
 Package pdftex.def Info: ./img/source/wire-gauze.jpg used on input line 781.
 (pdftex.def)             Requested size: 181.18439pt x 89.36607pt.
-) (./tex/low-power-microscopy.tex [125 <./img/source/wire.jpg> <./img/source/wi
+) (./tex/low-power-microscopy.tex [131 <./img/source/wire.jpg> <./img/source/wi
 re-gauze.jpg>]
 Appendix B.
-<./img/vso/water-drop-2.jpg, id=3583, 187.45032pt x 252.945pt>
+<./img/vso/water-drop-2.jpg, id=3633, 187.45032pt x 252.945pt>
 File: ./img/vso/water-drop-2.jpg Graphic file (type jpg)
 
 <use ./img/vso/water-drop-2.jpg>
 Package pdftex.def Info: ./img/vso/water-drop-2.jpg used on input line 17.
 (pdftex.def)             Requested size: 181.18439pt x 244.50337pt.
 
-<./img/vso/slide-cover-slip.jpg, id=3584, 181.42781pt x 121.95563pt>
+<./img/vso/slide-cover-slip.jpg, id=3634, 181.42781pt x 121.95563pt>
 File: ./img/vso/slide-cover-slip.jpg Graphic file (type jpg)
 
 <use ./img/vso/slide-cover-slip.jpg>
 Package pdftex.def Info: ./img/vso/slide-cover-slip.jpg used on input line 26.
 (pdftex.def)             Requested size: 203.83417pt x 137.02107pt.
 
-<./img/vso/container-microscope-2.jpg, id=3585, 280.04625pt x 301.8778pt>
+<./img/vso/container-microscope-2.jpg, id=3635, 280.04625pt x 301.8778pt>
 File: ./img/vso/container-microscope-2.jpg Graphic file (type jpg)
 
 <use ./img/vso/container-microscope-2.jpg>
 Package pdftex.def Info: ./img/vso/container-microscope-2.jpg used on input lin
 e 43.
 (pdftex.def)             Requested size: 181.18439pt x 195.31541pt.
- [126
+ [132
 
  <./img/vso/water-drop-2.jpg> <./img/vso/slide-cover-slip.jpg>]
-<./img/source/simple-microscope-2.png, id=3590, 231.86626pt x 199.49532pt>
+<./img/source/simple-microscope-2.png, id=3640, 231.86626pt x 199.49532pt>
 File: ./img/source/simple-microscope-2.png Graphic file (type png)
 
 <use ./img/source/simple-microscope-2.png>
@@ -3684,7 +3706,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 51--52
  [] 
  []
 
-<./img/vso/compound-microscope.jpg, id=3591, 269.50688pt x 265.74281pt>
+<./img/vso/compound-microscope.jpg, id=3641, 269.50688pt x 265.74281pt>
 File: ./img/vso/compound-microscope.jpg Graphic file (type jpg)
 
 <use ./img/vso/compound-microscope.jpg>
@@ -3692,17 +3714,17 @@ Package pdftex.def Info: ./img/vso/compound-microscope.jpg used on input line 7
 5.
 (pdftex.def)             Requested size: 181.18439pt x 178.65498pt.
 
-<./img/vso/card-microscope.jpg, id=3592, 268.00125pt x 280.79906pt>
+<./img/vso/card-microscope.jpg, id=3642, 268.00125pt x 280.79906pt>
 File: ./img/vso/card-microscope.jpg Graphic file (type jpg)
 
 <use ./img/vso/card-microscope.jpg>
 Package pdftex.def Info: ./img/vso/card-microscope.jpg used on input line 87.
 (pdftex.def)             Requested size: 181.18439pt x 189.83539pt.
- [127 <./img/vso/container-microscope-2.jpg> <./img/source/simple-microscope-2.
+ [133 <./img/vso/container-microscope-2.jpg> <./img/source/simple-microscope-2.
 png> <./img/vso/compound-microscope.jpg> <./img/vso/card-microscope.jpg>]) (./t
 ex/storage-materials.tex
 Appendix C.
-<./img/source/science-box-alt.jpg, id=3599, 283.81032pt x 438.8897pt>
+<./img/source/science-box-alt.jpg, id=3649, 283.81032pt x 438.8897pt>
 File: ./img/source/science-box-alt.jpg Graphic file (type jpg)
 
 <use ./img/source/science-box-alt.jpg>
@@ -3710,7 +3732,7 @@ Package pdftex.def Info: ./img/source/science-box-alt.jpg used on input line 8.
 
 (pdftex.def)             Requested size: 149.48022pt x 231.1639pt.
 
-<./img/vso/card-boxes.jpg, id=3600, 364.36125pt x 222.07968pt>
+<./img/vso/card-boxes.jpg, id=3650, 364.36125pt x 222.07968pt>
 File: ./img/vso/card-boxes.jpg Graphic file (type jpg)
 
 <use ./img/vso/card-boxes.jpg>
@@ -3721,21 +3743,21 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 22--23
  [] 
  []
 
-<./img/vso/matchbox-drawer.jpg, id=3601, 192.72pt x 136.25906pt>
+<./img/vso/matchbox-drawer.jpg, id=3651, 192.72pt x 136.25906pt>
 File: ./img/vso/matchbox-drawer.jpg Graphic file (type jpg)
 
 <use ./img/vso/matchbox-drawer.jpg>
 Package pdftex.def Info: ./img/vso/matchbox-drawer.jpg used on input line 39.
 (pdftex.def)             Requested size: 135.89174pt x 96.07927pt.
 
-<./img/vso/dividing-boxes.jpg, id=3602, 335.00156pt x 136.25906pt>
+<./img/vso/dividing-boxes.jpg, id=3652, 335.00156pt x 136.25906pt>
 File: ./img/vso/dividing-boxes.jpg Graphic file (type jpg)
 
 <use ./img/vso/dividing-boxes.jpg>
 Package pdftex.def Info: ./img/vso/dividing-boxes.jpg used on input line 54.
 (pdftex.def)             Requested size: 203.83417pt x 82.9079pt.
 
-<./img/vso/envelopes-bags.jpg, id=3603, 411.78844pt x 130.98938pt>
+<./img/vso/envelopes-bags.jpg, id=3653, 411.78844pt x 130.98938pt>
 File: ./img/vso/envelopes-bags.jpg Graphic file (type jpg)
 
 <use ./img/vso/envelopes-bags.jpg>
@@ -3746,19 +3768,19 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 71--72
  [] 
  []
 
-) (./tex/modeling-materials.tex [128
+) (./tex/modeling-materials.tex [134
 
  <./img/source/science-box-alt.jpg> <./img/vso/card-boxes.jpg> <./img/vso/match
 box-drawer.jpg> <./img/vso/dividing-boxes.jpg> <./img/vso/envelopes-bags.jpg>]
 Appendix D.
-<./img/vso/papier-mache.jpg, id=3608, 200.24812pt x 202.50656pt>
+<./img/vso/papier-mache.jpg, id=3658, 200.24812pt x 202.50656pt>
 File: ./img/vso/papier-mache.jpg Graphic file (type jpg)
 
 <use ./img/vso/papier-mache.jpg>
 Package pdftex.def Info: ./img/vso/papier-mache.jpg used on input line 9.
 (pdftex.def)             Requested size: 181.18439pt x 183.2399pt.
 
-<./img/vso/papier-mache-layering.jpg, id=3609, 332.74312pt x 204.765pt>
+<./img/vso/papier-mache-layering.jpg, id=3659, 332.74312pt x 204.765pt>
 File: ./img/vso/papier-mache-layering.jpg Graphic file (type jpg)
 
 <use ./img/vso/papier-mache-layering.jpg>
@@ -3766,53 +3788,53 @@ Package pdftex.def Info: ./img/vso/papier-mache-layering.jpg used on input line
  28.
 (pdftex.def)             Requested size: 203.83417pt x 125.4376pt.
 
-<./img/vso/modeling-clay.jpg, id=3610, 222.8325pt x 205.5178pt>
+<./img/vso/modeling-clay.jpg, id=3660, 222.8325pt x 205.5178pt>
 File: ./img/vso/modeling-clay.jpg Graphic file (type jpg)
 
 <use ./img/vso/modeling-clay.jpg>
 Package pdftex.def Info: ./img/vso/modeling-clay.jpg used on input line 46.
 (pdftex.def)             Requested size: 181.18439pt x 167.10825pt.
 
-<./img/vso/cement.jpg, id=3611, 318.43968pt x 184.43906pt>
+<./img/vso/cement.jpg, id=3661, 318.43968pt x 184.43906pt>
 File: ./img/vso/cement.jpg Graphic file (type jpg)
 
 <use ./img/vso/cement.jpg>
 Package pdftex.def Info: ./img/vso/cement.jpg used on input line 67.
 (pdftex.def)             Requested size: 181.18439pt x 104.93997pt.
 
-<./img/vso/dough.jpg, id=3612, 219.82124pt x 276.28218pt>
+<./img/vso/dough.jpg, id=3662, 219.82124pt x 276.28218pt>
 File: ./img/vso/dough.jpg Graphic file (type jpg)
 
 <use ./img/vso/dough.jpg>
 Package pdftex.def Info: ./img/vso/dough.jpg used on input line 82.
 (pdftex.def)             Requested size: 181.18439pt x 227.72903pt.
- [129
+ [135
 
  <./img/vso/papier-mache.jpg> <./img/vso/papier-mache-layering.jpg> <./img/vso/
 modeling-clay.jpg> <./img/vso/cement.jpg>]
-<./img/vso/casein-glue.jpg, id=3618, 290.58563pt x 492.33937pt>
+<./img/vso/casein-glue.jpg, id=3667, 290.58563pt x 492.33937pt>
 File: ./img/vso/casein-glue.jpg Graphic file (type jpg)
 
 <use ./img/vso/casein-glue.jpg>
 Package pdftex.def Info: ./img/vso/casein-glue.jpg used on input line 103.
 (pdftex.def)             Requested size: 181.18439pt x 306.98262pt.
-) (./tex/part-interactive-learning.tex [130 <./img/vso/dough.jpg> <./img/vso/ca
-sein-glue.jpg>] [131
+) (./tex/part-interactive-learning.tex [136 <./img/vso/dough.jpg> <./img/vso/ca
+sein-glue.jpg>] [137
 
 
 ])
 (./tex/visual-aids-displays.tex
 Appendix E.
-<./img/vso/science-corner.jpg, id=3628, 457.71pt x 385.44pt>
+<./img/vso/science-corner.jpg, id=3677, 457.71pt x 385.44pt>
 File: ./img/vso/science-corner.jpg Graphic file (type jpg)
 
 <use ./img/vso/science-corner.jpg>
 Package pdftex.def Info: ./img/vso/science-corner.jpg used on input line 8.
 (pdftex.def)             Requested size: 448.4407pt x 377.64629pt.
- [132
+ [138
 
  <./img/vso/science-corner.jpg>]
-<./img/vso/cardboard-box-2.jpg, id=3633, 430.60875pt x 427.5975pt>
+<./img/vso/cardboard-box-2.jpg, id=3682, 430.60875pt x 427.5975pt>
 File: ./img/vso/cardboard-box-2.jpg Graphic file (type jpg)
 
 <use ./img/vso/cardboard-box-2.jpg>
@@ -3823,7 +3845,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 29--30
  [] 
  []
 
-<./img/vso/zigzag.jpg, id=3634, 243.91125pt x 304.88907pt>
+<./img/vso/zigzag.jpg, id=3683, 243.91125pt x 304.88907pt>
 File: ./img/vso/zigzag.jpg Graphic file (type jpg)
 
 <use ./img/vso/zigzag.jpg>
@@ -3834,7 +3856,7 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 44--45
  [] 
  []
 
-<./img/vso/zigzag-portability.jpg, id=3635, 272.51813pt x 285.31593pt>
+<./img/vso/zigzag-portability.jpg, id=3684, 272.51813pt x 285.31593pt>
 File: ./img/vso/zigzag-portability.jpg Graphic file (type jpg)
 
 <use ./img/vso/zigzag-portability.jpg>
@@ -3842,7 +3864,7 @@ Package pdftex.def Info: ./img/vso/zigzag-portability.jpg used on input line 57
 .
 (pdftex.def)             Requested size: 181.18439pt x 189.69353pt.
 
-<./img/vso/display-beams-hooks.jpg, id=3636, 270.25969pt x 328.97906pt>
+<./img/vso/display-beams-hooks.jpg, id=3685, 270.25969pt x 328.97906pt>
 File: ./img/vso/display-beams-hooks.jpg Graphic file (type jpg)
 
 <use ./img/vso/display-beams-hooks.jpg>
@@ -3854,16 +3876,16 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 89--90
  [] 
  []
 
-<./img/vso/display-charts-alt.jpg, id=3637, 194.97844pt x 469.755pt>
+<./img/vso/display-charts-alt.jpg, id=3686, 194.97844pt x 469.755pt>
 File: ./img/vso/display-charts-alt.jpg Graphic file (type jpg)
 
 <use ./img/vso/display-charts-alt.jpg>
 Package pdftex.def Info: ./img/vso/display-charts-alt.jpg used on input line 10
 1.
 (pdftex.def)             Requested size: 181.18439pt x 436.53792pt.
- [133 <./img/vso/cardboard-box-2.jpg> <./img/vso/zigzag.jpg> <./img/vso/zigzag-
+ [139 <./img/vso/cardboard-box-2.jpg> <./img/vso/zigzag.jpg> <./img/vso/zigzag-
 portability.jpg> <./img/vso/display-beams-hooks.jpg>] <./img/vso/string-display
-.jpg, id=3643, 258.9675pt x 657.95813pt>
+.jpg, id=3692, 258.9675pt x 657.95813pt>
 File: ./img/vso/string-display.jpg Graphic file (type jpg)
 
 <use ./img/vso/string-display.jpg>
@@ -3874,14 +3896,14 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 133--134
  [] 
  []
 
-<./img/vso/carrier-bag.jpg, id=3644, 243.91125pt x 234.1247pt>
+<./img/vso/carrier-bag.jpg, id=3693, 243.91125pt x 234.1247pt>
 File: ./img/vso/carrier-bag.jpg Graphic file (type jpg)
 
 <use ./img/vso/carrier-bag.jpg>
 Package pdftex.def Info: ./img/vso/carrier-bag.jpg used on input line 150.
 (pdftex.def)             Requested size: 181.18439pt x 173.9176pt.
- [134 <./img/vso/display-charts-alt.jpg> <./img/vso/string-display.jpg>]
-<./img/vso/transparent-display.jpg, id=3649, 328.22626pt x 422.32782pt>
+ [140 <./img/vso/display-charts-alt.jpg> <./img/vso/string-display.jpg>]
+<./img/vso/transparent-display.jpg, id=3698, 328.22626pt x 422.32782pt>
 File: ./img/vso/transparent-display.jpg Graphic file (type jpg)
 
 <use ./img/vso/transparent-display.jpg>
@@ -3893,31 +3915,31 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 180--182
  [] 
  []
 
-<./img/vso/clothing-poster.jpg, id=3650, 257.46187pt x 214.55156pt>
+<./img/vso/clothing-poster.jpg, id=3699, 257.46187pt x 214.55156pt>
 File: ./img/vso/clothing-poster.jpg Graphic file (type jpg)
 
 <use ./img/vso/clothing-poster.jpg>
 Package pdftex.def Info: ./img/vso/clothing-poster.jpg used on input line 199.
 (pdftex.def)             Requested size: 203.83417pt x 169.86708pt.
 
-<./img/vso/magnet-board.jpg, id=3651, 182.93344pt x 127.97812pt>
+<./img/vso/magnet-board.jpg, id=3700, 182.93344pt x 127.97812pt>
 File: ./img/vso/magnet-board.jpg Graphic file (type jpg)
 
 <use ./img/vso/magnet-board.jpg>
 Package pdftex.def Info: ./img/vso/magnet-board.jpg used on input line 216.
 (pdftex.def)             Requested size: 181.18439pt x 126.7612pt.
- [135 <./img/vso/carrier-bag.jpg> <./img/vso/transparent-display.jpg> <./img/vs
+ [141 <./img/vso/carrier-bag.jpg> <./img/vso/transparent-display.jpg> <./img/vs
 o/clothing-poster.jpg> <./img/vso/magnet-board.jpg>]) (./tex/science-outside-cl
 assroom.tex
 Appendix F.
-<./img/source/science-clubs.jpg, id=3656, 258.21469pt x 477.28313pt>
+<./img/source/science-clubs.jpg, id=3705, 258.21469pt x 477.28313pt>
 File: ./img/source/science-clubs.jpg Graphic file (type jpg)
 
 <use ./img/source/science-clubs.jpg>
 Package pdftex.def Info: ./img/source/science-clubs.jpg used on input line 8.
 (pdftex.def)             Requested size: 203.83417pt x 376.78008pt.
 
-<./img/source/organizing-club.jpg, id=3657, 185.19188pt x 294.34969pt>
+<./img/source/organizing-club.jpg, id=3706, 185.19188pt x 294.34969pt>
 File: ./img/source/organizing-club.jpg Graphic file (type jpg)
 
 <use ./img/source/organizing-club.jpg>
@@ -3925,17 +3947,17 @@ Package pdftex.def Info: ./img/source/organizing-club.jpg used on input line 33
 .
 (pdftex.def)             Requested size: 113.24197pt x 179.9932pt.
 
-<./img/source/record-book-alt.jpg, id=3658, 254.45062pt x 206.27063pt>
+<./img/source/record-book-alt.jpg, id=3707, 254.45062pt x 206.27063pt>
 File: ./img/source/record-book-alt.jpg Graphic file (type jpg)
 
 <use ./img/source/record-book-alt.jpg>
 Package pdftex.def Info: ./img/source/record-book-alt.jpg used on input line 77
 .
 (pdftex.def)             Requested size: 203.83417pt x 165.24333pt.
- [136
+ [142
 
  <./img/source/science-clubs.jpg> <./img/source/organizing-club.jpg>]
-<./img/source/notice-board.jpg, id=3663, 279.29344pt x 202.50656pt>
+<./img/source/notice-board.jpg, id=3712, 279.29344pt x 202.50656pt>
 File: ./img/source/notice-board.jpg Graphic file (type jpg)
 
 <use ./img/source/notice-board.jpg>
@@ -3946,30 +3968,30 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 93--94
  [] 
  []
 
-<./img/source/science-news.jpg, id=3664, 249.18094pt x 243.15843pt>
+<./img/source/science-news.jpg, id=3713, 249.18094pt x 243.15843pt>
 File: ./img/source/science-news.jpg Graphic file (type jpg)
 
 <use ./img/source/science-news.jpg>
 Package pdftex.def Info: ./img/source/science-news.jpg used on input line 107.
 (pdftex.def)             Requested size: 203.83417pt x 198.91257pt.
 
-<./img/source/science-kits.jpg, id=3665, 235.63031pt x 237.13594pt>
+<./img/source/science-kits.jpg, id=3714, 235.63031pt x 237.13594pt>
 File: ./img/source/science-kits.jpg Graphic file (type jpg)
 
 <use ./img/source/science-kits.jpg>
 Package pdftex.def Info: ./img/source/science-kits.jpg used on input line 122.
 (pdftex.def)             Requested size: 203.83417pt x 205.13785pt.
 
-<./img/source/collections-research.jpg, id=3666, 249.18094pt x 234.8775pt>
+<./img/source/collections-research.jpg, id=3715, 249.18094pt x 234.8775pt>
 File: ./img/source/collections-research.jpg Graphic file (type jpg)
 
 <use ./img/source/collections-research.jpg>
 Package pdftex.def Info: ./img/source/collections-research.jpg used on input li
 ne 135.
 (pdftex.def)             Requested size: 203.83417pt x 192.13846pt.
- [137 <./img/source/record-book-alt.jpg> <./img/source/notice-board.jpg> <./img
+ [143 <./img/source/record-book-alt.jpg> <./img/source/notice-board.jpg> <./img
 /source/science-news.jpg> <./img/source/science-kits.jpg>]
-<./img/source/extra-practicals.jpg, id=3671, 252.19218pt x 304.13625pt>
+<./img/source/extra-practicals.jpg, id=3720, 252.19218pt x 304.13625pt>
 File: ./img/source/extra-practicals.jpg Graphic file (type jpg)
 
 <use ./img/source/extra-practicals.jpg>
@@ -3977,7 +3999,7 @@ Package pdftex.def Info: ./img/source/extra-practicals.jpg used on input line 1
 49.
 (pdftex.def)             Requested size: 203.83417pt x 245.81996pt.
 
-<./img/source/science-fairs.jpg, id=3672, 227.34938pt x 444.91219pt>
+<./img/source/science-fairs.jpg, id=3721, 227.34938pt x 444.91219pt>
 File: ./img/source/science-fairs.jpg Graphic file (type jpg)
 
 <use ./img/source/science-fairs.jpg>
@@ -3993,7 +4015,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 179.
 
-<./img/source/science-camps.jpg, id=3673, 267.24844pt x 474.27188pt>
+<./img/source/science-camps.jpg, id=3722, 267.24844pt x 474.27188pt>
 File: ./img/source/science-camps.jpg Graphic file (type jpg)
 
 <use ./img/source/science-camps.jpg>
@@ -4005,9 +4027,9 @@ Overfull \hbox (0.47281pt too wide) in paragraph at lines 182--183
  [] 
  []
 
-[138 <./img/source/collections-research.jpg> <./img/source/extra-practicals.jpg
+[144 <./img/source/collections-research.jpg> <./img/source/extra-practicals.jpg
 > <./img/source/science-fairs.jpg>]
-<./img/source/field-trips.jpg, id=3678, 210.03468pt x 511.9125pt>
+<./img/source/field-trips.jpg, id=3727, 210.03468pt x 511.9125pt>
 File: ./img/source/field-trips.jpg Graphic file (type jpg)
 
 <use ./img/source/field-trips.jpg>
@@ -4020,10 +4042,10 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[139 <./img/source/science-camps.jpg> <./img/source/field-trips.jpg>])
+[145 <./img/source/science-camps.jpg> <./img/source/field-trips.jpg>])
 (./tex/science-community.tex
 Appendix G.
-<./img/source/science-for-all.jpg, id=3684, 182.18062pt x 308.65312pt>
+<./img/source/science-for-all.jpg, id=3734, 182.18062pt x 308.65312pt>
 File: ./img/source/science-for-all.jpg Graphic file (type jpg)
 
 <use ./img/source/science-for-all.jpg>
@@ -4031,7 +4053,7 @@ Package pdftex.def Info: ./img/source/science-for-all.jpg used on input line 9.
 
 (pdftex.def)             Requested size: 203.83417pt x 345.35004pt.
 
-<./img/source/target-groups.jpg, id=3685, 285.31593pt x 380.17032pt>
+<./img/source/target-groups.jpg, id=3735, 285.31593pt x 380.17032pt>
 File: ./img/source/target-groups.jpg Graphic file (type jpg)
 
 <use ./img/source/target-groups.jpg>
@@ -4047,24 +4069,24 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 67.
 
 
-<./img/source/environmental-awareness.jpg, id=3686, 237.88875pt x 416.30531pt>
+<./img/source/environmental-awareness.jpg, id=3736, 237.88875pt x 416.30531pt>
 File: ./img/source/environmental-awareness.jpg Graphic file (type jpg)
 
 <use ./img/source/environmental-awareness.jpg>
 Package pdftex.def Info: ./img/source/environmental-awareness.jpg used on input
  line 70.
 (pdftex.def)             Requested size: 203.83417pt x 356.72607pt.
- [140
+ [146
 
  <./img/source/science-for-all.jpg> <./img/source/target-groups.jpg>]
-<./img/source/wildlife.jpg, id=3691, 205.5178pt x 407.27156pt>
+<./img/source/wildlife.jpg, id=3741, 205.5178pt x 407.27156pt>
 File: ./img/source/wildlife.jpg Graphic file (type jpg)
 
 <use ./img/source/wildlife.jpg>
 Package pdftex.def Info: ./img/source/wildlife.jpg used on input line 104.
 (pdftex.def)             Requested size: 203.83417pt x 403.93338pt.
 
-<./img/source/science-health.jpg, id=3692, 224.33812pt x 389.20406pt>
+<./img/source/science-health.jpg, id=3742, 224.33812pt x 389.20406pt>
 File: ./img/source/science-health.jpg Graphic file (type jpg)
 
 <use ./img/source/science-health.jpg>
@@ -4078,8 +4100,8 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[141 <./img/source/environmental-awareness.jpg> <./img/source/wildlife.jpg>])
-(./tex/activity-template.tex [142 <./img/source/science-health.jpg>]
+[147 <./img/source/environmental-awareness.jpg> <./img/source/wildlife.jpg>])
+(./tex/activity-template.tex [148 <./img/source/science-health.jpg>]
 Appendix H.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -4101,31 +4123,31 @@ Overfull \hbox (9.82341pt too wide) in paragraph at lines 9--47
  [] 
  []
 
-) [143
+) [149
 
-] (./shika-phys.ind [144
+] (./shika-phys.ind [150
 
 
-] [145] [146
+] [151] [152
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
  (./shika-phys.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
 Package rerunfilecheck Info: File `shika-phys.out' has not changed.
-(rerunfilecheck)             Checksum: A692E6691858BB91403A2F90FF1E3D8A;34920.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
+(rerunfilecheck)             Checksum: B493E68D49D2FE96B3729331EA95E2FE;35108.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
- 10597 strings out of 493315
- 183466 string characters out of 6141455
- 251580 words of memory out of 5000000
- 12746 multiletter control sequences out of 15000+600000
+ 10624 strings out of 493315
+ 183859 string characters out of 6141455
+ 251589 words of memory out of 5000000
+ 12749 multiletter control sequences out of 15000+600000
  9486 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,12n,51p,779b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,51p,1328b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2013
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2013/texmf-d
@@ -4133,16 +4155,17 @@ ist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2013/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmmi7.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/
-texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2
-013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2013/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2013/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmtt10.pfb>
-Output written on shika-phys.pdf (146 pages, 10381947 bytes).
+12.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:
+/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2013/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2013/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2013/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmtt10.pfb>
+Output written on shika-phys.pdf (152 pages, 11116823 bytes).
 PDF statistics:
- 4186 PDF objects out of 4296 (max. 8388607)
- 3467 compressed objects within 35 object streams
- 705 named destinations out of 1000 (max. 500000)
- 5691 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4239 PDF objects out of 4296 (max. 8388607)
+ 3512 compressed objects within 36 object streams
+ 717 named destinations out of 1000 (max. 500000)
+ 5715 words of extra memory for PDF output out of 10000 (max. 10000000)
 
